@@ -1,0 +1,18 @@
+# 本文件的作用是：声明版本控制需要忽略的本地缓存、构建产物和运行数据。
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+dist/
+coverage/
+.env
+backend/.env
+frontend/.env
+backend/storage/uploads/*
+!backend/storage/uploads/.gitkeep
+release/
+release-exe/
+build/

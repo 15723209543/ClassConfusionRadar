@@ -1,0 +1,275 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,组件状态-练习,cpp,success,,,11.9
+S001,测试学生001,属性传递-练习,cpp,success,,,28.6
+S001,测试学生001,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.5
+S001,测试学生001,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.3
+S001,测试学生001,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,49.1
+S001,测试学生001,状态提升-练习,cpp,wrong_answer,BoundaryCondition,状态提升 检查失败,64.4
+S001,测试学生001,渲染优化-练习,cpp,success,,,83.2
+S002,测试学生002,组件状态-练习,cpp,success,,,10.4
+S002,测试学生002,属性传递-练习,cpp,success,,,29.2
+S002,测试学生002,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.0
+S002,测试学生002,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.1
+S002,测试学生002,状态提升-练习,cpp,success,,,65.4
+S002,测试学生002,渲染优化-练习,cpp,success,,,82.4
+S003,测试学生003,组件状态-练习,cpp,success,,,10.6
+S003,测试学生003,属性传递-练习,cpp,wrong_answer,WrongAnswer,属性传递 检查失败,29.2
+S003,测试学生003,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.7
+S003,测试学生003,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.2
+S003,测试学生003,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.9
+S003,测试学生003,状态提升-练习,cpp,success,,,64.5
+S003,测试学生003,渲染优化-练习,cpp,success,,,82.1
+S004,测试学生004,组件状态-练习,cpp,success,,,10.3
+S004,测试学生004,属性传递-练习,cpp,success,,,28.2
+S004,测试学生004,副作用-练习,cpp,success,,,46.8
+S004,测试学生004,状态提升-练习,cpp,success,,,64.5
+S004,测试学生004,渲染优化-练习,cpp,success,,,82.7
+S005,测试学生005,组件状态-练习,cpp,success,,,11.6
+S005,测试学生005,属性传递-练习,cpp,success,,,28.3
+S005,测试学生005,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.3
+S005,测试学生005,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.3
+S005,测试学生005,状态提升-练习,cpp,wrong_answer,WrongAnswer,状态提升 检查失败,65.3
+S005,测试学生005,渲染优化-练习,cpp,success,,,82.4
+S006,测试学生006,组件状态-练习,cpp,success,,,10.6
+S006,测试学生006,属性传递-练习,cpp,wrong_answer,BoundaryCondition,属性传递 检查失败,29.2
+S006,测试学生006,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.2
+S006,测试学生006,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.1
+S006,测试学生006,状态提升-练习,cpp,success,,,65.8
+S006,测试学生006,渲染优化-练习,cpp,success,,,82.1
+S007,测试学生007,组件状态-练习,cpp,success,,,11.5
+S007,测试学生007,属性传递-练习,cpp,success,,,29.1
+S007,测试学生007,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.1
+S007,测试学生007,状态提升-练习,cpp,success,,,64.7
+S007,测试学生007,渲染优化-练习,cpp,success,,,82.7
+S008,测试学生008,组件状态-练习,cpp,success,,,10.0
+S008,测试学生008,属性传递-练习,cpp,wrong_answer,WrongAnswer,属性传递 检查失败,28.7
+S008,测试学生008,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.7
+S008,测试学生008,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.4
+S008,测试学生008,状态提升-练习,cpp,success,,,64.9
+S008,测试学生008,渲染优化-练习,cpp,success,,,82.5
+S009,测试学生009,组件状态-练习,cpp,success,,,10.6
+S009,测试学生009,属性传递-练习,cpp,success,,,28.1
+S009,测试学生009,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.5
+S009,测试学生009,状态提升-练习,cpp,success,,,65.0
+S009,测试学生009,渲染优化-练习,cpp,success,,,83.1
+S010,测试学生010,组件状态-练习,cpp,wrong_answer,StateUpdate,组件状态 检查失败,11.0
+S010,测试学生010,属性传递-练习,cpp,success,,,29.4
+S010,测试学生010,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.5
+S010,测试学生010,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.0
+S010,测试学生010,状态提升-练习,cpp,success,,,64.5
+S010,测试学生010,渲染优化-练习,cpp,success,,,83.6
+S011,测试学生011,组件状态-练习,cpp,success,,,10.3
+S011,测试学生011,属性传递-练习,cpp,wrong_answer,BoundaryCondition,属性传递 检查失败,29.7
+S011,测试学生011,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.7
+S011,测试学生011,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.2
+S011,测试学生011,状态提升-练习,cpp,success,,,64.9
+S011,测试学生011,渲染优化-练习,cpp,success,,,83.2
+S012,测试学生012,组件状态-练习,cpp,wrong_answer,SyntaxError,组件状态 检查失败,10.6
+S012,测试学生012,属性传递-练习,cpp,success,,,29.5
+S012,测试学生012,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.3
+S012,测试学生012,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.0
+S012,测试学生012,状态提升-练习,cpp,success,,,64.7
+S012,测试学生012,渲染优化-练习,cpp,success,,,83.6
+S013,测试学生013,组件状态-练习,cpp,success,,,11.2
+S013,测试学生013,属性传递-练习,cpp,success,,,28.4
+S013,测试学生013,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.4
+S013,测试学生013,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.2
+S013,测试学生013,状态提升-练习,cpp,success,,,65.3
+S013,测试学生013,渲染优化-练习,cpp,success,,,82.1
+S014,测试学生014,组件状态-练习,cpp,success,,,11.1
+S014,测试学生014,属性传递-练习,cpp,wrong_answer,WrongAnswer,属性传递 检查失败,28.7
+S014,测试学生014,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.6
+S014,测试学生014,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.1
+S014,测试学生014,状态提升-练习,cpp,success,,,65.8
+S014,测试学生014,渲染优化-练习,cpp,success,,,83.6
+S015,测试学生015,组件状态-练习,cpp,success,,,10.8
+S015,测试学生015,属性传递-练习,cpp,success,,,28.8
+S015,测试学生015,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.5
+S015,测试学生015,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.3
+S015,测试学生015,状态提升-练习,cpp,success,,,64.1
+S015,测试学生015,渲染优化-练习,cpp,success,,,83.8
+S016,测试学生016,组件状态-练习,cpp,success,,,11.9
+S016,测试学生016,属性传递-练习,cpp,success,,,29.7
+S016,测试学生016,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.7
+S016,测试学生016,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.3
+S016,测试学生016,状态提升-练习,cpp,success,,,64.5
+S016,测试学生016,渲染优化-练习,cpp,wrong_answer,SyntaxError,渲染优化 检查失败,83.8
+S017,测试学生017,组件状态-练习,cpp,success,,,10.3
+S017,测试学生017,属性传递-练习,cpp,wrong_answer,StateUpdate,属性传递 检查失败,28.5
+S017,测试学生017,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.7
+S017,测试学生017,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.2
+S017,测试学生017,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,49.1
+S017,测试学生017,状态提升-练习,cpp,success,,,64.0
+S017,测试学生017,渲染优化-练习,cpp,success,,,83.2
+S018,测试学生018,组件状态-练习,cpp,success,,,10.1
+S018,测试学生018,属性传递-练习,cpp,wrong_answer,WrongAnswer,属性传递 检查失败,29.0
+S018,测试学生018,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.9
+S018,测试学生018,状态提升-练习,cpp,success,,,65.9
+S018,测试学生018,渲染优化-练习,cpp,success,,,82.7
+S019,测试学生019,组件状态-练习,cpp,success,,,10.8
+S019,测试学生019,属性传递-练习,cpp,success,,,28.1
+S019,测试学生019,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.9
+S019,测试学生019,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.3
+S019,测试学生019,状态提升-练习,cpp,success,,,64.6
+S019,测试学生019,渲染优化-练习,cpp,success,,,82.7
+S020,测试学生020,组件状态-练习,cpp,wrong_answer,StateUpdate,组件状态 检查失败,11.7
+S020,测试学生020,属性传递-练习,cpp,success,,,28.4
+S020,测试学生020,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.7
+S020,测试学生020,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.1
+S020,测试学生020,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,49.0
+S020,测试学生020,状态提升-练习,cpp,success,,,64.2
+S020,测试学生020,渲染优化-练习,cpp,success,,,83.4
+S021,测试学生021,组件状态-练习,cpp,success,,,11.4
+S021,测试学生021,属性传递-练习,cpp,success,,,28.2
+S021,测试学生021,副作用-练习,cpp,success,,,46.9
+S021,测试学生021,状态提升-练习,cpp,success,,,65.8
+S021,测试学生021,渲染优化-练习,cpp,success,,,82.7
+S022,测试学生022,组件状态-练习,cpp,success,,,11.5
+S022,测试学生022,属性传递-练习,cpp,success,,,28.1
+S022,测试学生022,副作用-练习,cpp,success,,,47.4
+S022,测试学生022,状态提升-练习,cpp,wrong_answer,RuntimeError,状态提升 检查失败,64.9
+S022,测试学生022,渲染优化-练习,cpp,success,,,82.6
+S023,测试学生023,组件状态-练习,cpp,success,,,11.7
+S023,测试学生023,属性传递-练习,cpp,success,,,29.7
+S023,测试学生023,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.9
+S023,测试学生023,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.3
+S023,测试学生023,状态提升-练习,cpp,success,,,65.4
+S023,测试学生023,渲染优化-练习,cpp,wrong_answer,WrongAnswer,渲染优化 检查失败,83.9
+S024,测试学生024,组件状态-练习,cpp,success,,,11.1
+S024,测试学生024,属性传递-练习,cpp,success,,,28.9
+S024,测试学生024,副作用-练习,cpp,success,,,47.2
+S024,测试学生024,状态提升-练习,cpp,success,,,66.0
+S024,测试学生024,渲染优化-练习,cpp,wrong_answer,SyntaxError,渲染优化 检查失败,82.9
+S025,测试学生025,组件状态-练习,cpp,success,,,10.2
+S025,测试学生025,属性传递-练习,cpp,wrong_answer,StateUpdate,属性传递 检查失败,28.6
+S025,测试学生025,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.5
+S025,测试学生025,状态提升-练习,cpp,wrong_answer,BoundaryCondition,状态提升 检查失败,65.6
+S025,测试学生025,渲染优化-练习,cpp,success,,,82.4
+S026,测试学生026,组件状态-练习,cpp,success,,,10.9
+S026,测试学生026,属性传递-练习,cpp,wrong_answer,WrongAnswer,属性传递 检查失败,28.2
+S026,测试学生026,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.9
+S026,测试学生026,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.1
+S026,测试学生026,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.8
+S026,测试学生026,状态提升-练习,cpp,success,,,65.4
+S026,测试学生026,渲染优化-练习,cpp,success,,,82.3
+S027,测试学生027,组件状态-练习,cpp,wrong_answer,BoundaryCondition,组件状态 检查失败,10.0
+S027,测试学生027,属性传递-练习,cpp,success,,,28.6
+S027,测试学生027,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.5
+S027,测试学生027,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.3
+S027,测试学生027,状态提升-练习,cpp,success,,,65.5
+S027,测试学生027,渲染优化-练习,cpp,success,,,82.1
+S028,测试学生028,组件状态-练习,cpp,wrong_answer,RuntimeError,组件状态 检查失败,11.5
+S028,测试学生028,属性传递-练习,cpp,wrong_answer,WrongAnswer,属性传递 检查失败,29.3
+S028,测试学生028,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.8
+S028,测试学生028,状态提升-练习,cpp,wrong_answer,WrongAnswer,状态提升 检查失败,65.4
+S028,测试学生028,渲染优化-练习,cpp,success,,,82.5
+S029,测试学生029,组件状态-练习,cpp,success,,,11.7
+S029,测试学生029,属性传递-练习,cpp,success,,,28.1
+S029,测试学生029,副作用-练习,cpp,success,,,47.2
+S029,测试学生029,状态提升-练习,cpp,wrong_answer,RuntimeError,状态提升 检查失败,65.6
+S029,测试学生029,渲染优化-练习,cpp,success,,,83.9
+S030,测试学生030,组件状态-练习,cpp,success,,,11.9
+S030,测试学生030,属性传递-练习,cpp,wrong_answer,WrongAnswer,属性传递 检查失败,29.3
+S030,测试学生030,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.8
+S030,测试学生030,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.0
+S030,测试学生030,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,49.1
+S030,测试学生030,状态提升-练习,cpp,success,,,64.1
+S030,测试学生030,渲染优化-练习,cpp,success,,,83.7
+S031,测试学生031,组件状态-练习,cpp,wrong_answer,RuntimeError,组件状态 检查失败,10.6
+S031,测试学生031,属性传递-练习,cpp,success,,,28.7
+S031,测试学生031,副作用-练习,cpp,success,,,46.2
+S031,测试学生031,状态提升-练习,cpp,success,,,64.7
+S031,测试学生031,渲染优化-练习,cpp,success,,,83.0
+S032,测试学生032,组件状态-练习,cpp,success,,,10.7
+S032,测试学生032,属性传递-练习,cpp,success,,,28.4
+S032,测试学生032,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.1
+S032,测试学生032,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.3
+S032,测试学生032,状态提升-练习,cpp,success,,,64.7
+S032,测试学生032,渲染优化-练习,cpp,wrong_answer,StateUpdate,渲染优化 检查失败,83.3
+S033,测试学生033,组件状态-练习,cpp,success,,,12.0
+S033,测试学生033,属性传递-练习,cpp,success,,,28.3
+S033,测试学生033,副作用-练习,cpp,success,,,46.4
+S033,测试学生033,状态提升-练习,cpp,success,,,65.1
+S033,测试学生033,渲染优化-练习,cpp,success,,,83.7
+S034,测试学生034,组件状态-练习,cpp,success,,,12.0
+S034,测试学生034,属性传递-练习,cpp,wrong_answer,SyntaxError,属性传递 检查失败,29.2
+S034,测试学生034,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.7
+S034,测试学生034,状态提升-练习,cpp,success,,,65.0
+S034,测试学生034,渲染优化-练习,cpp,wrong_answer,BoundaryCondition,渲染优化 检查失败,84.0
+S035,测试学生035,组件状态-练习,cpp,success,,,11.9
+S035,测试学生035,属性传递-练习,cpp,success,,,28.4
+S035,测试学生035,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.0
+S035,测试学生035,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.3
+S035,测试学生035,状态提升-练习,cpp,success,,,65.5
+S035,测试学生035,渲染优化-练习,cpp,wrong_answer,BoundaryCondition,渲染优化 检查失败,83.4
+S036,测试学生036,组件状态-练习,cpp,success,,,11.4
+S036,测试学生036,属性传递-练习,cpp,success,,,29.0
+S036,测试学生036,副作用-练习,cpp,success,,,46.7
+S036,测试学生036,状态提升-练习,cpp,success,,,65.9
+S036,测试学生036,渲染优化-练习,cpp,success,,,82.4
+S037,测试学生037,组件状态-练习,cpp,success,,,11.0
+S037,测试学生037,属性传递-练习,cpp,success,,,29.5
+S037,测试学生037,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.0
+S037,测试学生037,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.0
+S037,测试学生037,状态提升-练习,cpp,success,,,65.4
+S037,测试学生037,渲染优化-练习,cpp,success,,,82.0
+S038,测试学生038,组件状态-练习,cpp,success,,,11.4
+S038,测试学生038,属性传递-练习,cpp,wrong_answer,WrongAnswer,属性传递 检查失败,29.9
+S038,测试学生038,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.1
+S038,测试学生038,状态提升-练习,cpp,success,,,65.1
+S038,测试学生038,渲染优化-练习,cpp,success,,,83.6
+S039,测试学生039,组件状态-练习,cpp,success,,,10.3
+S039,测试学生039,属性传递-练习,cpp,success,,,28.7
+S039,测试学生039,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.4
+S039,测试学生039,状态提升-练习,cpp,success,,,65.5
+S039,测试学生039,渲染优化-练习,cpp,success,,,83.5
+S040,测试学生040,组件状态-练习,cpp,success,,,10.4
+S040,测试学生040,属性传递-练习,cpp,success,,,29.6
+S040,测试学生040,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.9
+S040,测试学生040,状态提升-练习,cpp,success,,,65.3
+S040,测试学生040,渲染优化-练习,cpp,wrong_answer,BoundaryCondition,渲染优化 检查失败,83.5
+S041,测试学生041,组件状态-练习,cpp,success,,,10.9
+S041,测试学生041,属性传递-练习,cpp,success,,,28.7
+S041,测试学生041,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.4
+S041,测试学生041,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.3
+S041,测试学生041,状态提升-练习,cpp,wrong_answer,WrongAnswer,状态提升 检查失败,65.1
+S041,测试学生041,渲染优化-练习,cpp,success,,,82.3
+S042,测试学生042,组件状态-练习,cpp,success,,,10.9
+S042,测试学生042,属性传递-练习,cpp,success,,,28.3
+S042,测试学生042,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.5
+S042,测试学生042,状态提升-练习,cpp,success,,,64.3
+S042,测试学生042,渲染优化-练习,cpp,success,,,83.6
+S043,测试学生043,组件状态-练习,cpp,wrong_answer,WrongAnswer,组件状态 检查失败,10.4
+S043,测试学生043,属性传递-练习,cpp,success,,,30.0
+S043,测试学生043,副作用-练习,cpp,success,,,46.2
+S043,测试学生043,状态提升-练习,cpp,success,,,65.9
+S043,测试学生043,渲染优化-练习,cpp,success,,,83.7
+S044,测试学生044,组件状态-练习,cpp,success,,,11.8
+S044,测试学生044,属性传递-练习,cpp,success,,,28.3
+S044,测试学生044,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.5
+S044,测试学生044,状态提升-练习,cpp,success,,,64.6
+S044,测试学生044,渲染优化-练习,cpp,success,,,83.1
+S045,测试学生045,组件状态-练习,cpp,success,,,10.5
+S045,测试学生045,属性传递-练习,cpp,success,,,29.7
+S045,测试学生045,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,47.2
+S045,测试学生045,状态提升-练习,cpp,success,,,65.8
+S045,测试学生045,渲染优化-练习,cpp,success,,,82.3
+S046,测试学生046,组件状态-练习,cpp,success,,,11.0
+S046,测试学生046,属性传递-练习,cpp,success,,,29.5
+S046,测试学生046,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.9
+S046,测试学生046,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.1
+S046,测试学生046,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,49.2
+S046,测试学生046,状态提升-练习,cpp,success,,,65.8
+S046,测试学生046,渲染优化-练习,cpp,success,,,82.7
+S047,测试学生047,组件状态-练习,cpp,success,,,10.6
+S047,测试学生047,属性传递-练习,cpp,success,,,28.2
+S047,测试学生047,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.8
+S047,测试学生047,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.1
+S047,测试学生047,状态提升-练习,cpp,success,,,64.0
+S047,测试学生047,渲染优化-练习,cpp,wrong_answer,RuntimeError,渲染优化 检查失败,82.9
+S048,测试学生048,组件状态-练习,cpp,success,,,11.8
+S048,测试学生048,属性传递-练习,cpp,success,,,28.2
+S048,测试学生048,副作用-练习,cpp,wrong_answer,EffectDependency,副作用 检查失败,46.4
+S048,测试学生048,副作用-练习,cpp,wrong_answer,EffectDependency,重复出现 EffectDependency,48.0
+S048,测试学生048,状态提升-练习,cpp,success,,,65.4
+S048,测试学生048,渲染优化-练习,cpp,wrong_answer,BoundaryCondition,渲染优化 检查失败,83.5

@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "15 软件工程 设计模式",
+    "course_type": "软件工程",
+    "class_date": "2026-09-16",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "单一职责",
+      "topic_area": "软件工程",
+      "display_order": 1
+    },
+    {
+      "name": "工厂模式",
+      "topic_area": "软件工程",
+      "display_order": 2
+    },
+    {
+      "name": "观察者模式",
+      "topic_area": "软件工程",
+      "display_order": 3
+    },
+    {
+      "name": "策略模式",
+      "topic_area": "软件工程",
+      "display_order": 4
+    },
+    {
+      "name": "依赖倒置",
+      "topic_area": "软件工程",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "依赖倒置"
+}

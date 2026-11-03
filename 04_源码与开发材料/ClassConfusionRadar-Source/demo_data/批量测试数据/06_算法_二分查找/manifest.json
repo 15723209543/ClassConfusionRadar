@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "06 算法 二分查找",
+    "course_type": "算法设计",
+    "class_date": "2026-09-07",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "有序性",
+      "topic_area": "算法设计",
+      "display_order": 1
+    },
+    {
+      "name": "区间定义",
+      "topic_area": "算法设计",
+      "display_order": 2
+    },
+    {
+      "name": "中点计算",
+      "topic_area": "算法设计",
+      "display_order": 3
+    },
+    {
+      "name": "边界更新",
+      "topic_area": "算法设计",
+      "display_order": 4
+    },
+    {
+      "name": "复杂度",
+      "topic_area": "算法设计",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "边界更新"
+}

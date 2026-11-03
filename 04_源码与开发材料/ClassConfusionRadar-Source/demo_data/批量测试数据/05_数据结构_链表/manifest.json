@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "05 数据结构 链表",
+    "course_type": "数据结构",
+    "class_date": "2026-09-06",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "结点结构",
+      "topic_area": "数据结构",
+      "display_order": 1
+    },
+    {
+      "name": "链表插入",
+      "topic_area": "数据结构",
+      "display_order": 2
+    },
+    {
+      "name": "链表删除",
+      "topic_area": "数据结构",
+      "display_order": 3
+    },
+    {
+      "name": "头结点",
+      "topic_area": "数据结构",
+      "display_order": 4
+    },
+    {
+      "name": "内存释放",
+      "topic_area": "数据结构",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "链表删除"
+}

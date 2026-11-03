@@ -1,0 +1,271 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,事务特性-练习,cpp,success,,,10.5
+S001,测试学生001,并发异常-练习,cpp,success,,,29.6
+S001,测试学生001,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.3
+S001,测试学生001,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.3
+S001,测试学生001,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.9
+S001,测试学生001,锁机制-练习,cpp,success,,,64.8
+S001,测试学生001,日志恢复-练习,cpp,success,,,83.2
+S002,测试学生002,事务特性-练习,cpp,success,,,10.5
+S002,测试学生002,并发异常-练习,cpp,success,,,28.6
+S002,测试学生002,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.0
+S002,测试学生002,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.2
+S002,测试学生002,锁机制-练习,cpp,wrong_answer,BoundaryCondition,锁机制 检查失败,64.8
+S002,测试学生002,日志恢复-练习,cpp,success,,,82.9
+S003,测试学生003,事务特性-练习,cpp,wrong_answer,StateUpdate,事务特性 检查失败,10.7
+S003,测试学生003,并发异常-练习,cpp,success,,,28.2
+S003,测试学生003,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.9
+S003,测试学生003,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.0
+S003,测试学生003,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.9
+S003,测试学生003,锁机制-练习,cpp,success,,,64.6
+S003,测试学生003,日志恢复-练习,cpp,success,,,83.0
+S004,测试学生004,事务特性-练习,cpp,success,,,11.1
+S004,测试学生004,并发异常-练习,cpp,wrong_answer,BoundaryCondition,并发异常 检查失败,28.9
+S004,测试学生004,隔离级别-练习,cpp,success,,,46.4
+S004,测试学生004,锁机制-练习,cpp,wrong_answer,SyntaxError,锁机制 检查失败,64.5
+S004,测试学生004,日志恢复-练习,cpp,success,,,82.3
+S005,测试学生005,事务特性-练习,cpp,success,,,11.3
+S005,测试学生005,并发异常-练习,cpp,success,,,29.7
+S005,测试学生005,隔离级别-练习,cpp,success,,,46.1
+S005,测试学生005,锁机制-练习,cpp,success,,,64.1
+S005,测试学生005,日志恢复-练习,cpp,success,,,82.3
+S006,测试学生006,事务特性-练习,cpp,success,,,10.6
+S006,测试学生006,并发异常-练习,cpp,success,,,29.1
+S006,测试学生006,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.2
+S006,测试学生006,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.1
+S006,测试学生006,锁机制-练习,cpp,success,,,65.6
+S006,测试学生006,日志恢复-练习,cpp,success,,,82.1
+S007,测试学生007,事务特性-练习,cpp,success,,,11.9
+S007,测试学生007,并发异常-练习,cpp,success,,,29.9
+S007,测试学生007,隔离级别-练习,cpp,success,,,46.1
+S007,测试学生007,锁机制-练习,cpp,wrong_answer,WrongAnswer,锁机制 检查失败,65.4
+S007,测试学生007,日志恢复-练习,cpp,success,,,83.3
+S008,测试学生008,事务特性-练习,cpp,success,,,10.2
+S008,测试学生008,并发异常-练习,cpp,success,,,28.1
+S008,测试学生008,隔离级别-练习,cpp,success,,,47.1
+S008,测试学生008,锁机制-练习,cpp,success,,,64.3
+S008,测试学生008,日志恢复-练习,cpp,success,,,82.5
+S009,测试学生009,事务特性-练习,cpp,success,,,10.4
+S009,测试学生009,并发异常-练习,cpp,success,,,28.0
+S009,测试学生009,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.7
+S009,测试学生009,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.2
+S009,测试学生009,锁机制-练习,cpp,wrong_answer,StateUpdate,锁机制 检查失败,65.6
+S009,测试学生009,日志恢复-练习,cpp,success,,,83.1
+S010,测试学生010,事务特性-练习,cpp,success,,,11.2
+S010,测试学生010,并发异常-练习,cpp,success,,,28.2
+S010,测试学生010,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.7
+S010,测试学生010,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.3
+S010,测试学生010,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,49.0
+S010,测试学生010,锁机制-练习,cpp,success,,,64.9
+S010,测试学生010,日志恢复-练习,cpp,success,,,82.3
+S011,测试学生011,事务特性-练习,cpp,success,,,11.6
+S011,测试学生011,并发异常-练习,cpp,success,,,28.3
+S011,测试学生011,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.6
+S011,测试学生011,锁机制-练习,cpp,success,,,65.6
+S011,测试学生011,日志恢复-练习,cpp,success,,,83.0
+S012,测试学生012,事务特性-练习,cpp,success,,,11.0
+S012,测试学生012,并发异常-练习,cpp,success,,,29.0
+S012,测试学生012,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.3
+S012,测试学生012,锁机制-练习,cpp,success,,,65.5
+S012,测试学生012,日志恢复-练习,cpp,success,,,82.4
+S013,测试学生013,事务特性-练习,cpp,success,,,10.7
+S013,测试学生013,并发异常-练习,cpp,success,,,28.3
+S013,测试学生013,隔离级别-练习,cpp,success,,,47.3
+S013,测试学生013,锁机制-练习,cpp,wrong_answer,WrongAnswer,锁机制 检查失败,64.8
+S013,测试学生013,日志恢复-练习,cpp,success,,,82.8
+S014,测试学生014,事务特性-练习,cpp,success,,,11.8
+S014,测试学生014,并发异常-练习,cpp,success,,,28.3
+S014,测试学生014,隔离级别-练习,cpp,success,,,46.0
+S014,测试学生014,锁机制-练习,cpp,wrong_answer,SyntaxError,锁机制 检查失败,65.4
+S014,测试学生014,日志恢复-练习,cpp,success,,,83.1
+S015,测试学生015,事务特性-练习,cpp,success,,,10.8
+S015,测试学生015,并发异常-练习,cpp,success,,,29.0
+S015,测试学生015,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.4
+S015,测试学生015,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.3
+S015,测试学生015,锁机制-练习,cpp,success,,,64.7
+S015,测试学生015,日志恢复-练习,cpp,wrong_answer,SyntaxError,日志恢复 检查失败,83.8
+S016,测试学生016,事务特性-练习,cpp,success,,,11.5
+S016,测试学生016,并发异常-练习,cpp,success,,,28.8
+S016,测试学生016,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.3
+S016,测试学生016,锁机制-练习,cpp,success,,,65.3
+S016,测试学生016,日志恢复-练习,cpp,wrong_answer,WrongAnswer,日志恢复 检查失败,82.6
+S017,测试学生017,事务特性-练习,cpp,success,,,10.6
+S017,测试学生017,并发异常-练习,cpp,success,,,28.5
+S017,测试学生017,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.9
+S017,测试学生017,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.3
+S017,测试学生017,锁机制-练习,cpp,success,,,65.5
+S017,测试学生017,日志恢复-练习,cpp,success,,,83.6
+S018,测试学生018,事务特性-练习,cpp,success,,,10.9
+S018,测试学生018,并发异常-练习,cpp,success,,,29.7
+S018,测试学生018,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.9
+S018,测试学生018,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.3
+S018,测试学生018,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,49.0
+S018,测试学生018,锁机制-练习,cpp,success,,,65.2
+S018,测试学生018,日志恢复-练习,cpp,success,,,83.9
+S019,测试学生019,事务特性-练习,cpp,success,,,11.8
+S019,测试学生019,并发异常-练习,cpp,success,,,28.1
+S019,测试学生019,隔离级别-练习,cpp,success,,,46.8
+S019,测试学生019,锁机制-练习,cpp,success,,,64.4
+S019,测试学生019,日志恢复-练习,cpp,success,,,83.6
+S020,测试学生020,事务特性-练习,cpp,success,,,10.1
+S020,测试学生020,并发异常-练习,cpp,success,,,29.3
+S020,测试学生020,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.7
+S020,测试学生020,锁机制-练习,cpp,wrong_answer,BoundaryCondition,锁机制 检查失败,64.6
+S020,测试学生020,日志恢复-练习,cpp,wrong_answer,SyntaxError,日志恢复 检查失败,82.8
+S021,测试学生021,事务特性-练习,cpp,success,,,10.3
+S021,测试学生021,并发异常-练习,cpp,success,,,28.3
+S021,测试学生021,隔离级别-练习,cpp,success,,,47.1
+S021,测试学生021,锁机制-练习,cpp,success,,,65.5
+S021,测试学生021,日志恢复-练习,cpp,wrong_answer,BoundaryCondition,日志恢复 检查失败,83.6
+S022,测试学生022,事务特性-练习,cpp,success,,,11.3
+S022,测试学生022,并发异常-练习,cpp,wrong_answer,SyntaxError,并发异常 检查失败,29.8
+S022,测试学生022,隔离级别-练习,cpp,success,,,46.4
+S022,测试学生022,锁机制-练习,cpp,success,,,65.5
+S022,测试学生022,日志恢复-练习,cpp,success,,,83.1
+S023,测试学生023,事务特性-练习,cpp,success,,,10.1
+S023,测试学生023,并发异常-练习,cpp,wrong_answer,WrongAnswer,并发异常 检查失败,28.5
+S023,测试学生023,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.5
+S023,测试学生023,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.3
+S023,测试学生023,锁机制-练习,cpp,success,,,64.1
+S023,测试学生023,日志恢复-练习,cpp,wrong_answer,SyntaxError,日志恢复 检查失败,82.1
+S024,测试学生024,事务特性-练习,cpp,wrong_answer,BoundaryCondition,事务特性 检查失败,11.5
+S024,测试学生024,并发异常-练习,cpp,success,,,29.6
+S024,测试学生024,隔离级别-练习,cpp,success,,,47.5
+S024,测试学生024,锁机制-练习,cpp,success,,,65.0
+S024,测试学生024,日志恢复-练习,cpp,success,,,82.7
+S025,测试学生025,事务特性-练习,cpp,success,,,11.1
+S025,测试学生025,并发异常-练习,cpp,success,,,29.0
+S025,测试学生025,隔离级别-练习,cpp,success,,,46.9
+S025,测试学生025,锁机制-练习,cpp,wrong_answer,BoundaryCondition,锁机制 检查失败,65.0
+S025,测试学生025,日志恢复-练习,cpp,success,,,82.8
+S026,测试学生026,事务特性-练习,cpp,success,,,10.8
+S026,测试学生026,并发异常-练习,cpp,success,,,29.2
+S026,测试学生026,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.2
+S026,测试学生026,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.0
+S026,测试学生026,锁机制-练习,cpp,success,,,65.8
+S026,测试学生026,日志恢复-练习,cpp,success,,,83.5
+S027,测试学生027,事务特性-练习,cpp,success,,,11.8
+S027,测试学生027,并发异常-练习,cpp,success,,,28.3
+S027,测试学生027,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.8
+S027,测试学生027,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.2
+S027,测试学生027,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.9
+S027,测试学生027,锁机制-练习,cpp,success,,,65.7
+S027,测试学生027,日志恢复-练习,cpp,success,,,82.9
+S028,测试学生028,事务特性-练习,cpp,success,,,11.8
+S028,测试学生028,并发异常-练习,cpp,success,,,29.4
+S028,测试学生028,隔离级别-练习,cpp,success,,,47.7
+S028,测试学生028,锁机制-练习,cpp,success,,,65.3
+S028,测试学生028,日志恢复-练习,cpp,success,,,82.1
+S029,测试学生029,事务特性-练习,cpp,wrong_answer,StateUpdate,事务特性 检查失败,11.2
+S029,测试学生029,并发异常-练习,cpp,success,,,29.2
+S029,测试学生029,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.7
+S029,测试学生029,锁机制-练习,cpp,success,,,64.7
+S029,测试学生029,日志恢复-练习,cpp,success,,,82.7
+S030,测试学生030,事务特性-练习,cpp,success,,,10.8
+S030,测试学生030,并发异常-练习,cpp,success,,,28.4
+S030,测试学生030,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.4
+S030,测试学生030,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.4
+S030,测试学生030,锁机制-练习,cpp,wrong_answer,WrongAnswer,锁机制 检查失败,65.8
+S030,测试学生030,日志恢复-练习,cpp,success,,,82.6
+S031,测试学生031,事务特性-练习,cpp,success,,,10.1
+S031,测试学生031,并发异常-练习,cpp,success,,,29.8
+S031,测试学生031,隔离级别-练习,cpp,success,,,46.7
+S031,测试学生031,锁机制-练习,cpp,success,,,64.7
+S031,测试学生031,日志恢复-练习,cpp,success,,,83.8
+S032,测试学生032,事务特性-练习,cpp,success,,,10.9
+S032,测试学生032,并发异常-练习,cpp,success,,,28.4
+S032,测试学生032,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.0
+S032,测试学生032,锁机制-练习,cpp,success,,,64.0
+S032,测试学生032,日志恢复-练习,cpp,success,,,83.1
+S033,测试学生033,事务特性-练习,cpp,success,,,11.3
+S033,测试学生033,并发异常-练习,cpp,success,,,28.6
+S033,测试学生033,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.6
+S033,测试学生033,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.4
+S033,测试学生033,锁机制-练习,cpp,success,,,65.5
+S033,测试学生033,日志恢复-练习,cpp,success,,,83.8
+S034,测试学生034,事务特性-练习,cpp,success,,,10.0
+S034,测试学生034,并发异常-练习,cpp,wrong_answer,RuntimeError,并发异常 检查失败,29.0
+S034,测试学生034,隔离级别-练习,cpp,success,,,46.3
+S034,测试学生034,锁机制-练习,cpp,success,,,66.0
+S034,测试学生034,日志恢复-练习,cpp,success,,,83.4
+S035,测试学生035,事务特性-练习,cpp,success,,,10.3
+S035,测试学生035,并发异常-练习,cpp,success,,,29.4
+S035,测试学生035,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.4
+S035,测试学生035,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.3
+S035,测试学生035,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,49.1
+S035,测试学生035,锁机制-练习,cpp,success,,,64.5
+S035,测试学生035,日志恢复-练习,cpp,success,,,82.2
+S036,测试学生036,事务特性-练习,cpp,success,,,11.3
+S036,测试学生036,并发异常-练习,cpp,success,,,28.4
+S036,测试学生036,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.8
+S036,测试学生036,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.3
+S036,测试学生036,锁机制-练习,cpp,success,,,65.5
+S036,测试学生036,日志恢复-练习,cpp,wrong_answer,StateUpdate,日志恢复 检查失败,83.6
+S037,测试学生037,事务特性-练习,cpp,success,,,10.6
+S037,测试学生037,并发异常-练习,cpp,success,,,28.2
+S037,测试学生037,隔离级别-练习,cpp,success,,,46.5
+S037,测试学生037,锁机制-练习,cpp,success,,,64.5
+S037,测试学生037,日志恢复-练习,cpp,success,,,83.5
+S038,测试学生038,事务特性-练习,cpp,wrong_answer,SyntaxError,事务特性 检查失败,10.7
+S038,测试学生038,并发异常-练习,cpp,success,,,29.0
+S038,测试学生038,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.8
+S038,测试学生038,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.2
+S038,测试学生038,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.8
+S038,测试学生038,锁机制-练习,cpp,success,,,65.5
+S038,测试学生038,日志恢复-练习,cpp,success,,,83.3
+S039,测试学生039,事务特性-练习,cpp,success,,,11.5
+S039,测试学生039,并发异常-练习,cpp,success,,,28.6
+S039,测试学生039,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.2
+S039,测试学生039,锁机制-练习,cpp,success,,,65.0
+S039,测试学生039,日志恢复-练习,cpp,success,,,82.9
+S040,测试学生040,事务特性-练习,cpp,success,,,10.1
+S040,测试学生040,并发异常-练习,cpp,wrong_answer,WrongAnswer,并发异常 检查失败,29.6
+S040,测试学生040,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.7
+S040,测试学生040,锁机制-练习,cpp,success,,,64.4
+S040,测试学生040,日志恢复-练习,cpp,success,,,83.2
+S041,测试学生041,事务特性-练习,cpp,success,,,11.1
+S041,测试学生041,并发异常-练习,cpp,wrong_answer,WrongAnswer,并发异常 检查失败,29.8
+S041,测试学生041,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.9
+S041,测试学生041,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.1
+S041,测试学生041,锁机制-练习,cpp,success,,,65.1
+S041,测试学生041,日志恢复-练习,cpp,success,,,82.3
+S042,测试学生042,事务特性-练习,cpp,success,,,11.4
+S042,测试学生042,并发异常-练习,cpp,wrong_answer,WrongAnswer,并发异常 检查失败,29.0
+S042,测试学生042,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.0
+S042,测试学生042,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.0
+S042,测试学生042,锁机制-练习,cpp,success,,,65.8
+S042,测试学生042,日志恢复-练习,cpp,success,,,83.8
+S043,测试学生043,事务特性-练习,cpp,success,,,10.5
+S043,测试学生043,并发异常-练习,cpp,success,,,28.8
+S043,测试学生043,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.1
+S043,测试学生043,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.2
+S043,测试学生043,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,49.0
+S043,测试学生043,锁机制-练习,cpp,success,,,64.4
+S043,测试学生043,日志恢复-练习,cpp,success,,,82.2
+S044,测试学生044,事务特性-练习,cpp,success,,,10.6
+S044,测试学生044,并发异常-练习,cpp,success,,,29.7
+S044,测试学生044,隔离级别-练习,cpp,success,,,46.0
+S044,测试学生044,锁机制-练习,cpp,success,,,65.1
+S044,测试学生044,日志恢复-练习,cpp,success,,,83.4
+S045,测试学生045,事务特性-练习,cpp,wrong_answer,RuntimeError,事务特性 检查失败,11.0
+S045,测试学生045,并发异常-练习,cpp,success,,,29.6
+S045,测试学生045,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.7
+S045,测试学生045,锁机制-练习,cpp,success,,,65.8
+S045,测试学生045,日志恢复-练习,cpp,success,,,83.6
+S046,测试学生046,事务特性-练习,cpp,success,,,11.7
+S046,测试学生046,并发异常-练习,cpp,success,,,28.7
+S046,测试学生046,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.8
+S046,测试学生046,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.4
+S046,测试学生046,锁机制-练习,cpp,success,,,65.6
+S046,测试学生046,日志恢复-练习,cpp,success,,,83.0
+S047,测试学生047,事务特性-练习,cpp,success,,,11.2
+S047,测试学生047,并发异常-练习,cpp,success,,,28.5
+S047,测试学生047,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,46.7
+S047,测试学生047,隔离级别-练习,cpp,wrong_answer,IsolationViolation,重复出现 IsolationViolation,48.0
+S047,测试学生047,锁机制-练习,cpp,success,,,64.0
+S047,测试学生047,日志恢复-练习,cpp,success,,,82.4
+S048,测试学生048,事务特性-练习,cpp,success,,,11.9
+S048,测试学生048,并发异常-练习,cpp,success,,,30.0
+S048,测试学生048,隔离级别-练习,cpp,wrong_answer,IsolationViolation,隔离级别 检查失败,47.9
+S048,测试学生048,锁机制-练习,cpp,success,,,65.6
+S048,测试学生048,日志恢复-练习,cpp,success,,,82.8

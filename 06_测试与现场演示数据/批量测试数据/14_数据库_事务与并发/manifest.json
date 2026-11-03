@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "14 数据库 事务与并发",
+    "course_type": "数据库原理",
+    "class_date": "2026-09-15",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "事务特性",
+      "topic_area": "数据库原理",
+      "display_order": 1
+    },
+    {
+      "name": "并发异常",
+      "topic_area": "数据库原理",
+      "display_order": 2
+    },
+    {
+      "name": "隔离级别",
+      "topic_area": "数据库原理",
+      "display_order": 3
+    },
+    {
+      "name": "锁机制",
+      "topic_area": "数据库原理",
+      "display_order": 4
+    },
+    {
+      "name": "日志恢复",
+      "topic_area": "数据库原理",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "隔离级别"
+}

@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "12 操作系统 进程与线程",
+    "course_type": "操作系统",
+    "class_date": "2026-09-13",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "进程状态",
+      "topic_area": "操作系统",
+      "display_order": 1
+    },
+    {
+      "name": "线程模型",
+      "topic_area": "操作系统",
+      "display_order": 2
+    },
+    {
+      "name": "进程调度",
+      "topic_area": "操作系统",
+      "display_order": 3
+    },
+    {
+      "name": "同步互斥",
+      "topic_area": "操作系统",
+      "display_order": 4
+    },
+    {
+      "name": "死锁预防",
+      "topic_area": "操作系统",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "同步互斥"
+}

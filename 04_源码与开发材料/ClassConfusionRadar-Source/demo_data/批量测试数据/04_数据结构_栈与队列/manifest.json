@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "04 数据结构 栈与队列",
+    "course_type": "数据结构",
+    "class_date": "2026-09-05",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "栈操作",
+      "topic_area": "数据结构",
+      "display_order": 1
+    },
+    {
+      "name": "队列操作",
+      "topic_area": "数据结构",
+      "display_order": 2
+    },
+    {
+      "name": "循环队列",
+      "topic_area": "数据结构",
+      "display_order": 3
+    },
+    {
+      "name": "括号匹配",
+      "topic_area": "数据结构",
+      "display_order": 4
+    },
+    {
+      "name": "表达式求值",
+      "topic_area": "数据结构",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "循环队列"
+}

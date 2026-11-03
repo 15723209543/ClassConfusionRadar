@@ -1,0 +1,280 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,数组下标-练习,cpp,success,,,10.9
+S001,测试学生001,指针基础-练习,cpp,success,,,29.1
+S001,测试学生001,指针与数组-练习,cpp,success,,,47.0
+S001,测试学生001,字符串-练习,cpp,success,,,64.1
+S001,测试学生001,越界访问-练习,cpp,success,,,83.4
+S002,测试学生002,数组下标-练习,cpp,success,,,11.8
+S002,测试学生002,指针基础-练习,cpp,success,,,28.8
+S002,测试学生002,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.5
+S002,测试学生002,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.0
+S002,测试学生002,字符串-练习,cpp,success,,,65.9
+S002,测试学生002,越界访问-练习,cpp,success,,,82.5
+S003,测试学生003,数组下标-练习,cpp,success,,,11.8
+S003,测试学生003,指针基础-练习,cpp,success,,,28.8
+S003,测试学生003,指针与数组-练习,cpp,success,,,46.6
+S003,测试学生003,字符串-练习,cpp,success,,,64.3
+S003,测试学生003,越界访问-练习,cpp,success,,,83.7
+S004,测试学生004,数组下标-练习,cpp,success,,,10.9
+S004,测试学生004,指针基础-练习,cpp,success,,,28.6
+S004,测试学生004,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.3
+S004,测试学生004,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.1
+S004,测试学生004,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,49.2
+S004,测试学生004,字符串-练习,cpp,success,,,65.9
+S004,测试学生004,越界访问-练习,cpp,success,,,83.7
+S005,测试学生005,数组下标-练习,cpp,success,,,10.6
+S005,测试学生005,指针基础-练习,cpp,success,,,29.2
+S005,测试学生005,指针与数组-练习,cpp,success,,,47.9
+S005,测试学生005,字符串-练习,cpp,success,,,64.1
+S005,测试学生005,越界访问-练习,cpp,success,,,82.7
+S006,测试学生006,数组下标-练习,cpp,success,,,10.6
+S006,测试学生006,指针基础-练习,cpp,success,,,29.1
+S006,测试学生006,指针与数组-练习,cpp,success,,,48.0
+S006,测试学生006,字符串-练习,cpp,success,,,65.7
+S006,测试学生006,越界访问-练习,cpp,success,,,83.9
+S007,测试学生007,数组下标-练习,cpp,success,,,11.2
+S007,测试学生007,指针基础-练习,cpp,wrong_answer,StateUpdate,指针基础 检查失败,28.8
+S007,测试学生007,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.7
+S007,测试学生007,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.1
+S007,测试学生007,字符串-练习,cpp,success,,,65.6
+S007,测试学生007,越界访问-练习,cpp,success,,,83.1
+S008,测试学生008,数组下标-练习,cpp,success,,,10.2
+S008,测试学生008,指针基础-练习,cpp,success,,,28.1
+S008,测试学生008,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.2
+S008,测试学生008,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.2
+S008,测试学生008,字符串-练习,cpp,success,,,65.2
+S008,测试学生008,越界访问-练习,cpp,success,,,82.9
+S009,测试学生009,数组下标-练习,cpp,success,,,11.8
+S009,测试学生009,指针基础-练习,cpp,success,,,28.2
+S009,测试学生009,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.5
+S009,测试学生009,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.2
+S009,测试学生009,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.8
+S009,测试学生009,字符串-练习,cpp,success,,,65.6
+S009,测试学生009,越界访问-练习,cpp,success,,,83.2
+S010,测试学生010,数组下标-练习,cpp,success,,,10.2
+S010,测试学生010,指针基础-练习,cpp,success,,,28.4
+S010,测试学生010,指针与数组-练习,cpp,success,,,46.5
+S010,测试学生010,字符串-练习,cpp,success,,,65.0
+S010,测试学生010,越界访问-练习,cpp,success,,,83.5
+S011,测试学生011,数组下标-练习,cpp,success,,,10.2
+S011,测试学生011,指针基础-练习,cpp,success,,,28.3
+S011,测试学生011,指针与数组-练习,cpp,success,,,47.7
+S011,测试学生011,字符串-练习,cpp,success,,,65.7
+S011,测试学生011,越界访问-练习,cpp,success,,,82.3
+S012,测试学生012,数组下标-练习,cpp,success,,,10.4
+S012,测试学生012,指针基础-练习,cpp,success,,,29.6
+S012,测试学生012,指针与数组-练习,cpp,success,,,47.3
+S012,测试学生012,字符串-练习,cpp,success,,,65.6
+S012,测试学生012,越界访问-练习,cpp,success,,,82.6
+S013,测试学生013,数组下标-练习,cpp,success,,,10.7
+S013,测试学生013,指针基础-练习,cpp,success,,,28.4
+S013,测试学生013,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.3
+S013,测试学生013,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.4
+S013,测试学生013,字符串-练习,cpp,success,,,64.2
+S013,测试学生013,越界访问-练习,cpp,success,,,83.0
+S014,测试学生014,数组下标-练习,cpp,success,,,10.4
+S014,测试学生014,指针基础-练习,cpp,success,,,29.8
+S014,测试学生014,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.6
+S014,测试学生014,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.3
+S014,测试学生014,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,49.1
+S014,测试学生014,字符串-练习,cpp,success,,,64.1
+S014,测试学生014,越界访问-练习,cpp,success,,,83.9
+S015,测试学生015,数组下标-练习,cpp,success,,,11.4
+S015,测试学生015,指针基础-练习,cpp,success,,,29.6
+S015,测试学生015,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.4
+S015,测试学生015,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.1
+S015,测试学生015,字符串-练习,cpp,success,,,65.9
+S015,测试学生015,越界访问-练习,cpp,success,,,83.8
+S016,测试学生016,数组下标-练习,cpp,success,,,11.0
+S016,测试学生016,指针基础-练习,cpp,success,,,28.2
+S016,测试学生016,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.1
+S016,测试学生016,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.0
+S016,测试学生016,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,49.0
+S016,测试学生016,字符串-练习,cpp,success,,,64.2
+S016,测试学生016,越界访问-练习,cpp,wrong_answer,RuntimeError,越界访问 检查失败,84.0
+S017,测试学生017,数组下标-练习,cpp,success,,,11.6
+S017,测试学生017,指针基础-练习,cpp,wrong_answer,BoundaryCondition,指针基础 检查失败,28.4
+S017,测试学生017,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.8
+S017,测试学生017,字符串-练习,cpp,success,,,65.9
+S017,测试学生017,越界访问-练习,cpp,success,,,82.4
+S018,测试学生018,数组下标-练习,cpp,wrong_answer,StateUpdate,数组下标 检查失败,10.3
+S018,测试学生018,指针基础-练习,cpp,wrong_answer,SyntaxError,指针基础 检查失败,28.5
+S018,测试学生018,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.9
+S018,测试学生018,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.1
+S018,测试学生018,字符串-练习,cpp,success,,,65.0
+S018,测试学生018,越界访问-练习,cpp,wrong_answer,BoundaryCondition,越界访问 检查失败,83.9
+S019,测试学生019,数组下标-练习,cpp,success,,,10.1
+S019,测试学生019,指针基础-练习,cpp,success,,,29.9
+S019,测试学生019,指针与数组-练习,cpp,success,,,46.4
+S019,测试学生019,字符串-练习,cpp,success,,,64.3
+S019,测试学生019,越界访问-练习,cpp,success,,,82.7
+S020,测试学生020,数组下标-练习,cpp,success,,,11.4
+S020,测试学生020,指针基础-练习,cpp,success,,,29.6
+S020,测试学生020,指针与数组-练习,cpp,success,,,47.3
+S020,测试学生020,字符串-练习,cpp,success,,,66.0
+S020,测试学生020,越界访问-练习,cpp,success,,,82.9
+S021,测试学生021,数组下标-练习,cpp,success,,,11.2
+S021,测试学生021,指针基础-练习,cpp,success,,,29.6
+S021,测试学生021,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.6
+S021,测试学生021,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.0
+S021,测试学生021,字符串-练习,cpp,success,,,64.2
+S021,测试学生021,越界访问-练习,cpp,success,,,82.6
+S022,测试学生022,数组下标-练习,cpp,wrong_answer,SyntaxError,数组下标 检查失败,10.9
+S022,测试学生022,指针基础-练习,cpp,success,,,29.8
+S022,测试学生022,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.7
+S022,测试学生022,字符串-练习,cpp,success,,,65.5
+S022,测试学生022,越界访问-练习,cpp,success,,,83.7
+S023,测试学生023,数组下标-练习,cpp,success,,,10.9
+S023,测试学生023,指针基础-练习,cpp,wrong_answer,WrongAnswer,指针基础 检查失败,28.6
+S023,测试学生023,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.1
+S023,测试学生023,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.3
+S023,测试学生023,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.9
+S023,测试学生023,字符串-练习,cpp,success,,,65.5
+S023,测试学生023,越界访问-练习,cpp,success,,,83.9
+S024,测试学生024,数组下标-练习,cpp,success,,,10.6
+S024,测试学生024,指针基础-练习,cpp,success,,,28.0
+S024,测试学生024,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.5
+S024,测试学生024,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.3
+S024,测试学生024,字符串-练习,cpp,wrong_answer,BoundaryCondition,字符串 检查失败,65.8
+S024,测试学生024,越界访问-练习,cpp,success,,,82.5
+S025,测试学生025,数组下标-练习,cpp,wrong_answer,BoundaryCondition,数组下标 检查失败,10.1
+S025,测试学生025,指针基础-练习,cpp,success,,,29.5
+S025,测试学生025,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.3
+S025,测试学生025,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.2
+S025,测试学生025,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.8
+S025,测试学生025,字符串-练习,cpp,success,,,65.0
+S025,测试学生025,越界访问-练习,cpp,success,,,82.2
+S026,测试学生026,数组下标-练习,cpp,success,,,11.9
+S026,测试学生026,指针基础-练习,cpp,success,,,29.9
+S026,测试学生026,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.6
+S026,测试学生026,字符串-练习,cpp,wrong_answer,BoundaryCondition,字符串 检查失败,65.8
+S026,测试学生026,越界访问-练习,cpp,success,,,83.3
+S027,测试学生027,数组下标-练习,cpp,success,,,11.9
+S027,测试学生027,指针基础-练习,cpp,success,,,29.0
+S027,测试学生027,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.3
+S027,测试学生027,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.4
+S027,测试学生027,字符串-练习,cpp,success,,,64.9
+S027,测试学生027,越界访问-练习,cpp,wrong_answer,WrongAnswer,越界访问 检查失败,83.4
+S028,测试学生028,数组下标-练习,cpp,success,,,10.6
+S028,测试学生028,指针基础-练习,cpp,success,,,29.6
+S028,测试学生028,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.3
+S028,测试学生028,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.0
+S028,测试学生028,字符串-练习,cpp,success,,,64.2
+S028,测试学生028,越界访问-练习,cpp,success,,,83.1
+S029,测试学生029,数组下标-练习,cpp,success,,,10.6
+S029,测试学生029,指针基础-练习,cpp,success,,,28.6
+S029,测试学生029,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.2
+S029,测试学生029,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.1
+S029,测试学生029,字符串-练习,cpp,success,,,64.9
+S029,测试学生029,越界访问-练习,cpp,success,,,83.3
+S030,测试学生030,数组下标-练习,cpp,success,,,10.6
+S030,测试学生030,指针基础-练习,cpp,success,,,29.5
+S030,测试学生030,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.7
+S030,测试学生030,字符串-练习,cpp,wrong_answer,BoundaryCondition,字符串 检查失败,65.1
+S030,测试学生030,越界访问-练习,cpp,success,,,83.0
+S031,测试学生031,数组下标-练习,cpp,success,,,10.0
+S031,测试学生031,指针基础-练习,cpp,success,,,29.0
+S031,测试学生031,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.6
+S031,测试学生031,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.2
+S031,测试学生031,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,49.2
+S031,测试学生031,字符串-练习,cpp,success,,,64.9
+S031,测试学生031,越界访问-练习,cpp,wrong_answer,RuntimeError,越界访问 检查失败,82.6
+S032,测试学生032,数组下标-练习,cpp,success,,,11.0
+S032,测试学生032,指针基础-练习,cpp,success,,,29.2
+S032,测试学生032,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.5
+S032,测试学生032,字符串-练习,cpp,success,,,65.3
+S032,测试学生032,越界访问-练习,cpp,success,,,83.3
+S033,测试学生033,数组下标-练习,cpp,success,,,11.0
+S033,测试学生033,指针基础-练习,cpp,success,,,28.6
+S033,测试学生033,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.6
+S033,测试学生033,字符串-练习,cpp,success,,,65.7
+S033,测试学生033,越界访问-练习,cpp,success,,,83.3
+S034,测试学生034,数组下标-练习,cpp,success,,,10.8
+S034,测试学生034,指针基础-练习,cpp,success,,,28.5
+S034,测试学生034,指针与数组-练习,cpp,success,,,46.7
+S034,测试学生034,字符串-练习,cpp,success,,,64.4
+S034,测试学生034,越界访问-练习,cpp,success,,,83.2
+S035,测试学生035,数组下标-练习,cpp,success,,,11.2
+S035,测试学生035,指针基础-练习,cpp,success,,,28.8
+S035,测试学生035,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.6
+S035,测试学生035,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.1
+S035,测试学生035,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,49.1
+S035,测试学生035,字符串-练习,cpp,success,,,64.2
+S035,测试学生035,越界访问-练习,cpp,success,,,83.1
+S036,测试学生036,数组下标-练习,cpp,success,,,10.8
+S036,测试学生036,指针基础-练习,cpp,success,,,29.1
+S036,测试学生036,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.1
+S036,测试学生036,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.2
+S036,测试学生036,字符串-练习,cpp,success,,,65.0
+S036,测试学生036,越界访问-练习,cpp,success,,,82.8
+S037,测试学生037,数组下标-练习,cpp,success,,,11.0
+S037,测试学生037,指针基础-练习,cpp,success,,,29.3
+S037,测试学生037,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.4
+S037,测试学生037,字符串-练习,cpp,wrong_answer,SyntaxError,字符串 检查失败,65.3
+S037,测试学生037,越界访问-练习,cpp,success,,,83.4
+S038,测试学生038,数组下标-练习,cpp,success,,,10.1
+S038,测试学生038,指针基础-练习,cpp,success,,,28.5
+S038,测试学生038,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,48.0
+S038,测试学生038,字符串-练习,cpp,success,,,65.5
+S038,测试学生038,越界访问-练习,cpp,wrong_answer,SyntaxError,越界访问 检查失败,83.3
+S039,测试学生039,数组下标-练习,cpp,success,,,10.1
+S039,测试学生039,指针基础-练习,cpp,success,,,28.2
+S039,测试学生039,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.3
+S039,测试学生039,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.2
+S039,测试学生039,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,49.1
+S039,测试学生039,字符串-练习,cpp,wrong_answer,RuntimeError,字符串 检查失败,66.0
+S039,测试学生039,越界访问-练习,cpp,wrong_answer,RuntimeError,越界访问 检查失败,82.4
+S040,测试学生040,数组下标-练习,cpp,success,,,11.0
+S040,测试学生040,指针基础-练习,cpp,success,,,29.9
+S040,测试学生040,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.5
+S040,测试学生040,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.0
+S040,测试学生040,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.8
+S040,测试学生040,字符串-练习,cpp,wrong_answer,SyntaxError,字符串 检查失败,64.9
+S040,测试学生040,越界访问-练习,cpp,success,,,82.6
+S041,测试学生041,数组下标-练习,cpp,success,,,11.9
+S041,测试学生041,指针基础-练习,cpp,success,,,28.3
+S041,测试学生041,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.7
+S041,测试学生041,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.3
+S041,测试学生041,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.9
+S041,测试学生041,字符串-练习,cpp,success,,,64.6
+S041,测试学生041,越界访问-练习,cpp,success,,,82.2
+S042,测试学生042,数组下标-练习,cpp,success,,,11.3
+S042,测试学生042,指针基础-练习,cpp,success,,,28.2
+S042,测试学生042,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.8
+S042,测试学生042,字符串-练习,cpp,success,,,64.5
+S042,测试学生042,越界访问-练习,cpp,success,,,83.2
+S043,测试学生043,数组下标-练习,cpp,success,,,10.1
+S043,测试学生043,指针基础-练习,cpp,success,,,30.0
+S043,测试学生043,指针与数组-练习,cpp,success,,,46.6
+S043,测试学生043,字符串-练习,cpp,wrong_answer,WrongAnswer,字符串 检查失败,65.4
+S043,测试学生043,越界访问-练习,cpp,success,,,83.2
+S044,测试学生044,数组下标-练习,cpp,wrong_answer,BoundaryCondition,数组下标 检查失败,10.5
+S044,测试学生044,指针基础-练习,cpp,success,,,29.7
+S044,测试学生044,指针与数组-练习,cpp,success,,,47.9
+S044,测试学生044,字符串-练习,cpp,success,,,64.6
+S044,测试学生044,越界访问-练习,cpp,wrong_answer,BoundaryCondition,越界访问 检查失败,82.5
+S045,测试学生045,数组下标-练习,cpp,success,,,10.6
+S045,测试学生045,指针基础-练习,cpp,success,,,28.5
+S045,测试学生045,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,46.6
+S045,测试学生045,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.0
+S045,测试学生045,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,49.1
+S045,测试学生045,字符串-练习,cpp,success,,,65.0
+S045,测试学生045,越界访问-练习,cpp,success,,,83.6
+S046,测试学生046,数组下标-练习,cpp,success,,,10.7
+S046,测试学生046,指针基础-练习,cpp,success,,,28.9
+S046,测试学生046,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,47.7
+S046,测试学生046,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.1
+S046,测试学生046,字符串-练习,cpp,wrong_answer,StateUpdate,字符串 检查失败,64.1
+S046,测试学生046,越界访问-练习,cpp,success,,,84.0
+S047,测试学生047,数组下标-练习,cpp,wrong_answer,SyntaxError,数组下标 检查失败,10.4
+S047,测试学生047,指针基础-练习,cpp,success,,,28.2
+S047,测试学生047,指针与数组-练习,cpp,wrong_answer,SegmentationFault,指针与数组 检查失败,48.0
+S047,测试学生047,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,48.4
+S047,测试学生047,指针与数组-练习,cpp,wrong_answer,SegmentationFault,重复出现 SegmentationFault,49.1
+S047,测试学生047,字符串-练习,cpp,success,,,64.3
+S047,测试学生047,越界访问-练习,cpp,success,,,83.2
+S048,测试学生048,数组下标-练习,cpp,wrong_answer,WrongAnswer,数组下标 检查失败,11.1
+S048,测试学生048,指针基础-练习,cpp,success,,,29.5
+S048,测试学生048,指针与数组-练习,cpp,success,,,47.5
+S048,测试学生048,字符串-练习,cpp,success,,,65.8
+S048,测试学生048,越界访问-练习,cpp,success,,,83.1

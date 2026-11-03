@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "16 人工智能 搜索算法",
+    "course_type": "人工智能导论",
+    "class_date": "2026-09-17",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "状态空间",
+      "topic_area": "人工智能导论",
+      "display_order": 1
+    },
+    {
+      "name": "广度优先",
+      "topic_area": "人工智能导论",
+      "display_order": 2
+    },
+    {
+      "name": "深度优先",
+      "topic_area": "人工智能导论",
+      "display_order": 3
+    },
+    {
+      "name": "启发函数",
+      "topic_area": "人工智能导论",
+      "display_order": 4
+    },
+    {
+      "name": "A星搜索",
+      "topic_area": "人工智能导论",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "启发函数"
+}

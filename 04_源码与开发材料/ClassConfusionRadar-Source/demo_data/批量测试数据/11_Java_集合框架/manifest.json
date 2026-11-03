@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "11 Java 集合框架",
+    "course_type": "Java 程序设计",
+    "class_date": "2026-09-12",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "List 接口",
+      "topic_area": "Java 程序设计",
+      "display_order": 1
+    },
+    {
+      "name": "Set 集合",
+      "topic_area": "Java 程序设计",
+      "display_order": 2
+    },
+    {
+      "name": "Map 映射",
+      "topic_area": "Java 程序设计",
+      "display_order": 3
+    },
+    {
+      "name": "迭代器",
+      "topic_area": "Java 程序设计",
+      "display_order": 4
+    },
+    {
+      "name": "泛型约束",
+      "topic_area": "Java 程序设计",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "Map 映射"
+}

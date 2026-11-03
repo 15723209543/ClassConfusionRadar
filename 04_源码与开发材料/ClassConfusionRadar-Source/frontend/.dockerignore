@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.run-*.log
+.env
+tests/
+# 本文件的作用是：声明前端容器构建时不需要复制的文件。

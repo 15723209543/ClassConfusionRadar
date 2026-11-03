@@ -1,0 +1,55 @@
+# 本文件的作用是：编排项目容器、数据库与网络服务。
+name: class-confusion-radar-demo-bundle
+
+services:
+  db:
+    image: postgres:15-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: class_confusion_radar
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data_bundle:/var/lib/postgresql/data
+      - ./infra/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d class_confusion_radar"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    image: class-confusion-radar-backend:demo
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      APP_ENV: production
+      DEBUG: "false"
+      API_V1_PREFIX: /api/v1
+      DATABASE_URL: postgresql+psycopg://postgres:postgres@db:5432/class_confusion_radar
+      STORAGE_DIR: /app/storage/uploads
+      CORS_ORIGINS: '["http://127.0.0.1:5173","http://localhost:5173"]'
+      AI_PROVIDER: offline
+      AI_MODEL: gpt-4o-mini
+      AI_API_KEY: ""
+      AI_BASE_URL: https://api.openai.com/v1
+    ports:
+      - "8000:8000"
+    volumes:
+      - backend_uploads_bundle:/app/storage/uploads
+
+  frontend:
+    image: class-confusion-radar-frontend:demo
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "5173:80"
+
+volumes:
+  postgres_data_bundle:
+  backend_uploads_bundle:

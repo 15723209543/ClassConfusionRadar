@@ -1,0 +1,4 @@
+2026-10-30 22:48:08,467 INFO Existing service detected at http://127.0.0.1:8000, opening browser only
+2026-10-30 22:48:23,662 INFO Existing service detected at http://127.0.0.1:8000, opening browser only
+2026-10-31 20:46:16,851 INFO Starting desktop server at http://127.0.0.1:8000
+2026-10-31 20:46:17,468 INFO No sessions found, seeding bundled demo sessions

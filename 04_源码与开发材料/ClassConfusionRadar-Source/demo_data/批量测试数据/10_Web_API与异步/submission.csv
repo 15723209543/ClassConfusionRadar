@@ -1,0 +1,266 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,HTTP 请求-练习,python,success,,,10.9
+S001,测试学生001,状态码-练习,python,success,,,29.9
+S001,测试学生001,JSON 解析-练习,python,wrong_answer,RuntimeError,JSON 解析 检查失败,46.8
+S001,测试学生001,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.9
+S001,测试学生001,异常处理-练习,python,wrong_answer,RuntimeError,异常处理 检查失败,83.1
+S002,测试学生002,HTTP 请求-练习,python,success,,,10.1
+S002,测试学生002,状态码-练习,python,wrong_answer,BoundaryCondition,状态码 检查失败,28.6
+S002,测试学生002,JSON 解析-练习,python,success,,,47.8
+S002,测试学生002,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.9
+S002,测试学生002,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.1
+S002,测试学生002,异常处理-练习,python,success,,,83.6
+S003,测试学生003,HTTP 请求-练习,python,wrong_answer,RuntimeError,HTTP 请求 检查失败,10.5
+S003,测试学生003,状态码-练习,python,success,,,29.5
+S003,测试学生003,JSON 解析-练习,python,success,,,47.0
+S003,测试学生003,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.4
+S003,测试学生003,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.4
+S003,测试学生003,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,67.1
+S003,测试学生003,异常处理-练习,python,success,,,82.2
+S004,测试学生004,HTTP 请求-练习,python,success,,,11.5
+S004,测试学生004,状态码-练习,python,success,,,28.3
+S004,测试学生004,JSON 解析-练习,python,success,,,46.0
+S004,测试学生004,异步调用-练习,python,success,,,64.1
+S004,测试学生004,异常处理-练习,python,success,,,82.3
+S005,测试学生005,HTTP 请求-练习,python,success,,,11.2
+S005,测试学生005,状态码-练习,python,success,,,29.4
+S005,测试学生005,JSON 解析-练习,python,success,,,46.4
+S005,测试学生005,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.2
+S005,测试学生005,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.2
+S005,测试学生005,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,67.1
+S005,测试学生005,异常处理-练习,python,success,,,83.8
+S006,测试学生006,HTTP 请求-练习,python,success,,,11.2
+S006,测试学生006,状态码-练习,python,success,,,30.0
+S006,测试学生006,JSON 解析-练习,python,success,,,47.2
+S006,测试学生006,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.3
+S006,测试学生006,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.4
+S006,测试学生006,异常处理-练习,python,success,,,82.0
+S007,测试学生007,HTTP 请求-练习,python,success,,,11.7
+S007,测试学生007,状态码-练习,python,success,,,29.3
+S007,测试学生007,JSON 解析-练习,python,success,,,46.1
+S007,测试学生007,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.2
+S007,测试学生007,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.3
+S007,测试学生007,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,67.1
+S007,测试学生007,异常处理-练习,python,success,,,83.6
+S008,测试学生008,HTTP 请求-练习,python,success,,,11.9
+S008,测试学生008,状态码-练习,python,success,,,28.8
+S008,测试学生008,JSON 解析-练习,python,success,,,47.3
+S008,测试学生008,异步调用-练习,python,success,,,64.2
+S008,测试学生008,异常处理-练习,python,success,,,83.9
+S009,测试学生009,HTTP 请求-练习,python,success,,,11.3
+S009,测试学生009,状态码-练习,python,success,,,29.4
+S009,测试学生009,JSON 解析-练习,python,success,,,46.6
+S009,测试学生009,异步调用-练习,python,success,,,64.2
+S009,测试学生009,异常处理-练习,python,wrong_answer,WrongAnswer,异常处理 检查失败,83.2
+S010,测试学生010,HTTP 请求-练习,python,success,,,11.7
+S010,测试学生010,状态码-练习,python,success,,,28.3
+S010,测试学生010,JSON 解析-练习,python,success,,,47.2
+S010,测试学生010,异步调用-练习,python,success,,,65.4
+S010,测试学生010,异常处理-练习,python,wrong_answer,BoundaryCondition,异常处理 检查失败,83.5
+S011,测试学生011,HTTP 请求-练习,python,success,,,10.9
+S011,测试学生011,状态码-练习,python,success,,,28.3
+S011,测试学生011,JSON 解析-练习,python,success,,,47.5
+S011,测试学生011,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.3
+S011,测试学生011,异常处理-练习,python,success,,,82.1
+S012,测试学生012,HTTP 请求-练习,python,success,,,10.7
+S012,测试学生012,状态码-练习,python,success,,,28.1
+S012,测试学生012,JSON 解析-练习,python,success,,,47.3
+S012,测试学生012,异步调用-练习,python,success,,,65.0
+S012,测试学生012,异常处理-练习,python,success,,,82.3
+S013,测试学生013,HTTP 请求-练习,python,wrong_answer,RuntimeError,HTTP 请求 检查失败,11.9
+S013,测试学生013,状态码-练习,python,success,,,28.3
+S013,测试学生013,JSON 解析-练习,python,success,,,47.8
+S013,测试学生013,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.9
+S013,测试学生013,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.3
+S013,测试学生013,异常处理-练习,python,success,,,83.4
+S014,测试学生014,HTTP 请求-练习,python,success,,,11.6
+S014,测试学生014,状态码-练习,python,success,,,28.1
+S014,测试学生014,JSON 解析-练习,python,success,,,46.7
+S014,测试学生014,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.7
+S014,测试学生014,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.2
+S014,测试学生014,异常处理-练习,python,success,,,82.3
+S015,测试学生015,HTTP 请求-练习,python,success,,,10.9
+S015,测试学生015,状态码-练习,python,wrong_answer,SyntaxError,状态码 检查失败,29.0
+S015,测试学生015,JSON 解析-练习,python,success,,,47.9
+S015,测试学生015,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.0
+S015,测试学生015,异常处理-练习,python,success,,,82.9
+S016,测试学生016,HTTP 请求-练习,python,success,,,11.2
+S016,测试学生016,状态码-练习,python,success,,,28.7
+S016,测试学生016,JSON 解析-练习,python,wrong_answer,BoundaryCondition,JSON 解析 检查失败,48.0
+S016,测试学生016,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.0
+S016,测试学生016,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.1
+S016,测试学生016,异常处理-练习,python,success,,,82.3
+S017,测试学生017,HTTP 请求-练习,python,success,,,10.7
+S017,测试学生017,状态码-练习,python,wrong_answer,RuntimeError,状态码 检查失败,29.0
+S017,测试学生017,JSON 解析-练习,python,success,,,46.0
+S017,测试学生017,异步调用-练习,python,success,,,64.3
+S017,测试学生017,异常处理-练习,python,success,,,83.8
+S018,测试学生018,HTTP 请求-练习,python,success,,,10.2
+S018,测试学生018,状态码-练习,python,success,,,28.5
+S018,测试学生018,JSON 解析-练习,python,success,,,46.9
+S018,测试学生018,异步调用-练习,python,success,,,65.5
+S018,测试学生018,异常处理-练习,python,success,,,83.4
+S019,测试学生019,HTTP 请求-练习,python,success,,,11.6
+S019,测试学生019,状态码-练习,python,success,,,29.9
+S019,测试学生019,JSON 解析-练习,python,success,,,47.5
+S019,测试学生019,异步调用-练习,python,success,,,65.5
+S019,测试学生019,异常处理-练习,python,success,,,83.4
+S020,测试学生020,HTTP 请求-练习,python,wrong_answer,BoundaryCondition,HTTP 请求 检查失败,11.9
+S020,测试学生020,状态码-练习,python,wrong_answer,SyntaxError,状态码 检查失败,28.7
+S020,测试学生020,JSON 解析-练习,python,success,,,47.8
+S020,测试学生020,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.6
+S020,测试学生020,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.1
+S020,测试学生020,异常处理-练习,python,success,,,83.3
+S021,测试学生021,HTTP 请求-练习,python,success,,,10.9
+S021,测试学生021,状态码-练习,python,success,,,29.5
+S021,测试学生021,JSON 解析-练习,python,success,,,47.4
+S021,测试学生021,异步调用-练习,python,success,,,64.3
+S021,测试学生021,异常处理-练习,python,success,,,82.1
+S022,测试学生022,HTTP 请求-练习,python,success,,,11.4
+S022,测试学生022,状态码-练习,python,success,,,28.9
+S022,测试学生022,JSON 解析-练习,python,success,,,46.7
+S022,测试学生022,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.7
+S022,测试学生022,异常处理-练习,python,success,,,82.2
+S023,测试学生023,HTTP 请求-练习,python,success,,,11.0
+S023,测试学生023,状态码-练习,python,success,,,28.3
+S023,测试学生023,JSON 解析-练习,python,success,,,47.7
+S023,测试学生023,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.6
+S023,测试学生023,异常处理-练习,python,success,,,82.8
+S024,测试学生024,HTTP 请求-练习,python,success,,,10.1
+S024,测试学生024,状态码-练习,python,success,,,28.4
+S024,测试学生024,JSON 解析-练习,python,success,,,46.1
+S024,测试学生024,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.2
+S024,测试学生024,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.2
+S024,测试学生024,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,67.1
+S024,测试学生024,异常处理-练习,python,success,,,82.1
+S025,测试学生025,HTTP 请求-练习,python,wrong_answer,WrongAnswer,HTTP 请求 检查失败,10.9
+S025,测试学生025,状态码-练习,python,success,,,28.6
+S025,测试学生025,JSON 解析-练习,python,success,,,48.0
+S025,测试学生025,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.6
+S025,测试学生025,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.0
+S025,测试学生025,异常处理-练习,python,success,,,82.7
+S026,测试学生026,HTTP 请求-练习,python,success,,,11.1
+S026,测试学生026,状态码-练习,python,success,,,29.3
+S026,测试学生026,JSON 解析-练习,python,success,,,47.8
+S026,测试学生026,异步调用-练习,python,success,,,64.0
+S026,测试学生026,异常处理-练习,python,success,,,83.1
+S027,测试学生027,HTTP 请求-练习,python,success,,,10.6
+S027,测试学生027,状态码-练习,python,success,,,29.2
+S027,测试学生027,JSON 解析-练习,python,success,,,46.7
+S027,测试学生027,异步调用-练习,python,success,,,64.2
+S027,测试学生027,异常处理-练习,python,success,,,83.9
+S028,测试学生028,HTTP 请求-练习,python,success,,,11.9
+S028,测试学生028,状态码-练习,python,success,,,29.9
+S028,测试学生028,JSON 解析-练习,python,success,,,46.2
+S028,测试学生028,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.2
+S028,测试学生028,异常处理-练习,python,wrong_answer,StateUpdate,异常处理 检查失败,82.2
+S029,测试学生029,HTTP 请求-练习,python,success,,,11.5
+S029,测试学生029,状态码-练习,python,success,,,29.1
+S029,测试学生029,JSON 解析-练习,python,success,,,47.3
+S029,测试学生029,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.3
+S029,测试学生029,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.1
+S029,测试学生029,异常处理-练习,python,success,,,83.4
+S030,测试学生030,HTTP 请求-练习,python,wrong_answer,RuntimeError,HTTP 请求 检查失败,10.1
+S030,测试学生030,状态码-练习,python,success,,,28.4
+S030,测试学生030,JSON 解析-练习,python,success,,,47.9
+S030,测试学生030,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.2
+S030,测试学生030,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.2
+S030,测试学生030,异常处理-练习,python,success,,,83.7
+S031,测试学生031,HTTP 请求-练习,python,success,,,10.9
+S031,测试学生031,状态码-练习,python,success,,,29.1
+S031,测试学生031,JSON 解析-练习,python,success,,,47.0
+S031,测试学生031,异步调用-练习,python,success,,,64.5
+S031,测试学生031,异常处理-练习,python,success,,,82.1
+S032,测试学生032,HTTP 请求-练习,python,success,,,10.2
+S032,测试学生032,状态码-练习,python,success,,,29.5
+S032,测试学生032,JSON 解析-练习,python,success,,,46.3
+S032,测试学生032,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.6
+S032,测试学生032,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.3
+S032,测试学生032,异常处理-练习,python,success,,,82.8
+S033,测试学生033,HTTP 请求-练习,python,success,,,10.8
+S033,测试学生033,状态码-练习,python,success,,,29.0
+S033,测试学生033,JSON 解析-练习,python,success,,,47.6
+S033,测试学生033,异步调用-练习,python,success,,,64.5
+S033,测试学生033,异常处理-练习,python,wrong_answer,RuntimeError,异常处理 检查失败,83.9
+S034,测试学生034,HTTP 请求-练习,python,success,,,11.4
+S034,测试学生034,状态码-练习,python,success,,,29.5
+S034,测试学生034,JSON 解析-练习,python,success,,,46.9
+S034,测试学生034,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.4
+S034,测试学生034,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.1
+S034,测试学生034,异常处理-练习,python,success,,,83.5
+S035,测试学生035,HTTP 请求-练习,python,success,,,11.1
+S035,测试学生035,状态码-练习,python,success,,,28.3
+S035,测试学生035,JSON 解析-练习,python,success,,,47.4
+S035,测试学生035,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.4
+S035,测试学生035,异常处理-练习,python,wrong_answer,RuntimeError,异常处理 检查失败,82.6
+S036,测试学生036,HTTP 请求-练习,python,success,,,11.7
+S036,测试学生036,状态码-练习,python,success,,,28.7
+S036,测试学生036,JSON 解析-练习,python,success,,,46.9
+S036,测试学生036,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.7
+S036,测试学生036,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.3
+S036,测试学生036,异常处理-练习,python,success,,,83.6
+S037,测试学生037,HTTP 请求-练习,python,success,,,10.9
+S037,测试学生037,状态码-练习,python,success,,,28.9
+S037,测试学生037,JSON 解析-练习,python,success,,,47.4
+S037,测试学生037,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,66.0
+S037,测试学生037,异常处理-练习,python,success,,,82.6
+S038,测试学生038,HTTP 请求-练习,python,success,,,10.7
+S038,测试学生038,状态码-练习,python,success,,,28.9
+S038,测试学生038,JSON 解析-练习,python,success,,,46.3
+S038,测试学生038,异步调用-练习,python,success,,,65.6
+S038,测试学生038,异常处理-练习,python,wrong_answer,WrongAnswer,异常处理 检查失败,83.2
+S039,测试学生039,HTTP 请求-练习,python,wrong_answer,StateUpdate,HTTP 请求 检查失败,11.6
+S039,测试学生039,状态码-练习,python,success,,,28.4
+S039,测试学生039,JSON 解析-练习,python,success,,,46.7
+S039,测试学生039,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.7
+S039,测试学生039,异常处理-练习,python,success,,,82.4
+S040,测试学生040,HTTP 请求-练习,python,success,,,10.6
+S040,测试学生040,状态码-练习,python,success,,,28.8
+S040,测试学生040,JSON 解析-练习,python,success,,,46.5
+S040,测试学生040,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.6
+S040,测试学生040,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.0
+S040,测试学生040,异常处理-练习,python,success,,,82.0
+S041,测试学生041,HTTP 请求-练习,python,wrong_answer,BoundaryCondition,HTTP 请求 检查失败,11.0
+S041,测试学生041,状态码-练习,python,success,,,29.9
+S041,测试学生041,JSON 解析-练习,python,success,,,47.5
+S041,测试学生041,异步调用-练习,python,success,,,64.4
+S041,测试学生041,异常处理-练习,python,success,,,83.7
+S042,测试学生042,HTTP 请求-练习,python,wrong_answer,WrongAnswer,HTTP 请求 检查失败,10.7
+S042,测试学生042,状态码-练习,python,success,,,28.3
+S042,测试学生042,JSON 解析-练习,python,success,,,47.9
+S042,测试学生042,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.1
+S042,测试学生042,异常处理-练习,python,success,,,83.2
+S043,测试学生043,HTTP 请求-练习,python,success,,,11.8
+S043,测试学生043,状态码-练习,python,wrong_answer,BoundaryCondition,状态码 检查失败,29.6
+S043,测试学生043,JSON 解析-练习,python,success,,,46.1
+S043,测试学生043,异步调用-练习,python,success,,,65.2
+S043,测试学生043,异常处理-练习,python,success,,,83.4
+S044,测试学生044,HTTP 请求-练习,python,success,,,11.9
+S044,测试学生044,状态码-练习,python,success,,,30.0
+S044,测试学生044,JSON 解析-练习,python,success,,,46.0
+S044,测试学生044,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.9
+S044,测试学生044,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.4
+S044,测试学生044,异常处理-练习,python,success,,,83.4
+S045,测试学生045,HTTP 请求-练习,python,success,,,10.9
+S045,测试学生045,状态码-练习,python,success,,,29.5
+S045,测试学生045,JSON 解析-练习,python,success,,,46.7
+S045,测试学生045,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.8
+S045,测试学生045,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.2
+S045,测试学生045,异常处理-练习,python,success,,,83.6
+S046,测试学生046,HTTP 请求-练习,python,success,,,10.6
+S046,测试学生046,状态码-练习,python,success,,,28.8
+S046,测试学生046,JSON 解析-练习,python,success,,,46.8
+S046,测试学生046,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,65.9
+S046,测试学生046,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.2
+S046,测试学生046,异常处理-练习,python,success,,,83.2
+S047,测试学生047,HTTP 请求-练习,python,wrong_answer,SyntaxError,HTTP 请求 检查失败,11.9
+S047,测试学生047,状态码-练习,python,success,,,29.9
+S047,测试学生047,JSON 解析-练习,python,success,,,47.7
+S047,测试学生047,异步调用-练习,python,wrong_answer,AsyncOrder,异步调用 检查失败,64.7
+S047,测试学生047,异步调用-练习,python,wrong_answer,AsyncOrder,重复出现 AsyncOrder,66.2
+S047,测试学生047,异常处理-练习,python,success,,,82.6
+S048,测试学生048,HTTP 请求-练习,python,success,,,10.7
+S048,测试学生048,状态码-练习,python,success,,,28.3
+S048,测试学生048,JSON 解析-练习,python,success,,,47.1
+S048,测试学生048,异步调用-练习,python,success,,,65.8
+S048,测试学生048,异常处理-练习,python,success,,,82.5

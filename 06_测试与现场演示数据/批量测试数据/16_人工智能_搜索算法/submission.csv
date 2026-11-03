@@ -1,0 +1,271 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,状态空间-练习,cpp,success,,,10.0
+S001,测试学生001,广度优先-练习,cpp,success,,,28.6
+S001,测试学生001,深度优先-练习,cpp,success,,,46.5
+S001,测试学生001,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.9
+S001,测试学生001,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.1
+S001,测试学生001,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.9
+S001,测试学生001,A星搜索-练习,cpp,success,,,83.9
+S002,测试学生002,状态空间-练习,cpp,wrong_answer,RuntimeError,状态空间 检查失败,10.5
+S002,测试学生002,广度优先-练习,cpp,success,,,28.9
+S002,测试学生002,深度优先-练习,cpp,success,,,46.9
+S002,测试学生002,启发函数-练习,cpp,success,,,65.8
+S002,测试学生002,A星搜索-练习,cpp,success,,,82.5
+S003,测试学生003,状态空间-练习,cpp,wrong_answer,SyntaxError,状态空间 检查失败,11.5
+S003,测试学生003,广度优先-练习,cpp,success,,,28.5
+S003,测试学生003,深度优先-练习,cpp,wrong_answer,BoundaryCondition,深度优先 检查失败,47.8
+S003,测试学生003,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.8
+S003,测试学生003,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.1
+S003,测试学生003,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,67.0
+S003,测试学生003,A星搜索-练习,cpp,wrong_answer,WrongAnswer,A星搜索 检查失败,83.8
+S004,测试学生004,状态空间-练习,cpp,success,,,10.4
+S004,测试学生004,广度优先-练习,cpp,success,,,29.5
+S004,测试学生004,深度优先-练习,cpp,success,,,47.5
+S004,测试学生004,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.2
+S004,测试学生004,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.2
+S004,测试学生004,A星搜索-练习,cpp,success,,,82.4
+S005,测试学生005,状态空间-练习,cpp,success,,,10.1
+S005,测试学生005,广度优先-练习,cpp,wrong_answer,StateUpdate,广度优先 检查失败,29.4
+S005,测试学生005,深度优先-练习,cpp,success,,,47.0
+S005,测试学生005,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.9
+S005,测试学生005,A星搜索-练习,cpp,success,,,82.3
+S006,测试学生006,状态空间-练习,cpp,success,,,10.4
+S006,测试学生006,广度优先-练习,cpp,success,,,29.4
+S006,测试学生006,深度优先-练习,cpp,success,,,47.4
+S006,测试学生006,启发函数-练习,cpp,success,,,64.7
+S006,测试学生006,A星搜索-练习,cpp,success,,,83.2
+S007,测试学生007,状态空间-练习,cpp,success,,,11.3
+S007,测试学生007,广度优先-练习,cpp,success,,,29.3
+S007,测试学生007,深度优先-练习,cpp,success,,,47.3
+S007,测试学生007,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.9
+S007,测试学生007,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.2
+S007,测试学生007,A星搜索-练习,cpp,success,,,83.6
+S008,测试学生008,状态空间-练习,cpp,success,,,11.8
+S008,测试学生008,广度优先-练习,cpp,success,,,28.0
+S008,测试学生008,深度优先-练习,cpp,success,,,47.9
+S008,测试学生008,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.2
+S008,测试学生008,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.2
+S008,测试学生008,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.8
+S008,测试学生008,A星搜索-练习,cpp,success,,,82.6
+S009,测试学生009,状态空间-练习,cpp,success,,,10.1
+S009,测试学生009,广度优先-练习,cpp,success,,,28.2
+S009,测试学生009,深度优先-练习,cpp,success,,,46.7
+S009,测试学生009,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.4
+S009,测试学生009,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.4
+S009,测试学生009,A星搜索-练习,cpp,success,,,82.2
+S010,测试学生010,状态空间-练习,cpp,success,,,10.4
+S010,测试学生010,广度优先-练习,cpp,success,,,29.0
+S010,测试学生010,深度优先-练习,cpp,success,,,46.0
+S010,测试学生010,启发函数-练习,cpp,success,,,65.7
+S010,测试学生010,A星搜索-练习,cpp,success,,,83.3
+S011,测试学生011,状态空间-练习,cpp,success,,,11.3
+S011,测试学生011,广度优先-练习,cpp,wrong_answer,StateUpdate,广度优先 检查失败,28.4
+S011,测试学生011,深度优先-练习,cpp,success,,,47.4
+S011,测试学生011,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.4
+S011,测试学生011,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.1
+S011,测试学生011,A星搜索-练习,cpp,success,,,83.0
+S012,测试学生012,状态空间-练习,cpp,success,,,10.4
+S012,测试学生012,广度优先-练习,cpp,success,,,29.8
+S012,测试学生012,深度优先-练习,cpp,success,,,46.4
+S012,测试学生012,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.6
+S012,测试学生012,A星搜索-练习,cpp,wrong_answer,StateUpdate,A星搜索 检查失败,82.6
+S013,测试学生013,状态空间-练习,cpp,success,,,11.3
+S013,测试学生013,广度优先-练习,cpp,wrong_answer,SyntaxError,广度优先 检查失败,28.3
+S013,测试学生013,深度优先-练习,cpp,success,,,47.4
+S013,测试学生013,启发函数-练习,cpp,success,,,65.1
+S013,测试学生013,A星搜索-练习,cpp,success,,,83.0
+S014,测试学生014,状态空间-练习,cpp,success,,,10.4
+S014,测试学生014,广度优先-练习,cpp,wrong_answer,StateUpdate,广度优先 检查失败,28.5
+S014,测试学生014,深度优先-练习,cpp,success,,,46.6
+S014,测试学生014,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.1
+S014,测试学生014,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.4
+S014,测试学生014,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.9
+S014,测试学生014,A星搜索-练习,cpp,success,,,82.7
+S015,测试学生015,状态空间-练习,cpp,success,,,10.5
+S015,测试学生015,广度优先-练习,cpp,success,,,29.3
+S015,测试学生015,深度优先-练习,cpp,wrong_answer,SyntaxError,深度优先 检查失败,46.7
+S015,测试学生015,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.6
+S015,测试学生015,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.3
+S015,测试学生015,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.9
+S015,测试学生015,A星搜索-练习,cpp,success,,,82.5
+S016,测试学生016,状态空间-练习,cpp,success,,,11.1
+S016,测试学生016,广度优先-练习,cpp,success,,,29.9
+S016,测试学生016,深度优先-练习,cpp,success,,,47.6
+S016,测试学生016,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.6
+S016,测试学生016,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.2
+S016,测试学生016,A星搜索-练习,cpp,success,,,82.6
+S017,测试学生017,状态空间-练习,cpp,success,,,10.4
+S017,测试学生017,广度优先-练习,cpp,success,,,29.0
+S017,测试学生017,深度优先-练习,cpp,success,,,47.1
+S017,测试学生017,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.4
+S017,测试学生017,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.3
+S017,测试学生017,A星搜索-练习,cpp,success,,,82.7
+S018,测试学生018,状态空间-练习,cpp,wrong_answer,WrongAnswer,状态空间 检查失败,11.6
+S018,测试学生018,广度优先-练习,cpp,success,,,28.3
+S018,测试学生018,深度优先-练习,cpp,success,,,46.3
+S018,测试学生018,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.8
+S018,测试学生018,A星搜索-练习,cpp,success,,,83.1
+S019,测试学生019,状态空间-练习,cpp,success,,,11.6
+S019,测试学生019,广度优先-练习,cpp,success,,,29.8
+S019,测试学生019,深度优先-练习,cpp,success,,,46.5
+S019,测试学生019,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.0
+S019,测试学生019,A星搜索-练习,cpp,success,,,83.3
+S020,测试学生020,状态空间-练习,cpp,success,,,10.8
+S020,测试学生020,广度优先-练习,cpp,success,,,29.0
+S020,测试学生020,深度优先-练习,cpp,success,,,47.3
+S020,测试学生020,启发函数-练习,cpp,success,,,64.7
+S020,测试学生020,A星搜索-练习,cpp,success,,,83.1
+S021,测试学生021,状态空间-练习,cpp,success,,,11.1
+S021,测试学生021,广度优先-练习,cpp,success,,,29.6
+S021,测试学生021,深度优先-练习,cpp,success,,,46.4
+S021,测试学生021,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.5
+S021,测试学生021,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.2
+S021,测试学生021,A星搜索-练习,cpp,success,,,82.7
+S022,测试学生022,状态空间-练习,cpp,success,,,10.4
+S022,测试学生022,广度优先-练习,cpp,success,,,28.4
+S022,测试学生022,深度优先-练习,cpp,success,,,46.9
+S022,测试学生022,启发函数-练习,cpp,success,,,65.3
+S022,测试学生022,A星搜索-练习,cpp,success,,,83.0
+S023,测试学生023,状态空间-练习,cpp,wrong_answer,RuntimeError,状态空间 检查失败,11.5
+S023,测试学生023,广度优先-练习,cpp,wrong_answer,StateUpdate,广度优先 检查失败,28.8
+S023,测试学生023,深度优先-练习,cpp,success,,,46.9
+S023,测试学生023,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.2
+S023,测试学生023,A星搜索-练习,cpp,wrong_answer,WrongAnswer,A星搜索 检查失败,82.9
+S024,测试学生024,状态空间-练习,cpp,success,,,11.4
+S024,测试学生024,广度优先-练习,cpp,success,,,28.4
+S024,测试学生024,深度优先-练习,cpp,success,,,46.5
+S024,测试学生024,启发函数-练习,cpp,success,,,64.5
+S024,测试学生024,A星搜索-练习,cpp,success,,,82.8
+S025,测试学生025,状态空间-练习,cpp,success,,,11.8
+S025,测试学生025,广度优先-练习,cpp,success,,,29.9
+S025,测试学生025,深度优先-练习,cpp,success,,,46.5
+S025,测试学生025,启发函数-练习,cpp,success,,,64.3
+S025,测试学生025,A星搜索-练习,cpp,success,,,82.6
+S026,测试学生026,状态空间-练习,cpp,success,,,11.5
+S026,测试学生026,广度优先-练习,cpp,success,,,29.8
+S026,测试学生026,深度优先-练习,cpp,success,,,46.8
+S026,测试学生026,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.3
+S026,测试学生026,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.2
+S026,测试学生026,A星搜索-练习,cpp,success,,,83.6
+S027,测试学生027,状态空间-练习,cpp,success,,,11.4
+S027,测试学生027,广度优先-练习,cpp,success,,,28.7
+S027,测试学生027,深度优先-练习,cpp,success,,,47.0
+S027,测试学生027,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.8
+S027,测试学生027,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.3
+S027,测试学生027,A星搜索-练习,cpp,success,,,83.1
+S028,测试学生028,状态空间-练习,cpp,success,,,11.7
+S028,测试学生028,广度优先-练习,cpp,success,,,29.6
+S028,测试学生028,深度优先-练习,cpp,success,,,46.7
+S028,测试学生028,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.2
+S028,测试学生028,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.2
+S028,测试学生028,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.8
+S028,测试学生028,A星搜索-练习,cpp,success,,,82.9
+S029,测试学生029,状态空间-练习,cpp,success,,,11.7
+S029,测试学生029,广度优先-练习,cpp,wrong_answer,BoundaryCondition,广度优先 检查失败,28.1
+S029,测试学生029,深度优先-练习,cpp,success,,,46.3
+S029,测试学生029,启发函数-练习,cpp,success,,,65.0
+S029,测试学生029,A星搜索-练习,cpp,wrong_answer,StateUpdate,A星搜索 检查失败,82.7
+S030,测试学生030,状态空间-练习,cpp,wrong_answer,StateUpdate,状态空间 检查失败,11.1
+S030,测试学生030,广度优先-练习,cpp,success,,,29.9
+S030,测试学生030,深度优先-练习,cpp,wrong_answer,StateUpdate,深度优先 检查失败,47.3
+S030,测试学生030,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.0
+S030,测试学生030,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.0
+S030,测试学生030,A星搜索-练习,cpp,success,,,83.4
+S031,测试学生031,状态空间-练习,cpp,success,,,11.1
+S031,测试学生031,广度优先-练习,cpp,success,,,29.5
+S031,测试学生031,深度优先-练习,cpp,success,,,47.2
+S031,测试学生031,启发函数-练习,cpp,success,,,64.1
+S031,测试学生031,A星搜索-练习,cpp,success,,,83.9
+S032,测试学生032,状态空间-练习,cpp,wrong_answer,StateUpdate,状态空间 检查失败,10.4
+S032,测试学生032,广度优先-练习,cpp,wrong_answer,RuntimeError,广度优先 检查失败,28.0
+S032,测试学生032,深度优先-练习,cpp,success,,,46.6
+S032,测试学生032,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.6
+S032,测试学生032,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.3
+S032,测试学生032,A星搜索-练习,cpp,wrong_answer,SyntaxError,A星搜索 检查失败,83.1
+S033,测试学生033,状态空间-练习,cpp,success,,,11.0
+S033,测试学生033,广度优先-练习,cpp,success,,,28.8
+S033,测试学生033,深度优先-练习,cpp,wrong_answer,SyntaxError,深度优先 检查失败,46.8
+S033,测试学生033,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.4
+S033,测试学生033,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.0
+S033,测试学生033,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,67.1
+S033,测试学生033,A星搜索-练习,cpp,success,,,83.6
+S034,测试学生034,状态空间-练习,cpp,success,,,10.4
+S034,测试学生034,广度优先-练习,cpp,success,,,28.6
+S034,测试学生034,深度优先-练习,cpp,success,,,47.2
+S034,测试学生034,启发函数-练习,cpp,success,,,64.7
+S034,测试学生034,A星搜索-练习,cpp,success,,,83.0
+S035,测试学生035,状态空间-练习,cpp,success,,,11.6
+S035,测试学生035,广度优先-练习,cpp,success,,,28.2
+S035,测试学生035,深度优先-练习,cpp,success,,,46.5
+S035,测试学生035,启发函数-练习,cpp,success,,,64.8
+S035,测试学生035,A星搜索-练习,cpp,success,,,84.0
+S036,测试学生036,状态空间-练习,cpp,success,,,10.7
+S036,测试学生036,广度优先-练习,cpp,success,,,29.8
+S036,测试学生036,深度优先-练习,cpp,success,,,46.2
+S036,测试学生036,启发函数-练习,cpp,success,,,64.9
+S036,测试学生036,A星搜索-练习,cpp,success,,,83.3
+S037,测试学生037,状态空间-练习,cpp,wrong_answer,RuntimeError,状态空间 检查失败,11.2
+S037,测试学生037,广度优先-练习,cpp,success,,,28.4
+S037,测试学生037,深度优先-练习,cpp,success,,,46.9
+S037,测试学生037,启发函数-练习,cpp,success,,,64.2
+S037,测试学生037,A星搜索-练习,cpp,success,,,83.5
+S038,测试学生038,状态空间-练习,cpp,success,,,10.0
+S038,测试学生038,广度优先-练习,cpp,success,,,29.8
+S038,测试学生038,深度优先-练习,cpp,success,,,47.1
+S038,测试学生038,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.1
+S038,测试学生038,A星搜索-练习,cpp,success,,,83.1
+S039,测试学生039,状态空间-练习,cpp,success,,,10.8
+S039,测试学生039,广度优先-练习,cpp,success,,,30.0
+S039,测试学生039,深度优先-练习,cpp,success,,,46.8
+S039,测试学生039,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.5
+S039,测试学生039,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.3
+S039,测试学生039,A星搜索-练习,cpp,wrong_answer,BoundaryCondition,A星搜索 检查失败,82.2
+S040,测试学生040,状态空间-练习,cpp,success,,,10.8
+S040,测试学生040,广度优先-练习,cpp,success,,,28.4
+S040,测试学生040,深度优先-练习,cpp,success,,,46.9
+S040,测试学生040,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.1
+S040,测试学生040,A星搜索-练习,cpp,success,,,83.6
+S041,测试学生041,状态空间-练习,cpp,success,,,10.7
+S041,测试学生041,广度优先-练习,cpp,wrong_answer,StateUpdate,广度优先 检查失败,29.0
+S041,测试学生041,深度优先-练习,cpp,wrong_answer,BoundaryCondition,深度优先 检查失败,47.8
+S041,测试学生041,启发函数-练习,cpp,success,,,64.1
+S041,测试学生041,A星搜索-练习,cpp,success,,,83.7
+S042,测试学生042,状态空间-练习,cpp,success,,,11.8
+S042,测试学生042,广度优先-练习,cpp,success,,,28.5
+S042,测试学生042,深度优先-练习,cpp,success,,,47.8
+S042,测试学生042,启发函数-练习,cpp,success,,,64.4
+S042,测试学生042,A星搜索-练习,cpp,success,,,82.2
+S043,测试学生043,状态空间-练习,cpp,success,,,10.3
+S043,测试学生043,广度优先-练习,cpp,success,,,28.0
+S043,测试学生043,深度优先-练习,cpp,success,,,47.4
+S043,测试学生043,启发函数-练习,cpp,success,,,64.5
+S043,测试学生043,A星搜索-练习,cpp,success,,,83.0
+S044,测试学生044,状态空间-练习,cpp,success,,,11.2
+S044,测试学生044,广度优先-练习,cpp,wrong_answer,SyntaxError,广度优先 检查失败,29.9
+S044,测试学生044,深度优先-练习,cpp,success,,,48.0
+S044,测试学生044,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,64.0
+S044,测试学生044,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.0
+S044,测试学生044,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,67.2
+S044,测试学生044,A星搜索-练习,cpp,success,,,82.9
+S045,测试学生045,状态空间-练习,cpp,success,,,10.4
+S045,测试学生045,广度优先-练习,cpp,success,,,28.8
+S045,测试学生045,深度优先-练习,cpp,success,,,47.0
+S045,测试学生045,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.9
+S045,测试学生045,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.1
+S045,测试学生045,A星搜索-练习,cpp,success,,,83.2
+S046,测试学生046,状态空间-练习,cpp,success,,,10.7
+S046,测试学生046,广度优先-练习,cpp,success,,,29.3
+S046,测试学生046,深度优先-练习,cpp,success,,,47.7
+S046,测试学生046,启发函数-练习,cpp,success,,,65.1
+S046,测试学生046,A星搜索-练习,cpp,wrong_answer,SyntaxError,A星搜索 检查失败,83.6
+S047,测试学生047,状态空间-练习,cpp,wrong_answer,WrongAnswer,状态空间 检查失败,10.3
+S047,测试学生047,广度优先-练习,cpp,success,,,29.4
+S047,测试学生047,深度优先-练习,cpp,success,,,46.9
+S047,测试学生047,启发函数-练习,cpp,success,,,64.4
+S047,测试学生047,A星搜索-练习,cpp,success,,,82.4
+S048,测试学生048,状态空间-练习,cpp,success,,,10.3
+S048,测试学生048,广度优先-练习,cpp,success,,,28.9
+S048,测试学生048,深度优先-练习,cpp,success,,,46.0
+S048,测试学生048,启发函数-练习,cpp,wrong_answer,HeuristicError,启发函数 检查失败,65.6
+S048,测试学生048,启发函数-练习,cpp,wrong_answer,HeuristicError,重复出现 HeuristicError,66.2
+S048,测试学生048,A星搜索-练习,cpp,success,,,82.1

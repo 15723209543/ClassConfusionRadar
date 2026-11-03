@@ -1,0 +1,270 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,条件判断-练习,python,success,,,10.2
+S001,测试学生001,while 循环-练习,python,success,,,28.1
+S001,测试学生001,for 循环-练习,python,wrong_answer,BoundaryCondition,for 循环 检查失败,46.5
+S001,测试学生001,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,64.0
+S001,测试学生001,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.4
+S001,测试学生001,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,67.1
+S001,测试学生001,调试方法-练习,python,success,,,83.1
+S002,测试学生002,条件判断-练习,python,wrong_answer,StateUpdate,条件判断 检查失败,11.8
+S002,测试学生002,while 循环-练习,python,success,,,29.9
+S002,测试学生002,for 循环-练习,python,success,,,46.8
+S002,测试学生002,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.3
+S002,测试学生002,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.3
+S002,测试学生002,调试方法-练习,python,wrong_answer,WrongAnswer,调试方法 检查失败,83.0
+S003,测试学生003,条件判断-练习,python,success,,,11.2
+S003,测试学生003,while 循环-练习,python,success,,,28.5
+S003,测试学生003,for 循环-练习,python,success,,,46.8
+S003,测试学生003,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,64.3
+S003,测试学生003,调试方法-练习,python,success,,,83.0
+S004,测试学生004,条件判断-练习,python,success,,,10.1
+S004,测试学生004,while 循环-练习,python,success,,,28.1
+S004,测试学生004,for 循环-练习,python,success,,,46.5
+S004,测试学生004,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.9
+S004,测试学生004,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.1
+S004,测试学生004,调试方法-练习,python,success,,,82.8
+S005,测试学生005,条件判断-练习,python,success,,,11.6
+S005,测试学生005,while 循环-练习,python,success,,,29.4
+S005,测试学生005,for 循环-练习,python,success,,,47.3
+S005,测试学生005,循环边界-练习,python,success,,,64.3
+S005,测试学生005,调试方法-练习,python,success,,,82.8
+S006,测试学生006,条件判断-练习,python,success,,,10.9
+S006,测试学生006,while 循环-练习,python,success,,,28.8
+S006,测试学生006,for 循环-练习,python,success,,,46.6
+S006,测试学生006,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.7
+S006,测试学生006,调试方法-练习,python,success,,,83.7
+S007,测试学生007,条件判断-练习,python,success,,,11.5
+S007,测试学生007,while 循环-练习,python,success,,,28.5
+S007,测试学生007,for 循环-练习,python,success,,,47.6
+S007,测试学生007,循环边界-练习,python,success,,,64.6
+S007,测试学生007,调试方法-练习,python,wrong_answer,WrongAnswer,调试方法 检查失败,82.7
+S008,测试学生008,条件判断-练习,python,success,,,11.8
+S008,测试学生008,while 循环-练习,python,success,,,29.2
+S008,测试学生008,for 循环-练习,python,success,,,46.8
+S008,测试学生008,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.9
+S008,测试学生008,调试方法-练习,python,success,,,82.2
+S009,测试学生009,条件判断-练习,python,success,,,10.9
+S009,测试学生009,while 循环-练习,python,success,,,28.4
+S009,测试学生009,for 循环-练习,python,success,,,46.6
+S009,测试学生009,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.1
+S009,测试学生009,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.4
+S009,测试学生009,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.8
+S009,测试学生009,调试方法-练习,python,success,,,83.6
+S010,测试学生010,条件判断-练习,python,success,,,11.5
+S010,测试学生010,while 循环-练习,python,success,,,28.2
+S010,测试学生010,for 循环-练习,python,success,,,47.6
+S010,测试学生010,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.0
+S010,测试学生010,调试方法-练习,python,success,,,83.6
+S011,测试学生011,条件判断-练习,python,success,,,10.4
+S011,测试学生011,while 循环-练习,python,success,,,29.6
+S011,测试学生011,for 循环-练习,python,success,,,46.5
+S011,测试学生011,循环边界-练习,python,success,,,65.2
+S011,测试学生011,调试方法-练习,python,success,,,82.8
+S012,测试学生012,条件判断-练习,python,success,,,11.9
+S012,测试学生012,while 循环-练习,python,success,,,28.7
+S012,测试学生012,for 循环-练习,python,wrong_answer,SyntaxError,for 循环 检查失败,47.5
+S012,测试学生012,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.4
+S012,测试学生012,调试方法-练习,python,success,,,83.8
+S013,测试学生013,条件判断-练习,python,success,,,11.9
+S013,测试学生013,while 循环-练习,python,success,,,28.8
+S013,测试学生013,for 循环-练习,python,success,,,47.6
+S013,测试学生013,循环边界-练习,python,success,,,65.2
+S013,测试学生013,调试方法-练习,python,success,,,83.9
+S014,测试学生014,条件判断-练习,python,success,,,11.9
+S014,测试学生014,while 循环-练习,python,success,,,29.5
+S014,测试学生014,for 循环-练习,python,success,,,47.7
+S014,测试学生014,循环边界-练习,python,success,,,65.7
+S014,测试学生014,调试方法-练习,python,success,,,83.0
+S015,测试学生015,条件判断-练习,python,success,,,11.6
+S015,测试学生015,while 循环-练习,python,wrong_answer,RuntimeError,while 循环 检查失败,29.9
+S015,测试学生015,for 循环-练习,python,success,,,47.6
+S015,测试学生015,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,64.9
+S015,测试学生015,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.3
+S015,测试学生015,调试方法-练习,python,success,,,83.1
+S016,测试学生016,条件判断-练习,python,success,,,10.4
+S016,测试学生016,while 循环-练习,python,success,,,29.4
+S016,测试学生016,for 循环-练习,python,success,,,47.9
+S016,测试学生016,循环边界-练习,python,success,,,65.0
+S016,测试学生016,调试方法-练习,python,success,,,83.4
+S017,测试学生017,条件判断-练习,python,success,,,10.0
+S017,测试学生017,while 循环-练习,python,success,,,28.3
+S017,测试学生017,for 循环-练习,python,wrong_answer,StateUpdate,for 循环 检查失败,46.2
+S017,测试学生017,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.9
+S017,测试学生017,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.3
+S017,测试学生017,调试方法-练习,python,success,,,82.1
+S018,测试学生018,条件判断-练习,python,wrong_answer,RuntimeError,条件判断 检查失败,11.3
+S018,测试学生018,while 循环-练习,python,success,,,28.8
+S018,测试学生018,for 循环-练习,python,success,,,47.4
+S018,测试学生018,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,64.6
+S018,测试学生018,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.3
+S018,测试学生018,调试方法-练习,python,success,,,83.2
+S019,测试学生019,条件判断-练习,python,success,,,11.5
+S019,测试学生019,while 循环-练习,python,success,,,29.0
+S019,测试学生019,for 循环-练习,python,success,,,47.0
+S019,测试学生019,循环边界-练习,python,success,,,64.2
+S019,测试学生019,调试方法-练习,python,success,,,83.5
+S020,测试学生020,条件判断-练习,python,success,,,10.4
+S020,测试学生020,while 循环-练习,python,success,,,28.1
+S020,测试学生020,for 循环-练习,python,success,,,46.6
+S020,测试学生020,循环边界-练习,python,success,,,64.0
+S020,测试学生020,调试方法-练习,python,wrong_answer,RuntimeError,调试方法 检查失败,83.8
+S021,测试学生021,条件判断-练习,python,success,,,10.2
+S021,测试学生021,while 循环-练习,python,success,,,28.8
+S021,测试学生021,for 循环-练习,python,success,,,46.4
+S021,测试学生021,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,64.8
+S021,测试学生021,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.2
+S021,测试学生021,调试方法-练习,python,success,,,82.5
+S022,测试学生022,条件判断-练习,python,success,,,10.1
+S022,测试学生022,while 循环-练习,python,wrong_answer,StateUpdate,while 循环 检查失败,28.1
+S022,测试学生022,for 循环-练习,python,success,,,46.2
+S022,测试学生022,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.5
+S022,测试学生022,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.3
+S022,测试学生022,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,67.1
+S022,测试学生022,调试方法-练习,python,success,,,82.4
+S023,测试学生023,条件判断-练习,python,success,,,10.2
+S023,测试学生023,while 循环-练习,python,success,,,29.1
+S023,测试学生023,for 循环-练习,python,success,,,46.8
+S023,测试学生023,循环边界-练习,python,success,,,65.3
+S023,测试学生023,调试方法-练习,python,success,,,83.0
+S024,测试学生024,条件判断-练习,python,success,,,12.0
+S024,测试学生024,while 循环-练习,python,success,,,29.6
+S024,测试学生024,for 循环-练习,python,success,,,47.5
+S024,测试学生024,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.0
+S024,测试学生024,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.1
+S024,测试学生024,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.9
+S024,测试学生024,调试方法-练习,python,success,,,83.4
+S025,测试学生025,条件判断-练习,python,wrong_answer,WrongAnswer,条件判断 检查失败,11.3
+S025,测试学生025,while 循环-练习,python,success,,,28.4
+S025,测试学生025,for 循环-练习,python,success,,,47.8
+S025,测试学生025,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,64.4
+S025,测试学生025,调试方法-练习,python,success,,,83.6
+S026,测试学生026,条件判断-练习,python,success,,,11.1
+S026,测试学生026,while 循环-练习,python,success,,,29.3
+S026,测试学生026,for 循环-练习,python,success,,,46.8
+S026,测试学生026,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.5
+S026,测试学生026,调试方法-练习,python,success,,,82.7
+S027,测试学生027,条件判断-练习,python,success,,,10.8
+S027,测试学生027,while 循环-练习,python,success,,,29.0
+S027,测试学生027,for 循环-练习,python,success,,,47.6
+S027,测试学生027,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,64.8
+S027,测试学生027,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.4
+S027,测试学生027,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.9
+S027,测试学生027,调试方法-练习,python,success,,,82.3
+S028,测试学生028,条件判断-练习,python,success,,,11.5
+S028,测试学生028,while 循环-练习,python,success,,,29.1
+S028,测试学生028,for 循环-练习,python,success,,,47.7
+S028,测试学生028,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.6
+S028,测试学生028,调试方法-练习,python,success,,,83.4
+S029,测试学生029,条件判断-练习,python,success,,,10.3
+S029,测试学生029,while 循环-练习,python,success,,,29.8
+S029,测试学生029,for 循环-练习,python,wrong_answer,RuntimeError,for 循环 检查失败,47.9
+S029,测试学生029,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.5
+S029,测试学生029,调试方法-练习,python,success,,,83.1
+S030,测试学生030,条件判断-练习,python,success,,,11.0
+S030,测试学生030,while 循环-练习,python,success,,,29.5
+S030,测试学生030,for 循环-练习,python,wrong_answer,StateUpdate,for 循环 检查失败,46.7
+S030,测试学生030,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.0
+S030,测试学生030,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.3
+S030,测试学生030,调试方法-练习,python,success,,,83.1
+S031,测试学生031,条件判断-练习,python,wrong_answer,RuntimeError,条件判断 检查失败,11.6
+S031,测试学生031,while 循环-练习,python,success,,,29.4
+S031,测试学生031,for 循环-练习,python,success,,,46.1
+S031,测试学生031,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,64.7
+S031,测试学生031,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.1
+S031,测试学生031,调试方法-练习,python,success,,,83.0
+S032,测试学生032,条件判断-练习,python,success,,,11.9
+S032,测试学生032,while 循环-练习,python,success,,,29.9
+S032,测试学生032,for 循环-练习,python,success,,,46.5
+S032,测试学生032,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.9
+S032,测试学生032,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.3
+S032,测试学生032,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,67.1
+S032,测试学生032,调试方法-练习,python,success,,,82.1
+S033,测试学生033,条件判断-练习,python,success,,,11.0
+S033,测试学生033,while 循环-练习,python,success,,,29.7
+S033,测试学生033,for 循环-练习,python,success,,,47.9
+S033,测试学生033,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.8
+S033,测试学生033,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.2
+S033,测试学生033,调试方法-练习,python,success,,,82.2
+S034,测试学生034,条件判断-练习,python,success,,,11.2
+S034,测试学生034,while 循环-练习,python,success,,,29.6
+S034,测试学生034,for 循环-练习,python,success,,,47.9
+S034,测试学生034,循环边界-练习,python,success,,,64.8
+S034,测试学生034,调试方法-练习,python,success,,,83.2
+S035,测试学生035,条件判断-练习,python,success,,,11.0
+S035,测试学生035,while 循环-练习,python,success,,,29.5
+S035,测试学生035,for 循环-练习,python,success,,,46.8
+S035,测试学生035,循环边界-练习,python,success,,,64.9
+S035,测试学生035,调试方法-练习,python,success,,,82.9
+S036,测试学生036,条件判断-练习,python,wrong_answer,BoundaryCondition,条件判断 检查失败,10.8
+S036,测试学生036,while 循环-练习,python,success,,,29.3
+S036,测试学生036,for 循环-练习,python,success,,,47.9
+S036,测试学生036,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.4
+S036,测试学生036,调试方法-练习,python,success,,,82.7
+S037,测试学生037,条件判断-练习,python,success,,,10.4
+S037,测试学生037,while 循环-练习,python,success,,,28.2
+S037,测试学生037,for 循环-练习,python,success,,,46.1
+S037,测试学生037,循环边界-练习,python,success,,,64.3
+S037,测试学生037,调试方法-练习,python,success,,,83.6
+S038,测试学生038,条件判断-练习,python,success,,,11.9
+S038,测试学生038,while 循环-练习,python,success,,,29.9
+S038,测试学生038,for 循环-练习,python,wrong_answer,WrongAnswer,for 循环 检查失败,47.9
+S038,测试学生038,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.7
+S038,测试学生038,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.2
+S038,测试学生038,调试方法-练习,python,wrong_answer,BoundaryCondition,调试方法 检查失败,82.8
+S039,测试学生039,条件判断-练习,python,success,,,10.3
+S039,测试学生039,while 循环-练习,python,success,,,28.7
+S039,测试学生039,for 循环-练习,python,wrong_answer,StateUpdate,for 循环 检查失败,47.2
+S039,测试学生039,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.6
+S039,测试学生039,调试方法-练习,python,success,,,83.5
+S040,测试学生040,条件判断-练习,python,success,,,11.3
+S040,测试学生040,while 循环-练习,python,success,,,28.8
+S040,测试学生040,for 循环-练习,python,success,,,47.0
+S040,测试学生040,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,64.5
+S040,测试学生040,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.1
+S040,测试学生040,调试方法-练习,python,success,,,83.6
+S041,测试学生041,条件判断-练习,python,success,,,10.4
+S041,测试学生041,while 循环-练习,python,success,,,29.3
+S041,测试学生041,for 循环-练习,python,success,,,47.7
+S041,测试学生041,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.7
+S041,测试学生041,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.2
+S041,测试学生041,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,67.0
+S041,测试学生041,调试方法-练习,python,success,,,83.1
+S042,测试学生042,条件判断-练习,python,success,,,11.6
+S042,测试学生042,while 循环-练习,python,success,,,28.8
+S042,测试学生042,for 循环-练习,python,wrong_answer,StateUpdate,for 循环 检查失败,47.1
+S042,测试学生042,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.2
+S042,测试学生042,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.3
+S042,测试学生042,调试方法-练习,python,wrong_answer,WrongAnswer,调试方法 检查失败,83.8
+S043,测试学生043,条件判断-练习,python,success,,,10.8
+S043,测试学生043,while 循环-练习,python,wrong_answer,WrongAnswer,while 循环 检查失败,29.6
+S043,测试学生043,for 循环-练习,python,wrong_answer,WrongAnswer,for 循环 检查失败,47.8
+S043,测试学生043,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.3
+S043,测试学生043,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.3
+S043,测试学生043,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.8
+S043,测试学生043,调试方法-练习,python,success,,,82.2
+S044,测试学生044,条件判断-练习,python,success,,,10.1
+S044,测试学生044,while 循环-练习,python,success,,,28.8
+S044,测试学生044,for 循环-练习,python,wrong_answer,StateUpdate,for 循环 检查失败,47.0
+S044,测试学生044,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,64.9
+S044,测试学生044,调试方法-练习,python,success,,,84.0
+S045,测试学生045,条件判断-练习,python,success,,,11.6
+S045,测试学生045,while 循环-练习,python,success,,,28.8
+S045,测试学生045,for 循环-练习,python,success,,,46.9
+S045,测试学生045,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.2
+S045,测试学生045,调试方法-练习,python,success,,,83.4
+S046,测试学生046,条件判断-练习,python,success,,,11.9
+S046,测试学生046,while 循环-练习,python,success,,,29.2
+S046,测试学生046,for 循环-练习,python,success,,,47.1
+S046,测试学生046,循环边界-练习,python,success,,,64.5
+S046,测试学生046,调试方法-练习,python,success,,,82.8
+S047,测试学生047,条件判断-练习,python,success,,,11.5
+S047,测试学生047,while 循环-练习,python,success,,,28.4
+S047,测试学生047,for 循环-练习,python,success,,,47.9
+S047,测试学生047,循环边界-练习,python,success,,,65.5
+S047,测试学生047,调试方法-练习,python,success,,,83.9
+S048,测试学生048,条件判断-练习,python,success,,,11.2
+S048,测试学生048,while 循环-练习,python,success,,,29.5
+S048,测试学生048,for 循环-练习,python,success,,,46.3
+S048,测试学生048,循环边界-练习,python,wrong_answer,OffByOne,循环边界 检查失败,65.9
+S048,测试学生048,循环边界-练习,python,wrong_answer,OffByOne,重复出现 OffByOne,66.3
+S048,测试学生048,调试方法-练习,python,success,,,82.2

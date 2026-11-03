@@ -1,0 +1,269 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,对称加密-练习,cpp,success,,,10.4
+S001,测试学生001,公钥密码-练习,cpp,success,,,29.9
+S001,测试学生001,哈希函数-练习,cpp,wrong_answer,StateUpdate,哈希函数 检查失败,46.4
+S001,测试学生001,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.2
+S001,测试学生001,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.2
+S001,测试学生001,密钥管理-练习,cpp,success,,,83.7
+S002,测试学生002,对称加密-练习,cpp,success,,,11.6
+S002,测试学生002,公钥密码-练习,cpp,success,,,29.8
+S002,测试学生002,哈希函数-练习,cpp,success,,,47.8
+S002,测试学生002,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.9
+S002,测试学生002,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.1
+S002,测试学生002,密钥管理-练习,cpp,success,,,82.2
+S003,测试学生003,对称加密-练习,cpp,success,,,10.2
+S003,测试学生003,公钥密码-练习,cpp,success,,,28.9
+S003,测试学生003,哈希函数-练习,cpp,success,,,47.9
+S003,测试学生003,数字签名-练习,cpp,success,,,64.4
+S003,测试学生003,密钥管理-练习,cpp,success,,,82.1
+S004,测试学生004,对称加密-练习,cpp,success,,,11.1
+S004,测试学生004,公钥密码-练习,cpp,success,,,28.6
+S004,测试学生004,哈希函数-练习,cpp,success,,,46.9
+S004,测试学生004,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.9
+S004,测试学生004,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.1
+S004,测试学生004,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,67.0
+S004,测试学生004,密钥管理-练习,cpp,success,,,82.9
+S005,测试学生005,对称加密-练习,cpp,success,,,10.6
+S005,测试学生005,公钥密码-练习,cpp,success,,,28.2
+S005,测试学生005,哈希函数-练习,cpp,success,,,46.6
+S005,测试学生005,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.2
+S005,测试学生005,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.2
+S005,测试学生005,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,67.0
+S005,测试学生005,密钥管理-练习,cpp,success,,,82.3
+S006,测试学生006,对称加密-练习,cpp,success,,,10.2
+S006,测试学生006,公钥密码-练习,cpp,success,,,28.1
+S006,测试学生006,哈希函数-练习,cpp,success,,,47.3
+S006,测试学生006,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.5
+S006,测试学生006,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.3
+S006,测试学生006,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,67.2
+S006,测试学生006,密钥管理-练习,cpp,success,,,82.3
+S007,测试学生007,对称加密-练习,cpp,wrong_answer,BoundaryCondition,对称加密 检查失败,11.6
+S007,测试学生007,公钥密码-练习,cpp,success,,,29.1
+S007,测试学生007,哈希函数-练习,cpp,success,,,47.9
+S007,测试学生007,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.3
+S007,测试学生007,密钥管理-练习,cpp,success,,,82.2
+S008,测试学生008,对称加密-练习,cpp,success,,,11.5
+S008,测试学生008,公钥密码-练习,cpp,success,,,28.5
+S008,测试学生008,哈希函数-练习,cpp,success,,,46.5
+S008,测试学生008,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.2
+S008,测试学生008,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.1
+S008,测试学生008,密钥管理-练习,cpp,success,,,83.7
+S009,测试学生009,对称加密-练习,cpp,success,,,10.1
+S009,测试学生009,公钥密码-练习,cpp,success,,,28.5
+S009,测试学生009,哈希函数-练习,cpp,success,,,47.5
+S009,测试学生009,数字签名-练习,cpp,success,,,64.3
+S009,测试学生009,密钥管理-练习,cpp,success,,,83.5
+S010,测试学生010,对称加密-练习,cpp,success,,,11.0
+S010,测试学生010,公钥密码-练习,cpp,success,,,29.9
+S010,测试学生010,哈希函数-练习,cpp,wrong_answer,RuntimeError,哈希函数 检查失败,47.7
+S010,测试学生010,数字签名-练习,cpp,success,,,65.3
+S010,测试学生010,密钥管理-练习,cpp,success,,,82.0
+S011,测试学生011,对称加密-练习,cpp,success,,,11.9
+S011,测试学生011,公钥密码-练习,cpp,wrong_answer,StateUpdate,公钥密码 检查失败,28.7
+S011,测试学生011,哈希函数-练习,cpp,success,,,47.0
+S011,测试学生011,数字签名-练习,cpp,success,,,65.3
+S011,测试学生011,密钥管理-练习,cpp,wrong_answer,BoundaryCondition,密钥管理 检查失败,82.1
+S012,测试学生012,对称加密-练习,cpp,success,,,11.6
+S012,测试学生012,公钥密码-练习,cpp,success,,,28.5
+S012,测试学生012,哈希函数-练习,cpp,success,,,47.9
+S012,测试学生012,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.3
+S012,测试学生012,密钥管理-练习,cpp,success,,,82.2
+S013,测试学生013,对称加密-练习,cpp,success,,,11.3
+S013,测试学生013,公钥密码-练习,cpp,success,,,29.6
+S013,测试学生013,哈希函数-练习,cpp,success,,,46.7
+S013,测试学生013,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.7
+S013,测试学生013,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.4
+S013,测试学生013,密钥管理-练习,cpp,success,,,82.2
+S014,测试学生014,对称加密-练习,cpp,wrong_answer,BoundaryCondition,对称加密 检查失败,11.9
+S014,测试学生014,公钥密码-练习,cpp,success,,,29.3
+S014,测试学生014,哈希函数-练习,cpp,success,,,47.7
+S014,测试学生014,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.1
+S014,测试学生014,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.2
+S014,测试学生014,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,67.0
+S014,测试学生014,密钥管理-练习,cpp,success,,,83.9
+S015,测试学生015,对称加密-练习,cpp,success,,,11.1
+S015,测试学生015,公钥密码-练习,cpp,success,,,29.2
+S015,测试学生015,哈希函数-练习,cpp,success,,,46.3
+S015,测试学生015,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.0
+S015,测试学生015,密钥管理-练习,cpp,success,,,82.2
+S016,测试学生016,对称加密-练习,cpp,success,,,10.7
+S016,测试学生016,公钥密码-练习,cpp,success,,,28.3
+S016,测试学生016,哈希函数-练习,cpp,success,,,46.7
+S016,测试学生016,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.7
+S016,测试学生016,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.3
+S016,测试学生016,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,67.1
+S016,测试学生016,密钥管理-练习,cpp,wrong_answer,RuntimeError,密钥管理 检查失败,83.5
+S017,测试学生017,对称加密-练习,cpp,wrong_answer,SyntaxError,对称加密 检查失败,11.1
+S017,测试学生017,公钥密码-练习,cpp,wrong_answer,SyntaxError,公钥密码 检查失败,28.0
+S017,测试学生017,哈希函数-练习,cpp,success,,,47.4
+S017,测试学生017,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.6
+S017,测试学生017,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.3
+S017,测试学生017,密钥管理-练习,cpp,wrong_answer,BoundaryCondition,密钥管理 检查失败,83.9
+S018,测试学生018,对称加密-练习,cpp,success,,,10.2
+S018,测试学生018,公钥密码-练习,cpp,success,,,28.3
+S018,测试学生018,哈希函数-练习,cpp,success,,,48.0
+S018,测试学生018,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.4
+S018,测试学生018,密钥管理-练习,cpp,success,,,83.7
+S019,测试学生019,对称加密-练习,cpp,success,,,10.3
+S019,测试学生019,公钥密码-练习,cpp,success,,,29.7
+S019,测试学生019,哈希函数-练习,cpp,success,,,46.1
+S019,测试学生019,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.6
+S019,测试学生019,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.1
+S019,测试学生019,密钥管理-练习,cpp,success,,,83.2
+S020,测试学生020,对称加密-练习,cpp,success,,,10.8
+S020,测试学生020,公钥密码-练习,cpp,success,,,28.2
+S020,测试学生020,哈希函数-练习,cpp,success,,,46.4
+S020,测试学生020,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.2
+S020,测试学生020,密钥管理-练习,cpp,success,,,83.0
+S021,测试学生021,对称加密-练习,cpp,success,,,10.8
+S021,测试学生021,公钥密码-练习,cpp,success,,,28.3
+S021,测试学生021,哈希函数-练习,cpp,wrong_answer,WrongAnswer,哈希函数 检查失败,46.6
+S021,测试学生021,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.2
+S021,测试学生021,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.2
+S021,测试学生021,密钥管理-练习,cpp,success,,,82.4
+S022,测试学生022,对称加密-练习,cpp,success,,,11.1
+S022,测试学生022,公钥密码-练习,cpp,success,,,28.4
+S022,测试学生022,哈希函数-练习,cpp,success,,,46.0
+S022,测试学生022,数字签名-练习,cpp,success,,,64.2
+S022,测试学生022,密钥管理-练习,cpp,success,,,82.0
+S023,测试学生023,对称加密-练习,cpp,success,,,10.9
+S023,测试学生023,公钥密码-练习,cpp,success,,,28.2
+S023,测试学生023,哈希函数-练习,cpp,success,,,47.4
+S023,测试学生023,数字签名-练习,cpp,success,,,65.5
+S023,测试学生023,密钥管理-练习,cpp,success,,,83.8
+S024,测试学生024,对称加密-练习,cpp,success,,,11.6
+S024,测试学生024,公钥密码-练习,cpp,success,,,30.0
+S024,测试学生024,哈希函数-练习,cpp,success,,,46.2
+S024,测试学生024,数字签名-练习,cpp,success,,,64.3
+S024,测试学生024,密钥管理-练习,cpp,success,,,83.7
+S025,测试学生025,对称加密-练习,cpp,wrong_answer,SyntaxError,对称加密 检查失败,10.0
+S025,测试学生025,公钥密码-练习,cpp,success,,,29.3
+S025,测试学生025,哈希函数-练习,cpp,success,,,47.4
+S025,测试学生025,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.8
+S025,测试学生025,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.0
+S025,测试学生025,密钥管理-练习,cpp,wrong_answer,StateUpdate,密钥管理 检查失败,83.1
+S026,测试学生026,对称加密-练习,cpp,wrong_answer,BoundaryCondition,对称加密 检查失败,11.9
+S026,测试学生026,公钥密码-练习,cpp,wrong_answer,RuntimeError,公钥密码 检查失败,29.8
+S026,测试学生026,哈希函数-练习,cpp,success,,,46.6
+S026,测试学生026,数字签名-练习,cpp,success,,,64.3
+S026,测试学生026,密钥管理-练习,cpp,success,,,82.5
+S027,测试学生027,对称加密-练习,cpp,success,,,10.3
+S027,测试学生027,公钥密码-练习,cpp,success,,,29.4
+S027,测试学生027,哈希函数-练习,cpp,success,,,47.7
+S027,测试学生027,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.8
+S027,测试学生027,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.3
+S027,测试学生027,密钥管理-练习,cpp,wrong_answer,WrongAnswer,密钥管理 检查失败,83.8
+S028,测试学生028,对称加密-练习,cpp,success,,,10.9
+S028,测试学生028,公钥密码-练习,cpp,success,,,29.6
+S028,测试学生028,哈希函数-练习,cpp,success,,,46.6
+S028,测试学生028,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.5
+S028,测试学生028,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.1
+S028,测试学生028,密钥管理-练习,cpp,success,,,83.1
+S029,测试学生029,对称加密-练习,cpp,success,,,11.2
+S029,测试学生029,公钥密码-练习,cpp,wrong_answer,StateUpdate,公钥密码 检查失败,28.7
+S029,测试学生029,哈希函数-练习,cpp,success,,,47.9
+S029,测试学生029,数字签名-练习,cpp,success,,,64.5
+S029,测试学生029,密钥管理-练习,cpp,success,,,82.1
+S030,测试学生030,对称加密-练习,cpp,success,,,11.7
+S030,测试学生030,公钥密码-练习,cpp,success,,,29.0
+S030,测试学生030,哈希函数-练习,cpp,success,,,46.9
+S030,测试学生030,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.3
+S030,测试学生030,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.0
+S030,测试学生030,密钥管理-练习,cpp,success,,,83.9
+S031,测试学生031,对称加密-练习,cpp,success,,,10.4
+S031,测试学生031,公钥密码-练习,cpp,success,,,28.3
+S031,测试学生031,哈希函数-练习,cpp,success,,,47.7
+S031,测试学生031,数字签名-练习,cpp,success,,,64.8
+S031,测试学生031,密钥管理-练习,cpp,success,,,83.6
+S032,测试学生032,对称加密-练习,cpp,success,,,11.4
+S032,测试学生032,公钥密码-练习,cpp,success,,,28.4
+S032,测试学生032,哈希函数-练习,cpp,wrong_answer,WrongAnswer,哈希函数 检查失败,46.6
+S032,测试学生032,数字签名-练习,cpp,success,,,65.1
+S032,测试学生032,密钥管理-练习,cpp,wrong_answer,StateUpdate,密钥管理 检查失败,83.6
+S033,测试学生033,对称加密-练习,cpp,success,,,11.5
+S033,测试学生033,公钥密码-练习,cpp,success,,,28.1
+S033,测试学生033,哈希函数-练习,cpp,success,,,47.2
+S033,测试学生033,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.8
+S033,测试学生033,密钥管理-练习,cpp,success,,,82.6
+S034,测试学生034,对称加密-练习,cpp,wrong_answer,RuntimeError,对称加密 检查失败,10.4
+S034,测试学生034,公钥密码-练习,cpp,success,,,29.1
+S034,测试学生034,哈希函数-练习,cpp,success,,,47.1
+S034,测试学生034,数字签名-练习,cpp,success,,,64.6
+S034,测试学生034,密钥管理-练习,cpp,success,,,83.9
+S035,测试学生035,对称加密-练习,cpp,success,,,11.2
+S035,测试学生035,公钥密码-练习,cpp,success,,,28.9
+S035,测试学生035,哈希函数-练习,cpp,success,,,47.4
+S035,测试学生035,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.6
+S035,测试学生035,密钥管理-练习,cpp,success,,,83.4
+S036,测试学生036,对称加密-练习,cpp,success,,,10.6
+S036,测试学生036,公钥密码-练习,cpp,wrong_answer,WrongAnswer,公钥密码 检查失败,29.0
+S036,测试学生036,哈希函数-练习,cpp,wrong_answer,RuntimeError,哈希函数 检查失败,46.3
+S036,测试学生036,数字签名-练习,cpp,success,,,64.9
+S036,测试学生036,密钥管理-练习,cpp,success,,,82.6
+S037,测试学生037,对称加密-练习,cpp,success,,,10.9
+S037,测试学生037,公钥密码-练习,cpp,success,,,28.6
+S037,测试学生037,哈希函数-练习,cpp,success,,,46.9
+S037,测试学生037,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.8
+S037,测试学生037,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.3
+S037,测试学生037,密钥管理-练习,cpp,success,,,82.3
+S038,测试学生038,对称加密-练习,cpp,success,,,11.1
+S038,测试学生038,公钥密码-练习,cpp,success,,,28.9
+S038,测试学生038,哈希函数-练习,cpp,success,,,47.7
+S038,测试学生038,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.4
+S038,测试学生038,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.2
+S038,测试学生038,密钥管理-练习,cpp,success,,,83.5
+S039,测试学生039,对称加密-练习,cpp,success,,,10.2
+S039,测试学生039,公钥密码-练习,cpp,success,,,29.4
+S039,测试学生039,哈希函数-练习,cpp,success,,,47.2
+S039,测试学生039,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.9
+S039,测试学生039,密钥管理-练习,cpp,success,,,82.4
+S040,测试学生040,对称加密-练习,cpp,success,,,10.7
+S040,测试学生040,公钥密码-练习,cpp,success,,,29.3
+S040,测试学生040,哈希函数-练习,cpp,success,,,46.3
+S040,测试学生040,数字签名-练习,cpp,success,,,65.4
+S040,测试学生040,密钥管理-练习,cpp,success,,,82.3
+S041,测试学生041,对称加密-练习,cpp,success,,,10.8
+S041,测试学生041,公钥密码-练习,cpp,success,,,29.2
+S041,测试学生041,哈希函数-练习,cpp,success,,,46.2
+S041,测试学生041,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.2
+S041,测试学生041,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.2
+S041,测试学生041,密钥管理-练习,cpp,success,,,83.8
+S042,测试学生042,对称加密-练习,cpp,wrong_answer,RuntimeError,对称加密 检查失败,10.2
+S042,测试学生042,公钥密码-练习,cpp,success,,,28.9
+S042,测试学生042,哈希函数-练习,cpp,success,,,46.6
+S042,测试学生042,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.9
+S042,测试学生042,密钥管理-练习,cpp,success,,,82.5
+S043,测试学生043,对称加密-练习,cpp,wrong_answer,WrongAnswer,对称加密 检查失败,11.1
+S043,测试学生043,公钥密码-练习,cpp,success,,,29.8
+S043,测试学生043,哈希函数-练习,cpp,success,,,47.2
+S043,测试学生043,数字签名-练习,cpp,success,,,64.3
+S043,测试学生043,密钥管理-练习,cpp,success,,,82.8
+S044,测试学生044,对称加密-练习,cpp,success,,,10.1
+S044,测试学生044,公钥密码-练习,cpp,success,,,28.6
+S044,测试学生044,哈希函数-练习,cpp,success,,,46.4
+S044,测试学生044,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,65.3
+S044,测试学生044,密钥管理-练习,cpp,success,,,83.0
+S045,测试学生045,对称加密-练习,cpp,success,,,10.0
+S045,测试学生045,公钥密码-练习,cpp,success,,,30.0
+S045,测试学生045,哈希函数-练习,cpp,success,,,46.7
+S045,测试学生045,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.6
+S045,测试学生045,密钥管理-练习,cpp,success,,,83.6
+S046,测试学生046,对称加密-练习,cpp,success,,,10.3
+S046,测试学生046,公钥密码-练习,cpp,success,,,29.1
+S046,测试学生046,哈希函数-练习,cpp,success,,,46.5
+S046,测试学生046,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.7
+S046,测试学生046,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.2
+S046,测试学生046,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,67.0
+S046,测试学生046,密钥管理-练习,cpp,success,,,82.9
+S047,测试学生047,对称加密-练习,cpp,success,,,10.3
+S047,测试学生047,公钥密码-练习,cpp,success,,,29.5
+S047,测试学生047,哈希函数-练习,cpp,success,,,47.2
+S047,测试学生047,数字签名-练习,cpp,success,,,64.9
+S047,测试学生047,密钥管理-练习,cpp,success,,,82.2
+S048,测试学生048,对称加密-练习,cpp,success,,,11.1
+S048,测试学生048,公钥密码-练习,cpp,success,,,30.0
+S048,测试学生048,哈希函数-练习,cpp,success,,,47.7
+S048,测试学生048,数字签名-练习,cpp,wrong_answer,SignatureMismatch,数字签名 检查失败,64.3
+S048,测试学生048,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.0
+S048,测试学生048,数字签名-练习,cpp,wrong_answer,SignatureMismatch,重复出现 SignatureMismatch,66.9
+S048,测试学生048,密钥管理-练习,cpp,success,,,83.4

@@ -1,0 +1,274 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,单一职责-练习,cpp,success,,,11.8
+S001,测试学生001,工厂模式-练习,cpp,success,,,28.2
+S001,测试学生001,观察者模式-练习,cpp,success,,,47.6
+S001,测试学生001,策略模式-练习,cpp,success,,,64.9
+S001,测试学生001,依赖倒置-练习,cpp,success,,,82.9
+S002,测试学生002,单一职责-练习,cpp,success,,,10.4
+S002,测试学生002,工厂模式-练习,cpp,success,,,28.3
+S002,测试学生002,观察者模式-练习,cpp,wrong_answer,StateUpdate,观察者模式 检查失败,46.6
+S002,测试学生002,策略模式-练习,cpp,success,,,64.5
+S002,测试学生002,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.1
+S003,测试学生003,单一职责-练习,cpp,success,,,10.0
+S003,测试学生003,工厂模式-练习,cpp,wrong_answer,RuntimeError,工厂模式 检查失败,28.3
+S003,测试学生003,观察者模式-练习,cpp,success,,,47.1
+S003,测试学生003,策略模式-练习,cpp,success,,,64.7
+S003,测试学生003,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.9
+S003,测试学生003,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.2
+S003,测试学生003,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,85.1
+S004,测试学生004,单一职责-练习,cpp,success,,,10.0
+S004,测试学生004,工厂模式-练习,cpp,success,,,29.0
+S004,测试学生004,观察者模式-练习,cpp,success,,,47.5
+S004,测试学生004,策略模式-练习,cpp,wrong_answer,SyntaxError,策略模式 检查失败,64.6
+S004,测试学生004,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.6
+S004,测试学生004,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.1
+S005,测试学生005,单一职责-练习,cpp,success,,,11.2
+S005,测试学生005,工厂模式-练习,cpp,wrong_answer,StateUpdate,工厂模式 检查失败,29.4
+S005,测试学生005,观察者模式-练习,cpp,success,,,47.3
+S005,测试学生005,策略模式-练习,cpp,success,,,65.8
+S005,测试学生005,依赖倒置-练习,cpp,success,,,83.6
+S006,测试学生006,单一职责-练习,cpp,success,,,11.2
+S006,测试学生006,工厂模式-练习,cpp,success,,,28.7
+S006,测试学生006,观察者模式-练习,cpp,success,,,46.9
+S006,测试学生006,策略模式-练习,cpp,wrong_answer,RuntimeError,策略模式 检查失败,64.8
+S006,测试学生006,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.1
+S006,测试学生006,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.3
+S007,测试学生007,单一职责-练习,cpp,success,,,10.3
+S007,测试学生007,工厂模式-练习,cpp,success,,,28.9
+S007,测试学生007,观察者模式-练习,cpp,wrong_answer,BoundaryCondition,观察者模式 检查失败,47.4
+S007,测试学生007,策略模式-练习,cpp,success,,,65.8
+S007,测试学生007,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.0
+S008,测试学生008,单一职责-练习,cpp,success,,,10.8
+S008,测试学生008,工厂模式-练习,cpp,success,,,29.5
+S008,测试学生008,观察者模式-练习,cpp,success,,,48.0
+S008,测试学生008,策略模式-练习,cpp,success,,,65.1
+S008,测试学生008,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.4
+S008,测试学生008,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.3
+S009,测试学生009,单一职责-练习,cpp,success,,,11.3
+S009,测试学生009,工厂模式-练习,cpp,success,,,29.2
+S009,测试学生009,观察者模式-练习,cpp,success,,,47.7
+S009,测试学生009,策略模式-练习,cpp,success,,,65.9
+S009,测试学生009,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.5
+S009,测试学生009,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.1
+S010,测试学生010,单一职责-练习,cpp,success,,,10.7
+S010,测试学生010,工厂模式-练习,cpp,wrong_answer,StateUpdate,工厂模式 检查失败,29.9
+S010,测试学生010,观察者模式-练习,cpp,success,,,46.0
+S010,测试学生010,策略模式-练习,cpp,success,,,65.6
+S010,测试学生010,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.0
+S010,测试学生010,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.1
+S011,测试学生011,单一职责-练习,cpp,success,,,11.8
+S011,测试学生011,工厂模式-练习,cpp,success,,,29.5
+S011,测试学生011,观察者模式-练习,cpp,success,,,47.5
+S011,测试学生011,策略模式-练习,cpp,success,,,64.5
+S011,测试学生011,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.5
+S011,测试学生011,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.4
+S012,测试学生012,单一职责-练习,cpp,success,,,10.2
+S012,测试学生012,工厂模式-练习,cpp,wrong_answer,BoundaryCondition,工厂模式 检查失败,28.1
+S012,测试学生012,观察者模式-练习,cpp,success,,,47.9
+S012,测试学生012,策略模式-练习,cpp,success,,,64.1
+S012,测试学生012,依赖倒置-练习,cpp,success,,,82.4
+S013,测试学生013,单一职责-练习,cpp,success,,,11.5
+S013,测试学生013,工厂模式-练习,cpp,wrong_answer,BoundaryCondition,工厂模式 检查失败,30.0
+S013,测试学生013,观察者模式-练习,cpp,success,,,46.8
+S013,测试学生013,策略模式-练习,cpp,success,,,65.1
+S013,测试学生013,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.3
+S013,测试学生013,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.2
+S014,测试学生014,单一职责-练习,cpp,success,,,10.0
+S014,测试学生014,工厂模式-练习,cpp,wrong_answer,SyntaxError,工厂模式 检查失败,28.7
+S014,测试学生014,观察者模式-练习,cpp,success,,,46.0
+S014,测试学生014,策略模式-练习,cpp,success,,,65.5
+S014,测试学生014,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.4
+S014,测试学生014,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.3
+S015,测试学生015,单一职责-练习,cpp,success,,,11.8
+S015,测试学生015,工厂模式-练习,cpp,success,,,29.8
+S015,测试学生015,观察者模式-练习,cpp,success,,,47.6
+S015,测试学生015,策略模式-练习,cpp,success,,,65.1
+S015,测试学生015,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.1
+S015,测试学生015,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.4
+S016,测试学生016,单一职责-练习,cpp,success,,,10.6
+S016,测试学生016,工厂模式-练习,cpp,success,,,29.9
+S016,测试学生016,观察者模式-练习,cpp,success,,,46.6
+S016,测试学生016,策略模式-练习,cpp,success,,,65.6
+S016,测试学生016,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.9
+S016,测试学生016,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.2
+S017,测试学生017,单一职责-练习,cpp,success,,,10.8
+S017,测试学生017,工厂模式-练习,cpp,success,,,28.3
+S017,测试学生017,观察者模式-练习,cpp,success,,,47.1
+S017,测试学生017,策略模式-练习,cpp,success,,,65.6
+S017,测试学生017,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.9
+S017,测试学生017,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.1
+S018,测试学生018,单一职责-练习,cpp,wrong_answer,SyntaxError,单一职责 检查失败,10.5
+S018,测试学生018,工厂模式-练习,cpp,success,,,28.1
+S018,测试学生018,观察者模式-练习,cpp,success,,,47.7
+S018,测试学生018,策略模式-练习,cpp,success,,,64.9
+S018,测试学生018,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.9
+S018,测试学生018,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.0
+S019,测试学生019,单一职责-练习,cpp,success,,,11.8
+S019,测试学生019,工厂模式-练习,cpp,success,,,29.8
+S019,测试学生019,观察者模式-练习,cpp,success,,,46.7
+S019,测试学生019,策略模式-练习,cpp,success,,,64.5
+S019,测试学生019,依赖倒置-练习,cpp,success,,,83.0
+S020,测试学生020,单一职责-练习,cpp,wrong_answer,BoundaryCondition,单一职责 检查失败,12.0
+S020,测试学生020,工厂模式-练习,cpp,success,,,29.0
+S020,测试学生020,观察者模式-练习,cpp,wrong_answer,BoundaryCondition,观察者模式 检查失败,47.0
+S020,测试学生020,策略模式-练习,cpp,success,,,64.5
+S020,测试学生020,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.1
+S020,测试学生020,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.3
+S020,测试学生020,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.9
+S021,测试学生021,单一职责-练习,cpp,success,,,10.4
+S021,测试学生021,工厂模式-练习,cpp,success,,,29.7
+S021,测试学生021,观察者模式-练习,cpp,success,,,46.3
+S021,测试学生021,策略模式-练习,cpp,success,,,64.4
+S021,测试学生021,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.7
+S021,测试学生021,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.3
+S021,测试学生021,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,85.0
+S022,测试学生022,单一职责-练习,cpp,wrong_answer,BoundaryCondition,单一职责 检查失败,11.1
+S022,测试学生022,工厂模式-练习,cpp,success,,,28.4
+S022,测试学生022,观察者模式-练习,cpp,success,,,47.5
+S022,测试学生022,策略模式-练习,cpp,success,,,64.8
+S022,测试学生022,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.7
+S022,测试学生022,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.0
+S023,测试学生023,单一职责-练习,cpp,success,,,11.6
+S023,测试学生023,工厂模式-练习,cpp,success,,,29.7
+S023,测试学生023,观察者模式-练习,cpp,success,,,47.6
+S023,测试学生023,策略模式-练习,cpp,success,,,64.7
+S023,测试学生023,依赖倒置-练习,cpp,success,,,82.4
+S024,测试学生024,单一职责-练习,cpp,success,,,11.9
+S024,测试学生024,工厂模式-练习,cpp,success,,,29.4
+S024,测试学生024,观察者模式-练习,cpp,success,,,46.5
+S024,测试学生024,策略模式-练习,cpp,wrong_answer,WrongAnswer,策略模式 检查失败,66.0
+S024,测试学生024,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.9
+S025,测试学生025,单一职责-练习,cpp,success,,,10.7
+S025,测试学生025,工厂模式-练习,cpp,success,,,29.1
+S025,测试学生025,观察者模式-练习,cpp,success,,,47.9
+S025,测试学生025,策略模式-练习,cpp,success,,,65.0
+S025,测试学生025,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.8
+S026,测试学生026,单一职责-练习,cpp,success,,,12.0
+S026,测试学生026,工厂模式-练习,cpp,success,,,28.6
+S026,测试学生026,观察者模式-练习,cpp,success,,,46.3
+S026,测试学生026,策略模式-练习,cpp,wrong_answer,WrongAnswer,策略模式 检查失败,65.9
+S026,测试学生026,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,84.0
+S026,测试学生026,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.4
+S027,测试学生027,单一职责-练习,cpp,success,,,10.7
+S027,测试学生027,工厂模式-练习,cpp,success,,,29.0
+S027,测试学生027,观察者模式-练习,cpp,success,,,46.2
+S027,测试学生027,策略模式-练习,cpp,success,,,64.1
+S027,测试学生027,依赖倒置-练习,cpp,success,,,83.3
+S028,测试学生028,单一职责-练习,cpp,success,,,11.0
+S028,测试学生028,工厂模式-练习,cpp,success,,,29.9
+S028,测试学生028,观察者模式-练习,cpp,success,,,47.7
+S028,测试学生028,策略模式-练习,cpp,success,,,65.0
+S028,测试学生028,依赖倒置-练习,cpp,success,,,83.0
+S029,测试学生029,单一职责-练习,cpp,success,,,10.1
+S029,测试学生029,工厂模式-练习,cpp,success,,,28.2
+S029,测试学生029,观察者模式-练习,cpp,success,,,46.4
+S029,测试学生029,策略模式-练习,cpp,success,,,64.6
+S029,测试学生029,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.6
+S030,测试学生030,单一职责-练习,cpp,success,,,10.5
+S030,测试学生030,工厂模式-练习,cpp,success,,,29.9
+S030,测试学生030,观察者模式-练习,cpp,success,,,47.0
+S030,测试学生030,策略模式-练习,cpp,success,,,64.6
+S030,测试学生030,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.0
+S030,测试学生030,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.1
+S030,测试学生030,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.8
+S031,测试学生031,单一职责-练习,cpp,success,,,10.1
+S031,测试学生031,工厂模式-练习,cpp,success,,,29.9
+S031,测试学生031,观察者模式-练习,cpp,success,,,47.1
+S031,测试学生031,策略模式-练习,cpp,success,,,65.3
+S031,测试学生031,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.8
+S031,测试学生031,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.1
+S031,测试学生031,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,85.1
+S032,测试学生032,单一职责-练习,cpp,success,,,10.8
+S032,测试学生032,工厂模式-练习,cpp,success,,,29.5
+S032,测试学生032,观察者模式-练习,cpp,success,,,46.8
+S032,测试学生032,策略模式-练习,cpp,success,,,64.8
+S032,测试学生032,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.7
+S032,测试学生032,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.2
+S033,测试学生033,单一职责-练习,cpp,success,,,10.0
+S033,测试学生033,工厂模式-练习,cpp,success,,,28.9
+S033,测试学生033,观察者模式-练习,cpp,wrong_answer,SyntaxError,观察者模式 检查失败,47.5
+S033,测试学生033,策略模式-练习,cpp,success,,,65.5
+S033,测试学生033,依赖倒置-练习,cpp,success,,,82.2
+S034,测试学生034,单一职责-练习,cpp,success,,,11.8
+S034,测试学生034,工厂模式-练习,cpp,success,,,29.1
+S034,测试学生034,观察者模式-练习,cpp,wrong_answer,RuntimeError,观察者模式 检查失败,46.8
+S034,测试学生034,策略模式-练习,cpp,success,,,64.4
+S034,测试学生034,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.1
+S034,测试学生034,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.3
+S035,测试学生035,单一职责-练习,cpp,success,,,10.9
+S035,测试学生035,工厂模式-练习,cpp,wrong_answer,WrongAnswer,工厂模式 检查失败,28.5
+S035,测试学生035,观察者模式-练习,cpp,success,,,46.4
+S035,测试学生035,策略模式-练习,cpp,success,,,65.2
+S035,测试学生035,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.0
+S035,测试学生035,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.1
+S036,测试学生036,单一职责-练习,cpp,success,,,11.0
+S036,测试学生036,工厂模式-练习,cpp,success,,,29.8
+S036,测试学生036,观察者模式-练习,cpp,success,,,46.8
+S036,测试学生036,策略模式-练习,cpp,success,,,64.3
+S036,测试学生036,依赖倒置-练习,cpp,success,,,82.4
+S037,测试学生037,单一职责-练习,cpp,success,,,11.8
+S037,测试学生037,工厂模式-练习,cpp,wrong_answer,WrongAnswer,工厂模式 检查失败,29.6
+S037,测试学生037,观察者模式-练习,cpp,success,,,47.6
+S037,测试学生037,策略模式-练习,cpp,success,,,65.8
+S037,测试学生037,依赖倒置-练习,cpp,success,,,82.8
+S038,测试学生038,单一职责-练习,cpp,success,,,10.3
+S038,测试学生038,工厂模式-练习,cpp,success,,,29.3
+S038,测试学生038,观察者模式-练习,cpp,success,,,47.2
+S038,测试学生038,策略模式-练习,cpp,success,,,64.8
+S038,测试学生038,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.5
+S038,测试学生038,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.2
+S039,测试学生039,单一职责-练习,cpp,success,,,11.8
+S039,测试学生039,工厂模式-练习,cpp,wrong_answer,RuntimeError,工厂模式 检查失败,29.0
+S039,测试学生039,观察者模式-练习,cpp,wrong_answer,SyntaxError,观察者模式 检查失败,46.9
+S039,测试学生039,策略模式-练习,cpp,success,,,65.6
+S039,测试学生039,依赖倒置-练习,cpp,success,,,83.9
+S040,测试学生040,单一职责-练习,cpp,success,,,11.8
+S040,测试学生040,工厂模式-练习,cpp,success,,,28.7
+S040,测试学生040,观察者模式-练习,cpp,success,,,47.3
+S040,测试学生040,策略模式-练习,cpp,wrong_answer,BoundaryCondition,策略模式 检查失败,64.2
+S040,测试学生040,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.7
+S040,测试学生040,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.3
+S041,测试学生041,单一职责-练习,cpp,wrong_answer,WrongAnswer,单一职责 检查失败,11.4
+S041,测试学生041,工厂模式-练习,cpp,success,,,29.6
+S041,测试学生041,观察者模式-练习,cpp,wrong_answer,StateUpdate,观察者模式 检查失败,46.5
+S041,测试学生041,策略模式-练习,cpp,wrong_answer,WrongAnswer,策略模式 检查失败,64.8
+S041,测试学生041,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.3
+S041,测试学生041,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.1
+S042,测试学生042,单一职责-练习,cpp,success,,,11.1
+S042,测试学生042,工厂模式-练习,cpp,success,,,29.1
+S042,测试学生042,观察者模式-练习,cpp,wrong_answer,SyntaxError,观察者模式 检查失败,46.4
+S042,测试学生042,策略模式-练习,cpp,success,,,64.7
+S042,测试学生042,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.4
+S043,测试学生043,单一职责-练习,cpp,wrong_answer,BoundaryCondition,单一职责 检查失败,12.0
+S043,测试学生043,工厂模式-练习,cpp,success,,,28.6
+S043,测试学生043,观察者模式-练习,cpp,success,,,47.6
+S043,测试学生043,策略模式-练习,cpp,success,,,64.8
+S043,测试学生043,依赖倒置-练习,cpp,success,,,83.7
+S044,测试学生044,单一职责-练习,cpp,success,,,10.6
+S044,测试学生044,工厂模式-练习,cpp,success,,,29.0
+S044,测试学生044,观察者模式-练习,cpp,success,,,46.8
+S044,测试学生044,策略模式-练习,cpp,wrong_answer,BoundaryCondition,策略模式 检查失败,64.6
+S044,测试学生044,依赖倒置-练习,cpp,success,,,83.7
+S045,测试学生045,单一职责-练习,cpp,wrong_answer,WrongAnswer,单一职责 检查失败,12.0
+S045,测试学生045,工厂模式-练习,cpp,success,,,28.3
+S045,测试学生045,观察者模式-练习,cpp,success,,,47.2
+S045,测试学生045,策略模式-练习,cpp,success,,,65.3
+S045,测试学生045,依赖倒置-练习,cpp,success,,,82.6
+S046,测试学生046,单一职责-练习,cpp,success,,,10.1
+S046,测试学生046,工厂模式-练习,cpp,success,,,28.3
+S046,测试学生046,观察者模式-练习,cpp,success,,,47.4
+S046,测试学生046,策略模式-练习,cpp,success,,,65.9
+S046,测试学生046,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,83.5
+S046,测试学生046,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.1
+S047,测试学生047,单一职责-练习,cpp,success,,,10.2
+S047,测试学生047,工厂模式-练习,cpp,success,,,29.4
+S047,测试学生047,观察者模式-练习,cpp,success,,,46.2
+S047,测试学生047,策略模式-练习,cpp,success,,,64.0
+S047,测试学生047,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.8
+S047,测试学生047,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.4
+S047,测试学生047,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,重复出现 DependencyInversion,84.9
+S048,测试学生048,单一职责-练习,cpp,success,,,11.6
+S048,测试学生048,工厂模式-练习,cpp,success,,,28.7
+S048,测试学生048,观察者模式-练习,cpp,success,,,47.5
+S048,测试学生048,策略模式-练习,cpp,success,,,64.1
+S048,测试学生048,依赖倒置-练习,cpp,wrong_answer,DependencyInversion,依赖倒置 检查失败,82.0

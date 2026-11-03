@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "17 机器学习 分类模型",
+    "course_type": "机器学习",
+    "class_date": "2026-09-18",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "特征处理",
+      "topic_area": "机器学习",
+      "display_order": 1
+    },
+    {
+      "name": "逻辑回归",
+      "topic_area": "机器学习",
+      "display_order": 2
+    },
+    {
+      "name": "决策树",
+      "topic_area": "机器学习",
+      "display_order": 3
+    },
+    {
+      "name": "模型评估",
+      "topic_area": "机器学习",
+      "display_order": 4
+    },
+    {
+      "name": "过拟合",
+      "topic_area": "机器学习",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "过拟合"
+}

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.run-*.log
+local.db
+storage/uploads/
+tests/
+.env
+# 本文件的作用是：声明后端容器构建时不需要复制的文件。

@@ -1,0 +1,269 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,特征处理-练习,cpp,success,,,10.3
+S001,测试学生001,逻辑回归-练习,cpp,success,,,28.8
+S001,测试学生001,决策树-练习,cpp,success,,,46.3
+S001,测试学生001,模型评估-练习,cpp,success,,,65.6
+S001,测试学生001,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,82.2
+S002,测试学生002,特征处理-练习,cpp,success,,,11.8
+S002,测试学生002,逻辑回归-练习,cpp,wrong_answer,BoundaryCondition,逻辑回归 检查失败,28.7
+S002,测试学生002,决策树-练习,cpp,success,,,47.1
+S002,测试学生002,模型评估-练习,cpp,success,,,65.1
+S002,测试学生002,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.1
+S003,测试学生003,特征处理-练习,cpp,wrong_answer,RuntimeError,特征处理 检查失败,10.9
+S003,测试学生003,逻辑回归-练习,cpp,success,,,29.2
+S003,测试学生003,决策树-练习,cpp,success,,,46.4
+S003,测试学生003,模型评估-练习,cpp,success,,,65.7
+S003,测试学生003,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.5
+S004,测试学生004,特征处理-练习,cpp,wrong_answer,WrongAnswer,特征处理 检查失败,10.4
+S004,测试学生004,逻辑回归-练习,cpp,wrong_answer,BoundaryCondition,逻辑回归 检查失败,29.2
+S004,测试学生004,决策树-练习,cpp,success,,,47.9
+S004,测试学生004,模型评估-练习,cpp,success,,,65.2
+S004,测试学生004,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.7
+S005,测试学生005,特征处理-练习,cpp,success,,,10.6
+S005,测试学生005,逻辑回归-练习,cpp,success,,,29.5
+S005,测试学生005,决策树-练习,cpp,success,,,46.5
+S005,测试学生005,模型评估-练习,cpp,success,,,64.1
+S005,测试学生005,过拟合-练习,cpp,success,,,83.2
+S006,测试学生006,特征处理-练习,cpp,success,,,10.9
+S006,测试学生006,逻辑回归-练习,cpp,wrong_answer,BoundaryCondition,逻辑回归 检查失败,29.6
+S006,测试学生006,决策树-练习,cpp,success,,,46.7
+S006,测试学生006,模型评估-练习,cpp,success,,,65.3
+S006,测试学生006,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.7
+S007,测试学生007,特征处理-练习,cpp,wrong_answer,BoundaryCondition,特征处理 检查失败,10.6
+S007,测试学生007,逻辑回归-练习,cpp,success,,,28.2
+S007,测试学生007,决策树-练习,cpp,success,,,46.3
+S007,测试学生007,模型评估-练习,cpp,success,,,65.2
+S007,测试学生007,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,82.9
+S007,测试学生007,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.4
+S007,测试学生007,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,85.0
+S008,测试学生008,特征处理-练习,cpp,success,,,10.9
+S008,测试学生008,逻辑回归-练习,cpp,success,,,28.6
+S008,测试学生008,决策树-练习,cpp,wrong_answer,RuntimeError,决策树 检查失败,46.6
+S008,测试学生008,模型评估-练习,cpp,wrong_answer,SyntaxError,模型评估 检查失败,65.9
+S008,测试学生008,过拟合-练习,cpp,success,,,82.5
+S009,测试学生009,特征处理-练习,cpp,success,,,10.6
+S009,测试学生009,逻辑回归-练习,cpp,wrong_answer,StateUpdate,逻辑回归 检查失败,29.2
+S009,测试学生009,决策树-练习,cpp,success,,,47.5
+S009,测试学生009,模型评估-练习,cpp,success,,,64.1
+S009,测试学生009,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,82.9
+S009,测试学生009,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.4
+S009,测试学生009,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,85.1
+S010,测试学生010,特征处理-练习,cpp,success,,,11.9
+S010,测试学生010,逻辑回归-练习,cpp,success,,,29.7
+S010,测试学生010,决策树-练习,cpp,success,,,46.3
+S010,测试学生010,模型评估-练习,cpp,success,,,65.1
+S010,测试学生010,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.1
+S010,测试学生010,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.3
+S011,测试学生011,特征处理-练习,cpp,success,,,10.2
+S011,测试学生011,逻辑回归-练习,cpp,success,,,28.0
+S011,测试学生011,决策树-练习,cpp,wrong_answer,BoundaryCondition,决策树 检查失败,46.2
+S011,测试学生011,模型评估-练习,cpp,success,,,65.3
+S011,测试学生011,过拟合-练习,cpp,success,,,82.2
+S012,测试学生012,特征处理-练习,cpp,success,,,10.0
+S012,测试学生012,逻辑回归-练习,cpp,success,,,29.9
+S012,测试学生012,决策树-练习,cpp,success,,,47.7
+S012,测试学生012,模型评估-练习,cpp,success,,,65.4
+S012,测试学生012,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.5
+S013,测试学生013,特征处理-练习,cpp,success,,,10.5
+S013,测试学生013,逻辑回归-练习,cpp,success,,,29.3
+S013,测试学生013,决策树-练习,cpp,success,,,46.9
+S013,测试学生013,模型评估-练习,cpp,wrong_answer,SyntaxError,模型评估 检查失败,64.5
+S013,测试学生013,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.4
+S013,测试学生013,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.3
+S014,测试学生014,特征处理-练习,cpp,success,,,12.0
+S014,测试学生014,逻辑回归-练习,cpp,success,,,28.2
+S014,测试学生014,决策树-练习,cpp,success,,,46.3
+S014,测试学生014,模型评估-练习,cpp,success,,,65.9
+S014,测试学生014,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.5
+S014,测试学生014,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.0
+S014,测试学生014,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,85.0
+S015,测试学生015,特征处理-练习,cpp,success,,,10.5
+S015,测试学生015,逻辑回归-练习,cpp,success,,,28.2
+S015,测试学生015,决策树-练习,cpp,success,,,46.3
+S015,测试学生015,模型评估-练习,cpp,success,,,65.4
+S015,测试学生015,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,82.9
+S016,测试学生016,特征处理-练习,cpp,success,,,11.6
+S016,测试学生016,逻辑回归-练习,cpp,success,,,29.9
+S016,测试学生016,决策树-练习,cpp,success,,,46.4
+S016,测试学生016,模型评估-练习,cpp,success,,,65.4
+S016,测试学生016,过拟合-练习,cpp,success,,,82.1
+S017,测试学生017,特征处理-练习,cpp,success,,,11.0
+S017,测试学生017,逻辑回归-练习,cpp,success,,,29.0
+S017,测试学生017,决策树-练习,cpp,success,,,47.2
+S017,测试学生017,模型评估-练习,cpp,success,,,65.5
+S017,测试学生017,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,82.7
+S017,测试学生017,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.3
+S017,测试学生017,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.9
+S018,测试学生018,特征处理-练习,cpp,success,,,11.0
+S018,测试学生018,逻辑回归-练习,cpp,success,,,29.2
+S018,测试学生018,决策树-练习,cpp,success,,,46.5
+S018,测试学生018,模型评估-练习,cpp,success,,,65.6
+S018,测试学生018,过拟合-练习,cpp,success,,,82.5
+S019,测试学生019,特征处理-练习,cpp,wrong_answer,RuntimeError,特征处理 检查失败,11.9
+S019,测试学生019,逻辑回归-练习,cpp,success,,,29.3
+S019,测试学生019,决策树-练习,cpp,wrong_answer,RuntimeError,决策树 检查失败,47.0
+S019,测试学生019,模型评估-练习,cpp,wrong_answer,BoundaryCondition,模型评估 检查失败,64.2
+S019,测试学生019,过拟合-练习,cpp,success,,,83.1
+S020,测试学生020,特征处理-练习,cpp,success,,,10.4
+S020,测试学生020,逻辑回归-练习,cpp,success,,,28.2
+S020,测试学生020,决策树-练习,cpp,success,,,47.9
+S020,测试学生020,模型评估-练习,cpp,success,,,65.3
+S020,测试学生020,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.9
+S020,测试学生020,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.1
+S020,测试学生020,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,85.1
+S021,测试学生021,特征处理-练习,cpp,success,,,11.7
+S021,测试学生021,逻辑回归-练习,cpp,success,,,29.1
+S021,测试学生021,决策树-练习,cpp,success,,,47.3
+S021,测试学生021,模型评估-练习,cpp,success,,,65.2
+S021,测试学生021,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.9
+S022,测试学生022,特征处理-练习,cpp,success,,,10.4
+S022,测试学生022,逻辑回归-练习,cpp,success,,,28.9
+S022,测试学生022,决策树-练习,cpp,success,,,47.1
+S022,测试学生022,模型评估-练习,cpp,wrong_answer,WrongAnswer,模型评估 检查失败,64.4
+S022,测试学生022,过拟合-练习,cpp,success,,,83.9
+S023,测试学生023,特征处理-练习,cpp,success,,,11.2
+S023,测试学生023,逻辑回归-练习,cpp,success,,,28.6
+S023,测试学生023,决策树-练习,cpp,success,,,47.8
+S023,测试学生023,模型评估-练习,cpp,success,,,64.7
+S023,测试学生023,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,82.0
+S024,测试学生024,特征处理-练习,cpp,success,,,11.5
+S024,测试学生024,逻辑回归-练习,cpp,wrong_answer,SyntaxError,逻辑回归 检查失败,29.8
+S024,测试学生024,决策树-练习,cpp,success,,,47.9
+S024,测试学生024,模型评估-练习,cpp,success,,,65.5
+S024,测试学生024,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.7
+S024,测试学生024,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.2
+S025,测试学生025,特征处理-练习,cpp,success,,,10.9
+S025,测试学生025,逻辑回归-练习,cpp,success,,,28.3
+S025,测试学生025,决策树-练习,cpp,success,,,47.8
+S025,测试学生025,模型评估-练习,cpp,success,,,64.7
+S025,测试学生025,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.1
+S025,测试学生025,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.3
+S025,测试学生025,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.9
+S026,测试学生026,特征处理-练习,cpp,success,,,11.3
+S026,测试学生026,逻辑回归-练习,cpp,wrong_answer,RuntimeError,逻辑回归 检查失败,28.1
+S026,测试学生026,决策树-练习,cpp,wrong_answer,StateUpdate,决策树 检查失败,46.9
+S026,测试学生026,模型评估-练习,cpp,wrong_answer,RuntimeError,模型评估 检查失败,65.7
+S026,测试学生026,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.6
+S026,测试学生026,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.4
+S026,测试学生026,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.9
+S027,测试学生027,特征处理-练习,cpp,success,,,11.9
+S027,测试学生027,逻辑回归-练习,cpp,success,,,29.3
+S027,测试学生027,决策树-练习,cpp,wrong_answer,BoundaryCondition,决策树 检查失败,46.9
+S027,测试学生027,模型评估-练习,cpp,success,,,64.3
+S027,测试学生027,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.5
+S027,测试学生027,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.0
+S028,测试学生028,特征处理-练习,cpp,success,,,10.8
+S028,测试学生028,逻辑回归-练习,cpp,success,,,29.3
+S028,测试学生028,决策树-练习,cpp,success,,,47.7
+S028,测试学生028,模型评估-练习,cpp,success,,,64.3
+S028,测试学生028,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,82.9
+S029,测试学生029,特征处理-练习,cpp,success,,,11.7
+S029,测试学生029,逻辑回归-练习,cpp,wrong_answer,StateUpdate,逻辑回归 检查失败,28.5
+S029,测试学生029,决策树-练习,cpp,success,,,46.8
+S029,测试学生029,模型评估-练习,cpp,wrong_answer,StateUpdate,模型评估 检查失败,65.4
+S029,测试学生029,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.3
+S029,测试学生029,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.0
+S030,测试学生030,特征处理-练习,cpp,success,,,10.5
+S030,测试学生030,逻辑回归-练习,cpp,success,,,28.6
+S030,测试学生030,决策树-练习,cpp,success,,,47.9
+S030,测试学生030,模型评估-练习,cpp,success,,,65.0
+S030,测试学生030,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.0
+S030,测试学生030,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.1
+S031,测试学生031,特征处理-练习,cpp,success,,,11.0
+S031,测试学生031,逻辑回归-练习,cpp,success,,,28.9
+S031,测试学生031,决策树-练习,cpp,success,,,46.2
+S031,测试学生031,模型评估-练习,cpp,success,,,64.6
+S031,测试学生031,过拟合-练习,cpp,success,,,83.9
+S032,测试学生032,特征处理-练习,cpp,success,,,11.0
+S032,测试学生032,逻辑回归-练习,cpp,wrong_answer,BoundaryCondition,逻辑回归 检查失败,29.2
+S032,测试学生032,决策树-练习,cpp,success,,,46.0
+S032,测试学生032,模型评估-练习,cpp,success,,,64.6
+S032,测试学生032,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,82.8
+S033,测试学生033,特征处理-练习,cpp,wrong_answer,StateUpdate,特征处理 检查失败,10.9
+S033,测试学生033,逻辑回归-练习,cpp,wrong_answer,BoundaryCondition,逻辑回归 检查失败,29.8
+S033,测试学生033,决策树-练习,cpp,success,,,46.2
+S033,测试学生033,模型评估-练习,cpp,success,,,64.8
+S033,测试学生033,过拟合-练习,cpp,success,,,83.2
+S034,测试学生034,特征处理-练习,cpp,success,,,10.4
+S034,测试学生034,逻辑回归-练习,cpp,success,,,29.4
+S034,测试学生034,决策树-练习,cpp,success,,,47.8
+S034,测试学生034,模型评估-练习,cpp,wrong_answer,SyntaxError,模型评估 检查失败,65.0
+S034,测试学生034,过拟合-练习,cpp,success,,,83.5
+S035,测试学生035,特征处理-练习,cpp,success,,,11.2
+S035,测试学生035,逻辑回归-练习,cpp,success,,,29.3
+S035,测试学生035,决策树-练习,cpp,success,,,46.9
+S035,测试学生035,模型评估-练习,cpp,success,,,65.5
+S035,测试学生035,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.7
+S036,测试学生036,特征处理-练习,cpp,wrong_answer,StateUpdate,特征处理 检查失败,11.1
+S036,测试学生036,逻辑回归-练习,cpp,success,,,29.6
+S036,测试学生036,决策树-练习,cpp,success,,,46.6
+S036,测试学生036,模型评估-练习,cpp,success,,,65.0
+S036,测试学生036,过拟合-练习,cpp,success,,,84.0
+S037,测试学生037,特征处理-练习,cpp,success,,,11.5
+S037,测试学生037,逻辑回归-练习,cpp,success,,,28.0
+S037,测试学生037,决策树-练习,cpp,success,,,46.6
+S037,测试学生037,模型评估-练习,cpp,success,,,64.9
+S037,测试学生037,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.9
+S038,测试学生038,特征处理-练习,cpp,success,,,11.6
+S038,测试学生038,逻辑回归-练习,cpp,wrong_answer,RuntimeError,逻辑回归 检查失败,29.4
+S038,测试学生038,决策树-练习,cpp,success,,,47.6
+S038,测试学生038,模型评估-练习,cpp,success,,,65.6
+S038,测试学生038,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.9
+S039,测试学生039,特征处理-练习,cpp,success,,,12.0
+S039,测试学生039,逻辑回归-练习,cpp,success,,,28.8
+S039,测试学生039,决策树-练习,cpp,wrong_answer,WrongAnswer,决策树 检查失败,46.8
+S039,测试学生039,模型评估-练习,cpp,success,,,64.4
+S039,测试学生039,过拟合-练习,cpp,success,,,83.7
+S040,测试学生040,特征处理-练习,cpp,success,,,11.1
+S040,测试学生040,逻辑回归-练习,cpp,success,,,29.3
+S040,测试学生040,决策树-练习,cpp,success,,,46.1
+S040,测试学生040,模型评估-练习,cpp,success,,,65.0
+S040,测试学生040,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,82.1
+S040,测试学生040,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.2
+S040,测试学生040,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,85.0
+S041,测试学生041,特征处理-练习,cpp,wrong_answer,RuntimeError,特征处理 检查失败,10.7
+S041,测试学生041,逻辑回归-练习,cpp,success,,,29.2
+S041,测试学生041,决策树-练习,cpp,success,,,47.5
+S041,测试学生041,模型评估-练习,cpp,success,,,65.7
+S041,测试学生041,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.1
+S041,测试学生041,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.1
+S041,测试学生041,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.8
+S042,测试学生042,特征处理-练习,cpp,success,,,10.1
+S042,测试学生042,逻辑回归-练习,cpp,wrong_answer,WrongAnswer,逻辑回归 检查失败,29.4
+S042,测试学生042,决策树-练习,cpp,wrong_answer,BoundaryCondition,决策树 检查失败,46.4
+S042,测试学生042,模型评估-练习,cpp,success,,,64.3
+S042,测试学生042,过拟合-练习,cpp,success,,,83.5
+S043,测试学生043,特征处理-练习,cpp,success,,,11.4
+S043,测试学生043,逻辑回归-练习,cpp,wrong_answer,SyntaxError,逻辑回归 检查失败,29.4
+S043,测试学生043,决策树-练习,cpp,success,,,47.5
+S043,测试学生043,模型评估-练习,cpp,success,,,65.0
+S043,测试学生043,过拟合-练习,cpp,success,,,82.1
+S044,测试学生044,特征处理-练习,cpp,success,,,10.0
+S044,测试学生044,逻辑回归-练习,cpp,wrong_answer,RuntimeError,逻辑回归 检查失败,29.9
+S044,测试学生044,决策树-练习,cpp,success,,,46.9
+S044,测试学生044,模型评估-练习,cpp,success,,,64.1
+S044,测试学生044,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.7
+S044,测试学生044,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.2
+S045,测试学生045,特征处理-练习,cpp,wrong_answer,StateUpdate,特征处理 检查失败,11.3
+S045,测试学生045,逻辑回归-练习,cpp,success,,,29.9
+S045,测试学生045,决策树-练习,cpp,success,,,46.9
+S045,测试学生045,模型评估-练习,cpp,success,,,65.9
+S045,测试学生045,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.3
+S046,测试学生046,特征处理-练习,cpp,success,,,10.6
+S046,测试学生046,逻辑回归-练习,cpp,success,,,29.4
+S046,测试学生046,决策树-练习,cpp,success,,,46.4
+S046,测试学生046,模型评估-练习,cpp,wrong_answer,WrongAnswer,模型评估 检查失败,65.5
+S046,测试学生046,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.9
+S046,测试学生046,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.0
+S046,测试学生046,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,85.1
+S047,测试学生047,特征处理-练习,cpp,success,,,10.1
+S047,测试学生047,逻辑回归-练习,cpp,success,,,28.2
+S047,测试学生047,决策树-练习,cpp,success,,,46.8
+S047,测试学生047,模型评估-练习,cpp,success,,,64.1
+S047,测试学生047,过拟合-练习,cpp,success,,,83.3
+S048,测试学生048,特征处理-练习,cpp,success,,,11.2
+S048,测试学生048,逻辑回归-练习,cpp,success,,,28.2
+S048,测试学生048,决策树-练习,cpp,wrong_answer,SyntaxError,决策树 检查失败,46.1
+S048,测试学生048,模型评估-练习,cpp,wrong_answer,WrongAnswer,模型评估 检查失败,64.5
+S048,测试学生048,过拟合-练习,cpp,wrong_answer,Overfitting,过拟合 检查失败,83.8
+S048,测试学生048,过拟合-练习,cpp,wrong_answer,Overfitting,重复出现 Overfitting,84.3

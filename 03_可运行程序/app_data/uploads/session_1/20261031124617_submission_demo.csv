@@ -1,0 +1,19 @@
+student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S01,张三,BranchTask,python,success,,,17
+S02,李四,BranchTask,python,compile_error,IndentationError,unexpected indent,19
+S03,王五,BranchTask,python,success,,,21
+S04,赵六,BranchTask,python,wrong_answer,ConditionOrder,branch order is reversed,23
+S05,钱七,BranchTask,python,success,,,25
+S06,孙八,BranchTask,python,success,,,27
+S01,张三,WhileTask,python,compile_error,SyntaxError,missing colon after while,30
+S02,李四,WhileTask,python,runtime_error,InfiniteLoop,loop never terminates,32
+S03,王五,WhileTask,python,success,,,34
+S04,赵六,WhileTask,python,wrong_answer,StateUpdate,loop variable not updated correctly,38
+S05,钱七,WhileTask,python,runtime_error,InfiniteLoop,condition always true,41
+S06,孙八,WhileTask,python,wrong_answer,BoundaryCondition,exit condition is incorrect,45
+S01,张三,DebugTask,python,runtime_error,InfiniteLoop,timeout after repeated iterations,50
+S02,李四,DebugTask,python,wrong_answer,OffByOne,range boundary misses final value,52
+S03,王五,DebugTask,python,compile_error,SyntaxError,unexpected EOF while parsing,54
+S04,赵六,DebugTask,python,success,,,56
+S05,钱七,DebugTask,python,runtime_error,WrongUpdate,loop variable reset inside body,61
+S06,孙八,DebugTask,python,wrong_answer,BoundaryCondition,termination check placed after output,65

@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "18 前端开发 React状态管理",
+    "course_type": "前端开发",
+    "class_date": "2026-09-19",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "组件状态",
+      "topic_area": "前端开发",
+      "display_order": 1
+    },
+    {
+      "name": "属性传递",
+      "topic_area": "前端开发",
+      "display_order": 2
+    },
+    {
+      "name": "副作用",
+      "topic_area": "前端开发",
+      "display_order": 3
+    },
+    {
+      "name": "状态提升",
+      "topic_area": "前端开发",
+      "display_order": 4
+    },
+    {
+      "name": "渲染优化",
+      "topic_area": "前端开发",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "副作用"
+}

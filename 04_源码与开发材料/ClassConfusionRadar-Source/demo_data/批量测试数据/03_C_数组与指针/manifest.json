@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "03 C 数组与指针",
+    "course_type": "C 语言程序设计",
+    "class_date": "2026-09-04",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "数组下标",
+      "topic_area": "C 语言程序设计",
+      "display_order": 1
+    },
+    {
+      "name": "指针基础",
+      "topic_area": "C 语言程序设计",
+      "display_order": 2
+    },
+    {
+      "name": "指针与数组",
+      "topic_area": "C 语言程序设计",
+      "display_order": 3
+    },
+    {
+      "name": "字符串",
+      "topic_area": "C 语言程序设计",
+      "display_order": 4
+    },
+    {
+      "name": "越界访问",
+      "topic_area": "C 语言程序设计",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "指针与数组"
+}

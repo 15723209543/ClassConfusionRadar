@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "10 Web API与异步",
+    "course_type": "Web 编程",
+    "class_date": "2026-09-11",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "HTTP 请求",
+      "topic_area": "Web 编程",
+      "display_order": 1
+    },
+    {
+      "name": "状态码",
+      "topic_area": "Web 编程",
+      "display_order": 2
+    },
+    {
+      "name": "JSON 解析",
+      "topic_area": "Web 编程",
+      "display_order": 3
+    },
+    {
+      "name": "异步调用",
+      "topic_area": "Web 编程",
+      "display_order": 4
+    },
+    {
+      "name": "异常处理",
+      "topic_area": "Web 编程",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "异步调用"
+}

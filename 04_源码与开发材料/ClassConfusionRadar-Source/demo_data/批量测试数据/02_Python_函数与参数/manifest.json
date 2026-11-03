@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "02 Python 函数与参数",
+    "course_type": "Python 程序设计",
+    "class_date": "2026-09-03",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "函数定义",
+      "topic_area": "Python 程序设计",
+      "display_order": 1
+    },
+    {
+      "name": "参数传递",
+      "topic_area": "Python 程序设计",
+      "display_order": 2
+    },
+    {
+      "name": "返回值",
+      "topic_area": "Python 程序设计",
+      "display_order": 3
+    },
+    {
+      "name": "变量作用域",
+      "topic_area": "Python 程序设计",
+      "display_order": 4
+    },
+    {
+      "name": "递归入口",
+      "topic_area": "Python 程序设计",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "递归入口"
+}

@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "09 SQL 连接查询",
+    "course_type": "数据库基础",
+    "class_date": "2026-09-10",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "SELECT 基础",
+      "topic_area": "数据库基础",
+      "display_order": 1
+    },
+    {
+      "name": "WHERE 条件",
+      "topic_area": "数据库基础",
+      "display_order": 2
+    },
+    {
+      "name": "INNER JOIN",
+      "topic_area": "数据库基础",
+      "display_order": 3
+    },
+    {
+      "name": "LEFT JOIN",
+      "topic_area": "数据库基础",
+      "display_order": 4
+    },
+    {
+      "name": "聚合分组",
+      "topic_area": "数据库基础",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "INNER JOIN"
+}

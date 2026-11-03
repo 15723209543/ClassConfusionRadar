@@ -1,0 +1,269 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,SELECT 基础-练习,cpp,wrong_answer,SyntaxError,SELECT 基础 检查失败,10.7
+S001,测试学生001,WHERE 条件-练习,cpp,wrong_answer,BoundaryCondition,WHERE 条件 检查失败,28.3
+S001,测试学生001,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.1
+S001,测试学生001,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.4
+S001,测试学生001,LEFT JOIN-练习,cpp,success,,,65.5
+S001,测试学生001,聚合分组-练习,cpp,success,,,82.4
+S002,测试学生002,SELECT 基础-练习,cpp,success,,,10.3
+S002,测试学生002,WHERE 条件-练习,cpp,wrong_answer,StateUpdate,WHERE 条件 检查失败,28.4
+S002,测试学生002,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.8
+S002,测试学生002,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.2
+S002,测试学生002,LEFT JOIN-练习,cpp,success,,,65.9
+S002,测试学生002,聚合分组-练习,cpp,success,,,83.5
+S003,测试学生003,SELECT 基础-练习,cpp,success,,,11.9
+S003,测试学生003,WHERE 条件-练习,cpp,success,,,29.5
+S003,测试学生003,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.4
+S003,测试学生003,LEFT JOIN-练习,cpp,wrong_answer,SyntaxError,LEFT JOIN 检查失败,64.4
+S003,测试学生003,聚合分组-练习,cpp,success,,,82.1
+S004,测试学生004,SELECT 基础-练习,cpp,success,,,11.1
+S004,测试学生004,WHERE 条件-练习,cpp,success,,,28.7
+S004,测试学生004,INNER JOIN-练习,cpp,success,,,47.6
+S004,测试学生004,LEFT JOIN-练习,cpp,wrong_answer,SyntaxError,LEFT JOIN 检查失败,64.1
+S004,测试学生004,聚合分组-练习,cpp,success,,,83.1
+S005,测试学生005,SELECT 基础-练习,cpp,success,,,11.4
+S005,测试学生005,WHERE 条件-练习,cpp,success,,,29.5
+S005,测试学生005,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.1
+S005,测试学生005,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.0
+S005,测试学生005,LEFT JOIN-练习,cpp,success,,,65.2
+S005,测试学生005,聚合分组-练习,cpp,success,,,83.2
+S006,测试学生006,SELECT 基础-练习,cpp,success,,,11.8
+S006,测试学生006,WHERE 条件-练习,cpp,wrong_answer,BoundaryCondition,WHERE 条件 检查失败,28.9
+S006,测试学生006,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.9
+S006,测试学生006,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.2
+S006,测试学生006,LEFT JOIN-练习,cpp,wrong_answer,SyntaxError,LEFT JOIN 检查失败,65.4
+S006,测试学生006,聚合分组-练习,cpp,wrong_answer,SyntaxError,聚合分组 检查失败,82.7
+S007,测试学生007,SELECT 基础-练习,cpp,wrong_answer,RuntimeError,SELECT 基础 检查失败,10.0
+S007,测试学生007,WHERE 条件-练习,cpp,success,,,28.2
+S007,测试学生007,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.1
+S007,测试学生007,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.0
+S007,测试学生007,LEFT JOIN-练习,cpp,success,,,64.0
+S007,测试学生007,聚合分组-练习,cpp,success,,,82.0
+S008,测试学生008,SELECT 基础-练习,cpp,success,,,11.3
+S008,测试学生008,WHERE 条件-练习,cpp,success,,,29.9
+S008,测试学生008,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.6
+S008,测试学生008,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.2
+S008,测试学生008,LEFT JOIN-练习,cpp,success,,,64.6
+S008,测试学生008,聚合分组-练习,cpp,wrong_answer,SyntaxError,聚合分组 检查失败,82.3
+S009,测试学生009,SELECT 基础-练习,cpp,success,,,10.7
+S009,测试学生009,WHERE 条件-练习,cpp,success,,,29.5
+S009,测试学生009,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.7
+S009,测试学生009,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.3
+S009,测试学生009,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.9
+S009,测试学生009,LEFT JOIN-练习,cpp,success,,,64.2
+S009,测试学生009,聚合分组-练习,cpp,success,,,82.8
+S010,测试学生010,SELECT 基础-练习,cpp,success,,,11.1
+S010,测试学生010,WHERE 条件-练习,cpp,success,,,29.4
+S010,测试学生010,INNER JOIN-练习,cpp,success,,,46.2
+S010,测试学生010,LEFT JOIN-练习,cpp,success,,,64.7
+S010,测试学生010,聚合分组-练习,cpp,success,,,82.1
+S011,测试学生011,SELECT 基础-练习,cpp,success,,,11.8
+S011,测试学生011,WHERE 条件-练习,cpp,success,,,29.9
+S011,测试学生011,INNER JOIN-练习,cpp,success,,,46.8
+S011,测试学生011,LEFT JOIN-练习,cpp,success,,,65.9
+S011,测试学生011,聚合分组-练习,cpp,success,,,82.0
+S012,测试学生012,SELECT 基础-练习,cpp,wrong_answer,StateUpdate,SELECT 基础 检查失败,11.2
+S012,测试学生012,WHERE 条件-练习,cpp,wrong_answer,BoundaryCondition,WHERE 条件 检查失败,29.6
+S012,测试学生012,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.1
+S012,测试学生012,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.2
+S012,测试学生012,LEFT JOIN-练习,cpp,success,,,65.7
+S012,测试学生012,聚合分组-练习,cpp,success,,,82.2
+S013,测试学生013,SELECT 基础-练习,cpp,success,,,11.1
+S013,测试学生013,WHERE 条件-练习,cpp,success,,,28.4
+S013,测试学生013,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.3
+S013,测试学生013,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.4
+S013,测试学生013,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.9
+S013,测试学生013,LEFT JOIN-练习,cpp,wrong_answer,WrongAnswer,LEFT JOIN 检查失败,64.2
+S013,测试学生013,聚合分组-练习,cpp,success,,,82.2
+S014,测试学生014,SELECT 基础-练习,cpp,success,,,10.7
+S014,测试学生014,WHERE 条件-练习,cpp,wrong_answer,StateUpdate,WHERE 条件 检查失败,28.6
+S014,测试学生014,INNER JOIN-练习,cpp,success,,,46.1
+S014,测试学生014,LEFT JOIN-练习,cpp,success,,,64.9
+S014,测试学生014,聚合分组-练习,cpp,wrong_answer,RuntimeError,聚合分组 检查失败,82.8
+S015,测试学生015,SELECT 基础-练习,cpp,success,,,10.3
+S015,测试学生015,WHERE 条件-练习,cpp,wrong_answer,BoundaryCondition,WHERE 条件 检查失败,29.2
+S015,测试学生015,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.0
+S015,测试学生015,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.2
+S015,测试学生015,LEFT JOIN-练习,cpp,success,,,66.0
+S015,测试学生015,聚合分组-练习,cpp,success,,,82.8
+S016,测试学生016,SELECT 基础-练习,cpp,success,,,11.9
+S016,测试学生016,WHERE 条件-练习,cpp,wrong_answer,StateUpdate,WHERE 条件 检查失败,28.0
+S016,测试学生016,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.1
+S016,测试学生016,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.1
+S016,测试学生016,LEFT JOIN-练习,cpp,success,,,65.5
+S016,测试学生016,聚合分组-练习,cpp,success,,,83.9
+S017,测试学生017,SELECT 基础-练习,cpp,success,,,10.1
+S017,测试学生017,WHERE 条件-练习,cpp,success,,,29.7
+S017,测试学生017,INNER JOIN-练习,cpp,success,,,47.7
+S017,测试学生017,LEFT JOIN-练习,cpp,wrong_answer,WrongAnswer,LEFT JOIN 检查失败,64.3
+S017,测试学生017,聚合分组-练习,cpp,success,,,82.4
+S018,测试学生018,SELECT 基础-练习,cpp,success,,,10.4
+S018,测试学生018,WHERE 条件-练习,cpp,success,,,28.5
+S018,测试学生018,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.2
+S018,测试学生018,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.2
+S018,测试学生018,LEFT JOIN-练习,cpp,success,,,64.4
+S018,测试学生018,聚合分组-练习,cpp,success,,,82.2
+S019,测试学生019,SELECT 基础-练习,cpp,success,,,11.3
+S019,测试学生019,WHERE 条件-练习,cpp,success,,,28.3
+S019,测试学生019,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.8
+S019,测试学生019,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.0
+S019,测试学生019,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,49.2
+S019,测试学生019,LEFT JOIN-练习,cpp,wrong_answer,WrongAnswer,LEFT JOIN 检查失败,64.6
+S019,测试学生019,聚合分组-练习,cpp,success,,,83.1
+S020,测试学生020,SELECT 基础-练习,cpp,success,,,11.0
+S020,测试学生020,WHERE 条件-练习,cpp,success,,,29.3
+S020,测试学生020,INNER JOIN-练习,cpp,success,,,47.4
+S020,测试学生020,LEFT JOIN-练习,cpp,success,,,64.6
+S020,测试学生020,聚合分组-练习,cpp,success,,,83.3
+S021,测试学生021,SELECT 基础-练习,cpp,success,,,11.4
+S021,测试学生021,WHERE 条件-练习,cpp,success,,,28.3
+S021,测试学生021,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.5
+S021,测试学生021,LEFT JOIN-练习,cpp,success,,,64.3
+S021,测试学生021,聚合分组-练习,cpp,success,,,82.6
+S022,测试学生022,SELECT 基础-练习,cpp,success,,,10.9
+S022,测试学生022,WHERE 条件-练习,cpp,success,,,28.7
+S022,测试学生022,INNER JOIN-练习,cpp,success,,,47.0
+S022,测试学生022,LEFT JOIN-练习,cpp,success,,,64.4
+S022,测试学生022,聚合分组-练习,cpp,success,,,82.7
+S023,测试学生023,SELECT 基础-练习,cpp,success,,,11.3
+S023,测试学生023,WHERE 条件-练习,cpp,success,,,28.5
+S023,测试学生023,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,48.0
+S023,测试学生023,LEFT JOIN-练习,cpp,success,,,65.8
+S023,测试学生023,聚合分组-练习,cpp,success,,,82.9
+S024,测试学生024,SELECT 基础-练习,cpp,success,,,10.7
+S024,测试学生024,WHERE 条件-练习,cpp,wrong_answer,BoundaryCondition,WHERE 条件 检查失败,30.0
+S024,测试学生024,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.3
+S024,测试学生024,LEFT JOIN-练习,cpp,success,,,65.9
+S024,测试学生024,聚合分组-练习,cpp,success,,,83.4
+S025,测试学生025,SELECT 基础-练习,cpp,success,,,10.7
+S025,测试学生025,WHERE 条件-练习,cpp,success,,,29.1
+S025,测试学生025,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.0
+S025,测试学生025,LEFT JOIN-练习,cpp,success,,,64.4
+S025,测试学生025,聚合分组-练习,cpp,success,,,83.6
+S026,测试学生026,SELECT 基础-练习,cpp,success,,,11.3
+S026,测试学生026,WHERE 条件-练习,cpp,success,,,29.5
+S026,测试学生026,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,48.0
+S026,测试学生026,LEFT JOIN-练习,cpp,success,,,65.1
+S026,测试学生026,聚合分组-练习,cpp,success,,,82.1
+S027,测试学生027,SELECT 基础-练习,cpp,wrong_answer,WrongAnswer,SELECT 基础 检查失败,11.9
+S027,测试学生027,WHERE 条件-练习,cpp,success,,,30.0
+S027,测试学生027,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.2
+S027,测试学生027,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.4
+S027,测试学生027,LEFT JOIN-练习,cpp,wrong_answer,SyntaxError,LEFT JOIN 检查失败,64.2
+S027,测试学生027,聚合分组-练习,cpp,success,,,83.2
+S028,测试学生028,SELECT 基础-练习,cpp,success,,,10.1
+S028,测试学生028,WHERE 条件-练习,cpp,success,,,29.8
+S028,测试学生028,INNER JOIN-练习,cpp,success,,,47.7
+S028,测试学生028,LEFT JOIN-练习,cpp,success,,,65.7
+S028,测试学生028,聚合分组-练习,cpp,success,,,82.4
+S029,测试学生029,SELECT 基础-练习,cpp,success,,,10.2
+S029,测试学生029,WHERE 条件-练习,cpp,success,,,29.6
+S029,测试学生029,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.5
+S029,测试学生029,LEFT JOIN-练习,cpp,success,,,64.1
+S029,测试学生029,聚合分组-练习,cpp,success,,,83.1
+S030,测试学生030,SELECT 基础-练习,cpp,success,,,11.5
+S030,测试学生030,WHERE 条件-练习,cpp,success,,,28.1
+S030,测试学生030,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.8
+S030,测试学生030,LEFT JOIN-练习,cpp,success,,,65.0
+S030,测试学生030,聚合分组-练习,cpp,success,,,82.4
+S031,测试学生031,SELECT 基础-练习,cpp,success,,,10.9
+S031,测试学生031,WHERE 条件-练习,cpp,success,,,28.1
+S031,测试学生031,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.8
+S031,测试学生031,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.2
+S031,测试学生031,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,49.2
+S031,测试学生031,LEFT JOIN-练习,cpp,success,,,65.0
+S031,测试学生031,聚合分组-练习,cpp,success,,,83.4
+S032,测试学生032,SELECT 基础-练习,cpp,success,,,11.5
+S032,测试学生032,WHERE 条件-练习,cpp,success,,,29.8
+S032,测试学生032,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.7
+S032,测试学生032,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.3
+S032,测试学生032,LEFT JOIN-练习,cpp,success,,,65.6
+S032,测试学生032,聚合分组-练习,cpp,success,,,82.1
+S033,测试学生033,SELECT 基础-练习,cpp,success,,,11.2
+S033,测试学生033,WHERE 条件-练习,cpp,wrong_answer,RuntimeError,WHERE 条件 检查失败,29.4
+S033,测试学生033,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.3
+S033,测试学生033,LEFT JOIN-练习,cpp,success,,,64.4
+S033,测试学生033,聚合分组-练习,cpp,wrong_answer,WrongAnswer,聚合分组 检查失败,83.7
+S034,测试学生034,SELECT 基础-练习,cpp,success,,,11.3
+S034,测试学生034,WHERE 条件-练习,cpp,wrong_answer,StateUpdate,WHERE 条件 检查失败,28.9
+S034,测试学生034,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,48.0
+S034,测试学生034,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.1
+S034,测试学生034,LEFT JOIN-练习,cpp,success,,,66.0
+S034,测试学生034,聚合分组-练习,cpp,success,,,82.1
+S035,测试学生035,SELECT 基础-练习,cpp,wrong_answer,StateUpdate,SELECT 基础 检查失败,10.8
+S035,测试学生035,WHERE 条件-练习,cpp,success,,,28.8
+S035,测试学生035,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.8
+S035,测试学生035,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.3
+S035,测试学生035,LEFT JOIN-练习,cpp,wrong_answer,SyntaxError,LEFT JOIN 检查失败,65.3
+S035,测试学生035,聚合分组-练习,cpp,success,,,82.1
+S036,测试学生036,SELECT 基础-练习,cpp,success,,,10.9
+S036,测试学生036,WHERE 条件-练习,cpp,success,,,29.5
+S036,测试学生036,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.1
+S036,测试学生036,LEFT JOIN-练习,cpp,success,,,65.6
+S036,测试学生036,聚合分组-练习,cpp,success,,,83.3
+S037,测试学生037,SELECT 基础-练习,cpp,success,,,11.3
+S037,测试学生037,WHERE 条件-练习,cpp,success,,,28.9
+S037,测试学生037,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.5
+S037,测试学生037,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.0
+S037,测试学生037,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,49.1
+S037,测试学生037,LEFT JOIN-练习,cpp,success,,,64.7
+S037,测试学生037,聚合分组-练习,cpp,success,,,83.4
+S038,测试学生038,SELECT 基础-练习,cpp,success,,,11.6
+S038,测试学生038,WHERE 条件-练习,cpp,success,,,29.6
+S038,测试学生038,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.5
+S038,测试学生038,LEFT JOIN-练习,cpp,success,,,64.6
+S038,测试学生038,聚合分组-练习,cpp,success,,,83.1
+S039,测试学生039,SELECT 基础-练习,cpp,success,,,11.5
+S039,测试学生039,WHERE 条件-练习,cpp,success,,,28.9
+S039,测试学生039,INNER JOIN-练习,cpp,success,,,46.9
+S039,测试学生039,LEFT JOIN-练习,cpp,success,,,64.3
+S039,测试学生039,聚合分组-练习,cpp,wrong_answer,WrongAnswer,聚合分组 检查失败,82.4
+S040,测试学生040,SELECT 基础-练习,cpp,success,,,11.4
+S040,测试学生040,WHERE 条件-练习,cpp,success,,,28.4
+S040,测试学生040,INNER JOIN-练习,cpp,success,,,46.6
+S040,测试学生040,LEFT JOIN-练习,cpp,wrong_answer,StateUpdate,LEFT JOIN 检查失败,65.3
+S040,测试学生040,聚合分组-练习,cpp,success,,,83.6
+S041,测试学生041,SELECT 基础-练习,cpp,wrong_answer,StateUpdate,SELECT 基础 检查失败,11.3
+S041,测试学生041,WHERE 条件-练习,cpp,success,,,29.6
+S041,测试学生041,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.5
+S041,测试学生041,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.4
+S041,测试学生041,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,49.0
+S041,测试学生041,LEFT JOIN-练习,cpp,success,,,65.5
+S041,测试学生041,聚合分组-练习,cpp,success,,,83.9
+S042,测试学生042,SELECT 基础-练习,cpp,success,,,11.8
+S042,测试学生042,WHERE 条件-练习,cpp,success,,,28.2
+S042,测试学生042,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.9
+S042,测试学生042,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.0
+S042,测试学生042,LEFT JOIN-练习,cpp,success,,,65.1
+S042,测试学生042,聚合分组-练习,cpp,success,,,83.4
+S043,测试学生043,SELECT 基础-练习,cpp,wrong_answer,WrongAnswer,SELECT 基础 检查失败,10.6
+S043,测试学生043,WHERE 条件-练习,cpp,success,,,28.6
+S043,测试学生043,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.3
+S043,测试学生043,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,重复出现 JoinCondition,48.4
+S043,测试学生043,LEFT JOIN-练习,cpp,success,,,65.9
+S043,测试学生043,聚合分组-练习,cpp,success,,,83.0
+S044,测试学生044,SELECT 基础-练习,cpp,success,,,11.6
+S044,测试学生044,WHERE 条件-练习,cpp,success,,,29.5
+S044,测试学生044,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,47.3
+S044,测试学生044,LEFT JOIN-练习,cpp,success,,,65.6
+S044,测试学生044,聚合分组-练习,cpp,success,,,82.7
+S045,测试学生045,SELECT 基础-练习,cpp,success,,,10.6
+S045,测试学生045,WHERE 条件-练习,cpp,success,,,29.9
+S045,测试学生045,INNER JOIN-练习,cpp,success,,,47.8
+S045,测试学生045,LEFT JOIN-练习,cpp,success,,,65.1
+S045,测试学生045,聚合分组-练习,cpp,success,,,83.6
+S046,测试学生046,SELECT 基础-练习,cpp,success,,,10.6
+S046,测试学生046,WHERE 条件-练习,cpp,success,,,29.0
+S046,测试学生046,INNER JOIN-练习,cpp,wrong_answer,JoinCondition,INNER JOIN 检查失败,46.5
+S046,测试学生046,LEFT JOIN-练习,cpp,success,,,65.6
+S046,测试学生046,聚合分组-练习,cpp,success,,,82.0
+S047,测试学生047,SELECT 基础-练习,cpp,success,,,10.3
+S047,测试学生047,WHERE 条件-练习,cpp,success,,,28.9
+S047,测试学生047,INNER JOIN-练习,cpp,success,,,47.5
+S047,测试学生047,LEFT JOIN-练习,cpp,success,,,64.6
+S047,测试学生047,聚合分组-练习,cpp,success,,,83.9
+S048,测试学生048,SELECT 基础-练习,cpp,success,,,11.4
+S048,测试学生048,WHERE 条件-练习,cpp,success,,,29.7
+S048,测试学生048,INNER JOIN-练习,cpp,success,,,46.3
+S048,测试学生048,LEFT JOIN-练习,cpp,success,,,64.7
+S048,测试学生048,聚合分组-练习,cpp,success,,,83.0

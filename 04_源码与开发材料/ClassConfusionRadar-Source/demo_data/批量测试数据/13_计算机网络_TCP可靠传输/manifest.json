@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "13 计算机网络 TCP可靠传输",
+    "course_type": "计算机网络",
+    "class_date": "2026-09-14",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "TCP 连接",
+      "topic_area": "计算机网络",
+      "display_order": 1
+    },
+    {
+      "name": "序列号",
+      "topic_area": "计算机网络",
+      "display_order": 2
+    },
+    {
+      "name": "确认机制",
+      "topic_area": "计算机网络",
+      "display_order": 3
+    },
+    {
+      "name": "流量控制",
+      "topic_area": "计算机网络",
+      "display_order": 4
+    },
+    {
+      "name": "拥塞控制",
+      "topic_area": "计算机网络",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "确认机制"
+}

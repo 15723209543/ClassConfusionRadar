@@ -1,0 +1,8 @@
+student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+AIZU_01,AIZU_01,"ITP1_2_A Small, Large, or Equal",python,success,,,9.6
+AIZU_02,AIZU_02,ITP1_2_B Range,python,success,,,10.3
+AIZU_03,AIZU_03,ITP1_2_C Sorting Three Numbers,python,success,,,11.0
+AIZU_04,AIZU_04,ITP1_3_A Print Many Hello World,python,success,,,11.7
+AIZU_05,AIZU_05,ITP1_3_B Print Test Cases,python,runtime_error,Runtime Error,Runtime Error; accuracy=0/1; cpu=0ms; memory=0KB,12.4
+AIZU_06,AIZU_06,ITP1_3_B Print Test Cases,python,runtime_error,Runtime Error,Runtime Error; accuracy=0/1; cpu=0ms; memory=0KB,13.1
+AIZU_07,AIZU_07,ITP1_3_B Print Test Cases,python,success,,,13.8

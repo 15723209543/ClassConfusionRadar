@@ -1,0 +1,280 @@
+﻿student_code,student_name,task_name,language,result_status,error_type,error_message,event_minute
+S001,测试学生001,函数定义-练习,python,wrong_answer,SyntaxError,函数定义 检查失败,10.7
+S001,测试学生001,参数传递-练习,python,wrong_answer,WrongAnswer,参数传递 检查失败,30.0
+S001,测试学生001,返回值-练习,python,success,,,46.5
+S001,测试学生001,变量作用域-练习,python,success,,,64.3
+S001,测试学生001,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,84.0
+S001,测试学生001,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.4
+S001,测试学生001,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,85.1
+S002,测试学生002,函数定义-练习,python,success,,,10.7
+S002,测试学生002,参数传递-练习,python,success,,,29.3
+S002,测试学生002,返回值-练习,python,success,,,47.8
+S002,测试学生002,变量作用域-练习,python,success,,,65.6
+S002,测试学生002,递归入口-练习,python,success,,,83.0
+S003,测试学生003,函数定义-练习,python,success,,,11.3
+S003,测试学生003,参数传递-练习,python,success,,,29.6
+S003,测试学生003,返回值-练习,python,wrong_answer,SyntaxError,返回值 检查失败,46.5
+S003,测试学生003,变量作用域-练习,python,success,,,64.8
+S003,测试学生003,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.3
+S003,测试学生003,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.0
+S004,测试学生004,函数定义-练习,python,success,,,11.5
+S004,测试学生004,参数传递-练习,python,success,,,28.0
+S004,测试学生004,返回值-练习,python,success,,,46.1
+S004,测试学生004,变量作用域-练习,python,success,,,64.9
+S004,测试学生004,递归入口-练习,python,success,,,83.9
+S005,测试学生005,函数定义-练习,python,success,,,10.5
+S005,测试学生005,参数传递-练习,python,success,,,28.1
+S005,测试学生005,返回值-练习,python,success,,,48.0
+S005,测试学生005,变量作用域-练习,python,success,,,65.4
+S005,测试学生005,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.3
+S005,测试学生005,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.0
+S005,测试学生005,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.8
+S006,测试学生006,函数定义-练习,python,success,,,10.6
+S006,测试学生006,参数传递-练习,python,success,,,29.0
+S006,测试学生006,返回值-练习,python,success,,,46.7
+S006,测试学生006,变量作用域-练习,python,success,,,65.7
+S006,测试学生006,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.9
+S006,测试学生006,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.1
+S007,测试学生007,函数定义-练习,python,success,,,10.4
+S007,测试学生007,参数传递-练习,python,success,,,29.8
+S007,测试学生007,返回值-练习,python,success,,,46.0
+S007,测试学生007,变量作用域-练习,python,success,,,64.5
+S007,测试学生007,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.4
+S007,测试学生007,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.2
+S007,测试学生007,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,85.0
+S008,测试学生008,函数定义-练习,python,success,,,10.2
+S008,测试学生008,参数传递-练习,python,wrong_answer,SyntaxError,参数传递 检查失败,28.3
+S008,测试学生008,返回值-练习,python,success,,,46.2
+S008,测试学生008,变量作用域-练习,python,success,,,64.9
+S008,测试学生008,递归入口-练习,python,success,,,83.1
+S009,测试学生009,函数定义-练习,python,success,,,11.0
+S009,测试学生009,参数传递-练习,python,success,,,29.9
+S009,测试学生009,返回值-练习,python,success,,,47.2
+S009,测试学生009,变量作用域-练习,python,success,,,65.4
+S009,测试学生009,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.9
+S010,测试学生010,函数定义-练习,python,wrong_answer,StateUpdate,函数定义 检查失败,11.5
+S010,测试学生010,参数传递-练习,python,success,,,29.2
+S010,测试学生010,返回值-练习,python,success,,,46.7
+S010,测试学生010,变量作用域-练习,python,wrong_answer,StateUpdate,变量作用域 检查失败,65.0
+S010,测试学生010,递归入口-练习,python,success,,,83.2
+S011,测试学生011,函数定义-练习,python,success,,,11.3
+S011,测试学生011,参数传递-练习,python,success,,,30.0
+S011,测试学生011,返回值-练习,python,success,,,47.7
+S011,测试学生011,变量作用域-练习,python,success,,,65.4
+S011,测试学生011,递归入口-练习,python,success,,,83.3
+S012,测试学生012,函数定义-练习,python,success,,,11.2
+S012,测试学生012,参数传递-练习,python,wrong_answer,SyntaxError,参数传递 检查失败,28.5
+S012,测试学生012,返回值-练习,python,success,,,47.7
+S012,测试学生012,变量作用域-练习,python,success,,,64.9
+S012,测试学生012,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.2
+S012,测试学生012,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.3
+S012,测试学生012,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.9
+S013,测试学生013,函数定义-练习,python,success,,,10.8
+S013,测试学生013,参数传递-练习,python,success,,,29.2
+S013,测试学生013,返回值-练习,python,success,,,47.1
+S013,测试学生013,变量作用域-练习,python,success,,,64.9
+S013,测试学生013,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.3
+S013,测试学生013,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.3
+S014,测试学生014,函数定义-练习,python,success,,,10.8
+S014,测试学生014,参数传递-练习,python,success,,,29.6
+S014,测试学生014,返回值-练习,python,success,,,47.5
+S014,测试学生014,变量作用域-练习,python,success,,,64.9
+S014,测试学生014,递归入口-练习,python,success,,,82.7
+S015,测试学生015,函数定义-练习,python,success,,,11.5
+S015,测试学生015,参数传递-练习,python,success,,,30.0
+S015,测试学生015,返回值-练习,python,success,,,47.8
+S015,测试学生015,变量作用域-练习,python,success,,,64.8
+S015,测试学生015,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.3
+S015,测试学生015,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.4
+S015,测试学生015,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,85.1
+S016,测试学生016,函数定义-练习,python,wrong_answer,StateUpdate,函数定义 检查失败,11.1
+S016,测试学生016,参数传递-练习,python,success,,,28.3
+S016,测试学生016,返回值-练习,python,success,,,46.4
+S016,测试学生016,变量作用域-练习,python,success,,,65.0
+S016,测试学生016,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.4
+S016,测试学生016,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.1
+S016,测试学生016,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.9
+S017,测试学生017,函数定义-练习,python,success,,,11.5
+S017,测试学生017,参数传递-练习,python,success,,,28.1
+S017,测试学生017,返回值-练习,python,wrong_answer,SyntaxError,返回值 检查失败,47.5
+S017,测试学生017,变量作用域-练习,python,success,,,65.7
+S017,测试学生017,递归入口-练习,python,success,,,83.8
+S018,测试学生018,函数定义-练习,python,success,,,11.9
+S018,测试学生018,参数传递-练习,python,success,,,29.8
+S018,测试学生018,返回值-练习,python,success,,,47.9
+S018,测试学生018,变量作用域-练习,python,success,,,64.9
+S018,测试学生018,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.9
+S018,测试学生018,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.2
+S018,测试学生018,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.9
+S019,测试学生019,函数定义-练习,python,success,,,11.3
+S019,测试学生019,参数传递-练习,python,success,,,29.1
+S019,测试学生019,返回值-练习,python,wrong_answer,RuntimeError,返回值 检查失败,46.1
+S019,测试学生019,变量作用域-练习,python,success,,,64.6
+S019,测试学生019,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.2
+S020,测试学生020,函数定义-练习,python,success,,,11.1
+S020,测试学生020,参数传递-练习,python,success,,,29.2
+S020,测试学生020,返回值-练习,python,success,,,46.5
+S020,测试学生020,变量作用域-练习,python,success,,,64.9
+S020,测试学生020,递归入口-练习,python,success,,,83.2
+S021,测试学生021,函数定义-练习,python,success,,,11.0
+S021,测试学生021,参数传递-练习,python,wrong_answer,BoundaryCondition,参数传递 检查失败,29.5
+S021,测试学生021,返回值-练习,python,success,,,47.1
+S021,测试学生021,变量作用域-练习,python,success,,,64.9
+S021,测试学生021,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.5
+S021,测试学生021,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.1
+S021,测试学生021,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,85.0
+S022,测试学生022,函数定义-练习,python,success,,,11.8
+S022,测试学生022,参数传递-练习,python,wrong_answer,StateUpdate,参数传递 检查失败,29.4
+S022,测试学生022,返回值-练习,python,success,,,46.9
+S022,测试学生022,变量作用域-练习,python,success,,,65.3
+S022,测试学生022,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.1
+S022,测试学生022,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.4
+S023,测试学生023,函数定义-练习,python,success,,,11.2
+S023,测试学生023,参数传递-练习,python,success,,,28.3
+S023,测试学生023,返回值-练习,python,success,,,47.9
+S023,测试学生023,变量作用域-练习,python,success,,,64.0
+S023,测试学生023,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.5
+S023,测试学生023,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.2
+S024,测试学生024,函数定义-练习,python,success,,,11.2
+S024,测试学生024,参数传递-练习,python,success,,,29.4
+S024,测试学生024,返回值-练习,python,success,,,47.1
+S024,测试学生024,变量作用域-练习,python,wrong_answer,WrongAnswer,变量作用域 检查失败,65.5
+S024,测试学生024,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.9
+S025,测试学生025,函数定义-练习,python,success,,,11.8
+S025,测试学生025,参数传递-练习,python,success,,,29.4
+S025,测试学生025,返回值-练习,python,success,,,46.6
+S025,测试学生025,变量作用域-练习,python,success,,,64.8
+S025,测试学生025,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.6
+S025,测试学生025,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.4
+S026,测试学生026,函数定义-练习,python,success,,,10.9
+S026,测试学生026,参数传递-练习,python,success,,,28.7
+S026,测试学生026,返回值-练习,python,success,,,47.5
+S026,测试学生026,变量作用域-练习,python,success,,,65.5
+S026,测试学生026,递归入口-练习,python,success,,,82.4
+S027,测试学生027,函数定义-练习,python,success,,,11.2
+S027,测试学生027,参数传递-练习,python,success,,,29.5
+S027,测试学生027,返回值-练习,python,wrong_answer,WrongAnswer,返回值 检查失败,48.0
+S027,测试学生027,变量作用域-练习,python,success,,,65.2
+S027,测试学生027,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.2
+S028,测试学生028,函数定义-练习,python,success,,,10.1
+S028,测试学生028,参数传递-练习,python,success,,,29.1
+S028,测试学生028,返回值-练习,python,success,,,47.7
+S028,测试学生028,变量作用域-练习,python,success,,,65.6
+S028,测试学生028,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.2
+S029,测试学生029,函数定义-练习,python,success,,,10.3
+S029,测试学生029,参数传递-练习,python,wrong_answer,SyntaxError,参数传递 检查失败,28.7
+S029,测试学生029,返回值-练习,python,success,,,47.4
+S029,测试学生029,变量作用域-练习,python,success,,,65.6
+S029,测试学生029,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.6
+S029,测试学生029,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.2
+S030,测试学生030,函数定义-练习,python,success,,,11.8
+S030,测试学生030,参数传递-练习,python,success,,,29.3
+S030,测试学生030,返回值-练习,python,wrong_answer,BoundaryCondition,返回值 检查失败,46.3
+S030,测试学生030,变量作用域-练习,python,success,,,64.2
+S030,测试学生030,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.2
+S031,测试学生031,函数定义-练习,python,success,,,11.3
+S031,测试学生031,参数传递-练习,python,success,,,28.7
+S031,测试学生031,返回值-练习,python,success,,,46.8
+S031,测试学生031,变量作用域-练习,python,success,,,64.8
+S031,测试学生031,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.6
+S031,测试学生031,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.1
+S031,测试学生031,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.9
+S032,测试学生032,函数定义-练习,python,success,,,11.5
+S032,测试学生032,参数传递-练习,python,success,,,28.9
+S032,测试学生032,返回值-练习,python,success,,,46.9
+S032,测试学生032,变量作用域-练习,python,success,,,65.6
+S032,测试学生032,递归入口-练习,python,success,,,83.8
+S033,测试学生033,函数定义-练习,python,wrong_answer,BoundaryCondition,函数定义 检查失败,10.3
+S033,测试学生033,参数传递-练习,python,success,,,29.1
+S033,测试学生033,返回值-练习,python,success,,,47.6
+S033,测试学生033,变量作用域-练习,python,success,,,65.8
+S033,测试学生033,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.8
+S033,测试学生033,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.1
+S034,测试学生034,函数定义-练习,python,success,,,10.7
+S034,测试学生034,参数传递-练习,python,success,,,28.1
+S034,测试学生034,返回值-练习,python,success,,,47.4
+S034,测试学生034,变量作用域-练习,python,success,,,65.9
+S034,测试学生034,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.1
+S034,测试学生034,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.3
+S035,测试学生035,函数定义-练习,python,wrong_answer,SyntaxError,函数定义 检查失败,11.4
+S035,测试学生035,参数传递-练习,python,wrong_answer,SyntaxError,参数传递 检查失败,28.6
+S035,测试学生035,返回值-练习,python,wrong_answer,WrongAnswer,返回值 检查失败,46.8
+S035,测试学生035,变量作用域-练习,python,wrong_answer,RuntimeError,变量作用域 检查失败,64.2
+S035,测试学生035,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.8
+S035,测试学生035,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.2
+S036,测试学生036,函数定义-练习,python,success,,,11.3
+S036,测试学生036,参数传递-练习,python,success,,,28.6
+S036,测试学生036,返回值-练习,python,success,,,48.0
+S036,测试学生036,变量作用域-练习,python,wrong_answer,StateUpdate,变量作用域 检查失败,64.7
+S036,测试学生036,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.3
+S036,测试学生036,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.3
+S037,测试学生037,函数定义-练习,python,wrong_answer,SyntaxError,函数定义 检查失败,10.3
+S037,测试学生037,参数传递-练习,python,wrong_answer,RuntimeError,参数传递 检查失败,28.6
+S037,测试学生037,返回值-练习,python,success,,,46.0
+S037,测试学生037,变量作用域-练习,python,success,,,64.1
+S037,测试学生037,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.0
+S038,测试学生038,函数定义-练习,python,wrong_answer,RuntimeError,函数定义 检查失败,11.0
+S038,测试学生038,参数传递-练习,python,success,,,29.5
+S038,测试学生038,返回值-练习,python,success,,,46.9
+S038,测试学生038,变量作用域-练习,python,success,,,64.5
+S038,测试学生038,递归入口-练习,python,success,,,83.7
+S039,测试学生039,函数定义-练习,python,success,,,10.4
+S039,测试学生039,参数传递-练习,python,wrong_answer,BoundaryCondition,参数传递 检查失败,29.3
+S039,测试学生039,返回值-练习,python,success,,,47.6
+S039,测试学生039,变量作用域-练习,python,success,,,64.5
+S039,测试学生039,递归入口-练习,python,success,,,83.8
+S040,测试学生040,函数定义-练习,python,success,,,10.6
+S040,测试学生040,参数传递-练习,python,success,,,29.4
+S040,测试学生040,返回值-练习,python,success,,,46.3
+S040,测试学生040,变量作用域-练习,python,success,,,65.7
+S040,测试学生040,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.5
+S041,测试学生041,函数定义-练习,python,success,,,10.1
+S041,测试学生041,参数传递-练习,python,success,,,28.9
+S041,测试学生041,返回值-练习,python,success,,,47.4
+S041,测试学生041,变量作用域-练习,python,success,,,65.2
+S041,测试学生041,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.3
+S041,测试学生041,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.4
+S041,测试学生041,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.9
+S042,测试学生042,函数定义-练习,python,success,,,10.4
+S042,测试学生042,参数传递-练习,python,success,,,28.1
+S042,测试学生042,返回值-练习,python,success,,,46.9
+S042,测试学生042,变量作用域-练习,python,success,,,65.5
+S042,测试学生042,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.7
+S042,测试学生042,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.4
+S043,测试学生043,函数定义-练习,python,success,,,10.4
+S043,测试学生043,参数传递-练习,python,success,,,28.1
+S043,测试学生043,返回值-练习,python,success,,,47.0
+S043,测试学生043,变量作用域-练习,python,success,,,65.8
+S043,测试学生043,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.6
+S043,测试学生043,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.2
+S044,测试学生044,函数定义-练习,python,success,,,10.0
+S044,测试学生044,参数传递-练习,python,success,,,28.0
+S044,测试学生044,返回值-练习,python,success,,,47.3
+S044,测试学生044,变量作用域-练习,python,success,,,64.5
+S044,测试学生044,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.4
+S044,测试学生044,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.1
+S044,测试学生044,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,85.1
+S045,测试学生045,函数定义-练习,python,wrong_answer,WrongAnswer,函数定义 检查失败,10.8
+S045,测试学生045,参数传递-练习,python,wrong_answer,BoundaryCondition,参数传递 检查失败,29.7
+S045,测试学生045,返回值-练习,python,success,,,47.0
+S045,测试学生045,变量作用域-练习,python,success,,,65.3
+S045,测试学生045,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.5
+S045,测试学生045,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.4
+S045,测试学生045,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,85.1
+S046,测试学生046,函数定义-练习,python,success,,,10.4
+S046,测试学生046,参数传递-练习,python,success,,,29.7
+S046,测试学生046,返回值-练习,python,success,,,46.7
+S046,测试学生046,变量作用域-练习,python,success,,,64.8
+S046,测试学生046,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.9
+S047,测试学生047,函数定义-练习,python,success,,,11.6
+S047,测试学生047,参数传递-练习,python,success,,,28.9
+S047,测试学生047,返回值-练习,python,success,,,47.3
+S047,测试学生047,变量作用域-练习,python,success,,,64.4
+S047,测试学生047,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,82.6
+S047,测试学生047,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.4
+S047,测试学生047,递归入口-练习,python,wrong_answer,ScopeError,重复出现 ScopeError,84.8
+S048,测试学生048,函数定义-练习,python,success,,,11.6
+S048,测试学生048,参数传递-练习,python,success,,,28.1
+S048,测试学生048,返回值-练习,python,success,,,47.4
+S048,测试学生048,变量作用域-练习,python,wrong_answer,StateUpdate,变量作用域 检查失败,64.2
+S048,测试学生048,递归入口-练习,python,wrong_answer,ScopeError,递归入口 检查失败,83.6

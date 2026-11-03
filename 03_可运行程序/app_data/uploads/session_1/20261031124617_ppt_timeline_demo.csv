@@ -1,0 +1,6 @@
+slide_index,start_minute,end_minute,slide_title
+1,0,12,课堂目标与输入输出
+2,12,28,条件判断
+3,28,48,while 循环
+4,48,68,循环边界与调试
+5,68,85,课堂小测与订正

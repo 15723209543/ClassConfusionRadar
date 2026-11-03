@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "19 信息安全 密码学基础",
+    "course_type": "信息安全",
+    "class_date": "2026-09-20",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "对称加密",
+      "topic_area": "信息安全",
+      "display_order": 1
+    },
+    {
+      "name": "公钥密码",
+      "topic_area": "信息安全",
+      "display_order": 2
+    },
+    {
+      "name": "哈希函数",
+      "topic_area": "信息安全",
+      "display_order": 3
+    },
+    {
+      "name": "数字签名",
+      "topic_area": "信息安全",
+      "display_order": 4
+    },
+    {
+      "name": "密钥管理",
+      "topic_area": "信息安全",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "数字签名"
+}

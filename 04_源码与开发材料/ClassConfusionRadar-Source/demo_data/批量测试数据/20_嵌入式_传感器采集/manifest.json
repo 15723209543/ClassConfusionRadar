@@ -1,0 +1,37 @@
+{
+  "session": {
+    "title": "20 嵌入式 传感器采集",
+    "course_type": "嵌入式系统",
+    "class_date": "2026-09-21",
+    "duration_minutes": 90
+  },
+  "knowledge_points": [
+    {
+      "name": "GPIO 接口",
+      "topic_area": "嵌入式系统",
+      "display_order": 1
+    },
+    {
+      "name": "ADC 采样",
+      "topic_area": "嵌入式系统",
+      "display_order": 2
+    },
+    {
+      "name": "定时器",
+      "topic_area": "嵌入式系统",
+      "display_order": 3
+    },
+    {
+      "name": "中断处理",
+      "topic_area": "嵌入式系统",
+      "display_order": 4
+    },
+    {
+      "name": "数据滤波",
+      "topic_area": "嵌入式系统",
+      "display_order": 5
+    }
+  ],
+  "data_note": "本数据集为项目测试用合成数据，不代表真实学生。",
+  "expected_focus": "中断处理"
+}
